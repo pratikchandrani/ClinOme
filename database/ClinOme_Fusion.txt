@@ -1,0 +1,1942 @@
+ID	Cancer_type_mapped	Drug_curated	Association	Evidence_mapped
+FGFR2--AHCYL1	Solid tumor	AZD4547(24122810)	Responsive	Pre_clinical
+FGFR2--AHCYL1	Solid tumor	BGJ398(24122810)	Responsive	Pre_clinical
+FGFR2--AHCYL1	Solid tumor	Debio1347(24122810)	Responsive	Pre_clinical
+FGFR2--AHCYL1	Solid tumor	Erdafitinib(24122810)	Responsive	Pre_clinical
+AKT3--.	Invasive Breast Carcinoma	ATP competitive AKT inhibitors(22722202)	Responsive	Pre_clinical
+AKT3--.	Invasive Breast Carcinoma	ATP competitive AKT inhibitors(22722202)	Responsive	Pre_clinical
+ALK--.	Non-Small Cell Lung Cancer	Alectinib	Responsive	Approved
+ALK--.	Non-Small Cell Lung Cancer	Brigatinib	Responsive	Approved
+ALK--.	Non-Small Cell Lung Cancer	Ceritinib	Responsive	Approved
+ALK--.	Non-Small Cell Lung Cancer	Crizotinib	Responsive	Approved
+ALK--.	Lung Adenocarcinoma	Alectinib	Responsive	Approved
+ALK--.	Lung Adenocarcinoma	Ceritinib	Responsive	Approved
+ALK--.	Lung Adenocarcinoma	Crizotinib	Responsive	Approved
+ALK--.	Inflammatory Myofibroblastic Tumor	Ceritinib	Responsive	Approved
+ALK--.	Inflammatory Myofibroblastic Tumor	Crizotinib	Responsive	Approved
+ALK--.	Non-Small Cell Lung Cancer	Lorlatinib	Responsive	Approved
+ALK--.	Hematologic cancer	Ceritinib(NCT02186821)	Responsive	Clinical_trial
+ALK--.	Glioblastoma	Crizotinib(24491302;NCT02270034)	Responsive	Clinical_trial
+ALK--.	Lymphoid Neoplasm	Crizotinib(24491302;NCT02270034)	Responsive	Clinical_trial
+ALK--.	Lung Adenocarcinoma	HSP90 inhibitors(23553849)	Responsive	Clinical_trial
+ALK--.	Non-Small Cell Lung Cancer	Lorlatinib(26951079)	Responsive	Clinical_trial
+ALK--.	Lung Adenocarcinoma	novel ALK inhibitors(23639470)	Responsive	Clinical_trial
+ALK--.	Lung Adenocarcinoma	ALK inhibitor + IGF1R inhibitors(25173427)	Responsive	Pre_clinical
+ALK--.	Lung Adenocarcinoma	ALK inhibitor + MEK inhibitors(26301689)	Responsive	Pre_clinical
+ALK--.	Lung Adenocarcinoma	ALK inhibitor + SRC inhibitors(25394791)	Responsive	Pre_clinical
+ALK--.	Colorectal Adenocarcinoma	ALK inhibitors(26633560)	Responsive	Pre_clinical
+ALK--.	Colorectal Adenocarcinoma	Ceritinib(26633560;26933125;27742657)	Responsive	Pre_clinical
+ALK--.	Inflammatory Myofibroblastic Tumor	Ceritinib(26633560;26933125;27742657)	Responsive	Pre_clinical
+ALK--.	Inflammatory Myofibroblastic Tumor	Crizotinib(20979472;24687827)	Responsive	Pre_clinical
+ALK--.	Thyroid Cancer	Crizotinib(20979472;24687827)	Responsive	Pre_clinical
+ALK--.	Colorectal Adenocarcinoma	Entrictinib(26633560;26933125)	Responsive	Pre_clinical
+CAD--ALK	Non-Small Cell Lung Cancer	Brigatinib	Responsive	Approved
+CAD--ALK	Non-Small Cell Lung Cancer	Lorlatinib	Responsive	Approved
+EML4--ALK	Non-Small Cell Lung Cancer	Brigatinib	Responsive	Approved
+EML4--ALK	Non-Small Cell Lung Cancer	Lorlatinib	Responsive	Approved
+KIF5B--ALK	Non-Small Cell Lung Cancer	Brigatinib	Responsive	Approved
+KIF5B--ALK	Non-Small Cell Lung Cancer	Lorlatinib	Responsive	Approved
+NPM--ALK	Non-Small Cell Lung Cancer	Brigatinib	Responsive	Approved
+NPM--ALK	Non-Small Cell Lung Cancer	Lorlatinib	Responsive	Approved
+RANBP1--ALK	Non-Small Cell Lung Cancer	Brigatinib	Responsive	Approved
+RANBP1--ALK	Non-Small Cell Lung Cancer	Lorlatinib	Responsive	Approved
+RANBP2--ALK	Non-Small Cell Lung Cancer	Brigatinib	Responsive	Approved
+RANBP2--ALK	Non-Small Cell Lung Cancer	Lorlatinib	Responsive	Approved
+STRN--ALK	Non-Small Cell Lung Cancer	Brigatinib	Responsive	Approved
+STRN--ALK	Non-Small Cell Lung Cancer	Lorlatinib	Responsive	Approved
+BRAF--.	Langerhans Cell Histiocytosis	Cobimetinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Langerhans Cell Histiocytosis	Cobimetinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Langerhans Cell Histiocytosis	Cobimetinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Langerhans Cell Histiocytosis	Cobimetinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Langerhans Cell Histiocytosis	Cobimetinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Langerhans Cell Histiocytosis	Cobimetinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Langerhans Cell Histiocytosis	Cobimetinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Langerhans Cell Histiocytosis	Cobimetinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Langerhans Cell Histiocytosis	Cobimetinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Melanoma	Cobimetinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Melanoma	Cobimetinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Melanoma	Cobimetinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Melanoma	Cobimetinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Melanoma	Cobimetinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Melanoma	Cobimetinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Melanoma	Cobimetinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Melanoma	Cobimetinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Melanoma	Cobimetinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Ovarian-Fallopian Tube Cancer	Cobimetinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Ovarian-Fallopian Tube Cancer	Cobimetinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Ovarian-Fallopian Tube Cancer	Cobimetinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Ovarian-Fallopian Tube Cancer	Cobimetinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Ovarian-Fallopian Tube Cancer	Cobimetinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Ovarian-Fallopian Tube Cancer	Cobimetinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Ovarian-Fallopian Tube Cancer	Cobimetinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Ovarian-Fallopian Tube Cancer	Cobimetinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Ovarian-Fallopian Tube Cancer	Cobimetinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Melanoma	Trametinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Melanoma	Trametinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Melanoma	Trametinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Melanoma	Trametinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Melanoma	Trametinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Melanoma	Trametinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Melanoma	Trametinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Melanoma	Trametinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Melanoma	Trametinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Ovarian-Fallopian Tube Cancer	Trametinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Ovarian-Fallopian Tube Cancer	Trametinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Ovarian-Fallopian Tube Cancer	Trametinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Ovarian-Fallopian Tube Cancer	Trametinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Ovarian-Fallopian Tube Cancer	Trametinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Ovarian-Fallopian Tube Cancer	Trametinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Ovarian-Fallopian Tube Cancer	Trametinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Ovarian-Fallopian Tube Cancer	Trametinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Ovarian-Fallopian Tube Cancer	Trametinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Lung Adenocarcinoma	BRAF inhibitor + MEK inhibitors(ASCO 2017 (abstr 9072))	Responsive	Pre_clinical
+BRAF--.	Lung Adenocarcinoma	BRAF inhibitor + MEK inhibitors(ASCO 2017 (abstr 9072))	Responsive	Pre_clinical
+BRAF--.	Lung Adenocarcinoma	BRAF inhibitor + MEK inhibitors(ASCO 2017 (abstr 9072))	Responsive	Pre_clinical
+BRAF--.	Lung Adenocarcinoma	BRAF inhibitor + MEK inhibitors(ASCO 2017 (abstr 9072))	Responsive	Pre_clinical
+BRAF--.	Lung Adenocarcinoma	BRAF inhibitor + MEK inhibitors(ASCO 2017 (abstr 9072))	Responsive	Pre_clinical
+BRAF--.	Lung Adenocarcinoma	BRAF inhibitor + MEK inhibitors(ASCO 2017 (abstr 9072))	Responsive	Pre_clinical
+BRAF--.	Lung Adenocarcinoma	BRAF inhibitor + MEK inhibitors(ASCO 2017 (abstr 9072))	Responsive	Pre_clinical
+BRAF--.	Lung Adenocarcinoma	BRAF inhibitor + MEK inhibitors(ASCO 2017 (abstr 9072))	Responsive	Pre_clinical
+BRAF--.	Lung Adenocarcinoma	BRAF inhibitor + MEK inhibitors(ASCO 2017 (abstr 9072))	Responsive	Pre_clinical
+BRAF--.	Cutaneous Melanoma	MEK inhibitors(24727320;24345920;20526349)	Responsive	Pre_clinical
+BRAF--.	Cutaneous Melanoma	MEK inhibitors(24727320;24345920;20526349)	Responsive	Pre_clinical
+BRAF--.	Cutaneous Melanoma	MEK inhibitors(24727320;24345920;20526349)	Responsive	Pre_clinical
+BRAF--.	Cutaneous Melanoma	MEK inhibitors(24727320;24345920;20526349)	Responsive	Pre_clinical
+BRAF--.	Cutaneous Melanoma	MEK inhibitors(24727320;24345920;20526349)	Responsive	Pre_clinical
+BRAF--.	Cutaneous Melanoma	MEK inhibitors(24727320;24345920;20526349)	Responsive	Pre_clinical
+BRAF--.	Cutaneous Melanoma	MEK inhibitors(24727320;24345920;20526349)	Responsive	Pre_clinical
+BRAF--.	Cutaneous Melanoma	MEK inhibitors(24727320;24345920;20526349)	Responsive	Pre_clinical
+BRAF--.	Cutaneous Melanoma	MEK inhibitors(24727320;24345920;20526349)	Responsive	Pre_clinical
+BRAF--.	Lung Adenocarcinoma	MEK inhibitors(24727320;24345920;20526349)	Responsive	Pre_clinical
+BRAF--.	Lung Adenocarcinoma	MEK inhibitors(24727320;24345920;20526349)	Responsive	Pre_clinical
+BRAF--.	Lung Adenocarcinoma	MEK inhibitors(24727320;24345920;20526349)	Responsive	Pre_clinical
+BRAF--.	Lung Adenocarcinoma	MEK inhibitors(24727320;24345920;20526349)	Responsive	Pre_clinical
+BRAF--.	Lung Adenocarcinoma	MEK inhibitors(24727320;24345920;20526349)	Responsive	Pre_clinical
+BRAF--.	Lung Adenocarcinoma	MEK inhibitors(24727320;24345920;20526349)	Responsive	Pre_clinical
+BRAF--.	Lung Adenocarcinoma	MEK inhibitors(24727320;24345920;20526349)	Responsive	Pre_clinical
+BRAF--.	Lung Adenocarcinoma	MEK inhibitors(24727320;24345920;20526349)	Responsive	Pre_clinical
+BRAF--.	Lung Adenocarcinoma	MEK inhibitors(24727320;24345920;20526349)	Responsive	Pre_clinical
+BRAF--.	Prostate Adenocarcinoma	MEK inhibitors(24727320;24345920;20526349)	Responsive	Pre_clinical
+BRAF--.	Prostate Adenocarcinoma	MEK inhibitors(24727320;24345920;20526349)	Responsive	Pre_clinical
+BRAF--.	Prostate Adenocarcinoma	MEK inhibitors(24727320;24345920;20526349)	Responsive	Pre_clinical
+BRAF--.	Prostate Adenocarcinoma	MEK inhibitors(24727320;24345920;20526349)	Responsive	Pre_clinical
+BRAF--.	Prostate Adenocarcinoma	MEK inhibitors(24727320;24345920;20526349)	Responsive	Pre_clinical
+BRAF--.	Prostate Adenocarcinoma	MEK inhibitors(24727320;24345920;20526349)	Responsive	Pre_clinical
+BRAF--.	Prostate Adenocarcinoma	MEK inhibitors(24727320;24345920;20526349)	Responsive	Pre_clinical
+BRAF--.	Prostate Adenocarcinoma	MEK inhibitors(24727320;24345920;20526349)	Responsive	Pre_clinical
+BRAF--.	Prostate Adenocarcinoma	MEK inhibitors(24727320;24345920;20526349)	Responsive	Pre_clinical
+BRAF--.	Ovarian-Fallopian Tube Cancer	Selumetinib(26324360)	Responsive	Pre_clinical
+BRAF--.	Ovarian-Fallopian Tube Cancer	Selumetinib(26324360)	Responsive	Pre_clinical
+BRAF--.	Ovarian-Fallopian Tube Cancer	Selumetinib(26324360)	Responsive	Pre_clinical
+BRAF--.	Ovarian-Fallopian Tube Cancer	Selumetinib(26324360)	Responsive	Pre_clinical
+BRAF--.	Ovarian-Fallopian Tube Cancer	Selumetinib(26324360)	Responsive	Pre_clinical
+BRAF--.	Ovarian-Fallopian Tube Cancer	Selumetinib(26324360)	Responsive	Pre_clinical
+BRAF--.	Ovarian-Fallopian Tube Cancer	Selumetinib(26324360)	Responsive	Pre_clinical
+BRAF--.	Ovarian-Fallopian Tube Cancer	Selumetinib(26324360)	Responsive	Pre_clinical
+BRAF--.	Ovarian-Fallopian Tube Cancer	Selumetinib(26324360)	Responsive	Pre_clinical
+BRAF--.	Cutaneous Melanoma	Sorafenib(238900088;20526349;24727320)	Responsive	Pre_clinical
+BRAF--.	Cutaneous Melanoma	Sorafenib(238900088;20526349;24727320)	Responsive	Pre_clinical
+BRAF--.	Cutaneous Melanoma	Sorafenib(238900088;20526349;24727320)	Responsive	Pre_clinical
+BRAF--.	Cutaneous Melanoma	Sorafenib(238900088;20526349;24727320)	Responsive	Pre_clinical
+BRAF--.	Cutaneous Melanoma	Sorafenib(238900088;20526349;24727320)	Responsive	Pre_clinical
+BRAF--.	Cutaneous Melanoma	Sorafenib(238900088;20526349;24727320)	Responsive	Pre_clinical
+BRAF--.	Cutaneous Melanoma	Sorafenib(238900088;20526349;24727320)	Responsive	Pre_clinical
+BRAF--.	Cutaneous Melanoma	Sorafenib(238900088;20526349;24727320)	Responsive	Pre_clinical
+BRAF--.	Cutaneous Melanoma	Sorafenib(238900088;20526349;24727320)	Responsive	Pre_clinical
+BRAF--.	Lung Adenocarcinoma	Sorafenib(238900088;20526349;24727320)	Responsive	Pre_clinical
+BRAF--.	Lung Adenocarcinoma	Sorafenib(238900088;20526349;24727320)	Responsive	Pre_clinical
+BRAF--.	Lung Adenocarcinoma	Sorafenib(238900088;20526349;24727320)	Responsive	Pre_clinical
+BRAF--.	Lung Adenocarcinoma	Sorafenib(238900088;20526349;24727320)	Responsive	Pre_clinical
+BRAF--.	Lung Adenocarcinoma	Sorafenib(238900088;20526349;24727320)	Responsive	Pre_clinical
+BRAF--.	Lung Adenocarcinoma	Sorafenib(238900088;20526349;24727320)	Responsive	Pre_clinical
+BRAF--.	Lung Adenocarcinoma	Sorafenib(238900088;20526349;24727320)	Responsive	Pre_clinical
+BRAF--.	Lung Adenocarcinoma	Sorafenib(238900088;20526349;24727320)	Responsive	Pre_clinical
+BRAF--.	Lung Adenocarcinoma	Sorafenib(238900088;20526349;24727320)	Responsive	Pre_clinical
+BRAF--.	Prostate Adenocarcinoma	Sorafenib(238900088;20526349;24727320)	Responsive	Pre_clinical
+BRAF--.	Prostate Adenocarcinoma	Sorafenib(238900088;20526349;24727320)	Responsive	Pre_clinical
+BRAF--.	Prostate Adenocarcinoma	Sorafenib(238900088;20526349;24727320)	Responsive	Pre_clinical
+BRAF--.	Prostate Adenocarcinoma	Sorafenib(238900088;20526349;24727320)	Responsive	Pre_clinical
+BRAF--.	Prostate Adenocarcinoma	Sorafenib(238900088;20526349;24727320)	Responsive	Pre_clinical
+BRAF--.	Prostate Adenocarcinoma	Sorafenib(238900088;20526349;24727320)	Responsive	Pre_clinical
+BRAF--.	Prostate Adenocarcinoma	Sorafenib(238900088;20526349;24727320)	Responsive	Pre_clinical
+BRAF--.	Prostate Adenocarcinoma	Sorafenib(238900088;20526349;24727320)	Responsive	Pre_clinical
+BRAF--.	Prostate Adenocarcinoma	Sorafenib(238900088;20526349;24727320)	Responsive	Pre_clinical
+AGAP3--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(30279230, 28539463)	Responsive	Clinical_trial
+AGAP3--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(30279230, 28539463)	Responsive	Clinical_trial
+AGAP3--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(30279230, 28539463)	Responsive	Clinical_trial
+AGAP3--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(30279230, 28539463)	Responsive	Clinical_trial
+AGAP3--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(30279230, 28539463)	Responsive	Clinical_trial
+AGAP3--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(30279230, 28539463)	Responsive	Clinical_trial
+AGAP3--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(30279230, 28539463)	Responsive	Clinical_trial
+AGAP3--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(30279230, 28539463)	Responsive	Clinical_trial
+AGAP3--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(30279230, 28539463)	Responsive	Clinical_trial
+AGK--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(26314551, 23890088, 24135138)	Responsive	Clinical_trial
+AGK--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(26314551, 23890088, 24135138)	Responsive	Clinical_trial
+AGK--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(26314551, 23890088, 24135138)	Responsive	Clinical_trial
+AGK--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(26314551, 23890088, 24135138)	Responsive	Clinical_trial
+AGK--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(26314551, 23890088, 24135138)	Responsive	Clinical_trial
+AGK--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(26314551, 23890088, 24135138)	Responsive	Clinical_trial
+AGK--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(26314551, 23890088, 24135138)	Responsive	Clinical_trial
+AGK--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(26314551, 23890088, 24135138)	Responsive	Clinical_trial
+AGK--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(26314551, 23890088, 24135138)	Responsive	Clinical_trial
+AKAP9--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(15630448)	Responsive	Clinical_trial
+AKAP9--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(15630448)	Responsive	Clinical_trial
+AKAP9--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(15630448)	Responsive	Clinical_trial
+AKAP9--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(15630448)	Responsive	Clinical_trial
+AKAP9--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(15630448)	Responsive	Clinical_trial
+AKAP9--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(15630448)	Responsive	Clinical_trial
+AKAP9--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(15630448)	Responsive	Clinical_trial
+AKAP9--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(15630448)	Responsive	Clinical_trial
+AKAP9--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(15630448)	Responsive	Clinical_trial
+ARMC10--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(30279230)	Responsive	Clinical_trial
+ARMC10--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(30279230)	Responsive	Clinical_trial
+ARMC10--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(30279230)	Responsive	Clinical_trial
+ARMC10--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(30279230)	Responsive	Clinical_trial
+ARMC10--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(30279230)	Responsive	Clinical_trial
+ARMC10--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(30279230)	Responsive	Clinical_trial
+ARMC10--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(30279230)	Responsive	Clinical_trial
+ARMC10--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(30279230)	Responsive	Clinical_trial
+ARMC10--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(30279230)	Responsive	Clinical_trial
+CUL1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(25985019, 22745804, 15630448, 26324360)	Responsive	Clinical_trial
+CUL1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(25985019, 22745804, 15630448, 26324360)	Responsive	Clinical_trial
+CUL1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(25985019, 22745804, 15630448, 26324360)	Responsive	Clinical_trial
+CUL1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(25985019, 22745804, 15630448, 26324360)	Responsive	Clinical_trial
+CUL1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(25985019, 22745804, 15630448, 26324360)	Responsive	Clinical_trial
+CUL1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(25985019, 22745804, 15630448, 26324360)	Responsive	Clinical_trial
+CUL1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(25985019, 22745804, 15630448, 26324360)	Responsive	Clinical_trial
+CUL1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(25985019, 22745804, 15630448, 26324360)	Responsive	Clinical_trial
+CUL1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(25985019, 22745804, 15630448, 26324360)	Responsive	Clinical_trial
+FAM131B--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(25040262, 15630448, 21424530)	Responsive	Clinical_trial
+FAM131B--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(25040262, 15630448, 21424530)	Responsive	Clinical_trial
+FAM131B--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(25040262, 15630448, 21424530)	Responsive	Clinical_trial
+FAM131B--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(25040262, 15630448, 21424530)	Responsive	Clinical_trial
+FAM131B--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(25040262, 15630448, 21424530)	Responsive	Clinical_trial
+FAM131B--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(25040262, 15630448, 21424530)	Responsive	Clinical_trial
+FAM131B--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(25040262, 15630448, 21424530)	Responsive	Clinical_trial
+FAM131B--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(25040262, 15630448, 21424530)	Responsive	Clinical_trial
+FAM131B--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(25040262, 15630448, 21424530)	Responsive	Clinical_trial
+GTF2I--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(26314551, 28448514)	Responsive	Clinical_trial
+GTF2I--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(26314551, 28448514)	Responsive	Clinical_trial
+GTF2I--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(26314551, 28448514)	Responsive	Clinical_trial
+GTF2I--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(26314551, 28448514)	Responsive	Clinical_trial
+GTF2I--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(26314551, 28448514)	Responsive	Clinical_trial
+GTF2I--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(26314551, 28448514)	Responsive	Clinical_trial
+GTF2I--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(26314551, 28448514)	Responsive	Clinical_trial
+GTF2I--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(26314551, 28448514)	Responsive	Clinical_trial
+GTF2I--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(26314551, 28448514)	Responsive	Clinical_trial
+JAK2--BRAF	Acute lymphoblastic leukemia	Ruxolitinib(22875628;22899477)	Responsive	Pre_clinical
+JAK2--BRAF	Acute lymphoblastic leukemia	Ruxolitinib(22875628;22899477)	Responsive	Pre_clinical
+JAK2--BRAF	Acute lymphoblastic leukemia	Ruxolitinib(22875628;22899477)	Responsive	Pre_clinical
+JAK2--BRAF	Acute lymphoblastic leukemia	Ruxolitinib(22875628;22899477)	Responsive	Pre_clinical
+JAK2--BRAF	Acute lymphoblastic leukemia	Ruxolitinib(22875628;22899477)	Responsive	Pre_clinical
+JAK2--BRAF	Acute lymphoblastic leukemia	Ruxolitinib(22875628;22899477)	Responsive	Pre_clinical
+JAK2--BRAF	Acute lymphoblastic leukemia	Ruxolitinib(22875628;22899477)	Responsive	Pre_clinical
+JAK2--BRAF	Acute lymphoblastic leukemia	Ruxolitinib(22875628;22899477)	Responsive	Pre_clinical
+JAK2--BRAF	Acute lymphoblastic leukemia	Ruxolitinib(22875628;22899477)	Responsive	Pre_clinical
+KIAA1549--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(18974108, 23533272, 24345920, 26072686)	Responsive	Clinical_trial
+KIAA1549--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(18974108, 23533272, 24345920, 26072686)	Responsive	Clinical_trial
+KIAA1549--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(18974108, 23533272, 24345920, 26072686)	Responsive	Clinical_trial
+KIAA1549--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(18974108, 23533272, 24345920, 26072686)	Responsive	Clinical_trial
+KIAA1549--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(18974108, 23533272, 24345920, 26072686)	Responsive	Clinical_trial
+KIAA1549--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(18974108, 23533272, 24345920, 26072686)	Responsive	Clinical_trial
+KIAA1549--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(18974108, 23533272, 24345920, 26072686)	Responsive	Clinical_trial
+KIAA1549--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(18974108, 23533272, 24345920, 26072686)	Responsive	Clinical_trial
+KIAA1549--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(18974108, 23533272, 24345920, 26072686)	Responsive	Clinical_trial
+MKRN1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(18974108, 26314551, 15630448, 26324360, 23817572)	Responsive	Clinical_trial
+MKRN1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(18974108, 26314551, 15630448, 26324360, 23817572)	Responsive	Clinical_trial
+MKRN1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(18974108, 26314551, 15630448, 26324360, 23817572)	Responsive	Clinical_trial
+MKRN1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(18974108, 26314551, 15630448, 26324360, 23817572)	Responsive	Clinical_trial
+MKRN1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(18974108, 26314551, 15630448, 26324360, 23817572)	Responsive	Clinical_trial
+MKRN1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(18974108, 26314551, 15630448, 26324360, 23817572)	Responsive	Clinical_trial
+MKRN1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(18974108, 26314551, 15630448, 26324360, 23817572)	Responsive	Clinical_trial
+MKRN1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(18974108, 26314551, 15630448, 26324360, 23817572)	Responsive	Clinical_trial
+MKRN1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(18974108, 26314551, 15630448, 26324360, 23817572)	Responsive	Clinical_trial
+PAPSS1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(15630448, 24345920)	Responsive	Clinical_trial
+PAPSS1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(15630448, 24345920)	Responsive	Clinical_trial
+PAPSS1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(15630448, 24345920)	Responsive	Clinical_trial
+PAPSS1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(15630448, 24345920)	Responsive	Clinical_trial
+PAPSS1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(15630448, 24345920)	Responsive	Clinical_trial
+PAPSS1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(15630448, 24345920)	Responsive	Clinical_trial
+PAPSS1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(15630448, 24345920)	Responsive	Clinical_trial
+PAPSS1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(15630448, 24345920)	Responsive	Clinical_trial
+PAPSS1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(15630448, 24345920)	Responsive	Clinical_trial
+PCBP2--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(18974108, 26343582, 22745804, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+PCBP2--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(18974108, 26343582, 22745804, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+PCBP2--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(18974108, 26343582, 22745804, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+PCBP2--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(18974108, 26343582, 22745804, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+PCBP2--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(18974108, 26343582, 22745804, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+PCBP2--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(18974108, 26343582, 22745804, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+PCBP2--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(18974108, 26343582, 22745804, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+PCBP2--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(18974108, 26343582, 22745804, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+PCBP2--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(18974108, 26343582, 22745804, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+PPFIBP2--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(26072686)	Responsive	Clinical_trial
+PPFIBP2--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(26072686)	Responsive	Clinical_trial
+PPFIBP2--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(26072686)	Responsive	Clinical_trial
+PPFIBP2--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(26072686)	Responsive	Clinical_trial
+PPFIBP2--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(26072686)	Responsive	Clinical_trial
+PPFIBP2--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(26072686)	Responsive	Clinical_trial
+PPFIBP2--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(26072686)	Responsive	Clinical_trial
+PPFIBP2--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(26072686)	Responsive	Clinical_trial
+PPFIBP2--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(26072686)	Responsive	Clinical_trial
+SND1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(25266736, 25985019, 22745804, 24345920)	Responsive	Clinical_trial
+SND1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(25266736, 25985019, 22745804, 24345920)	Responsive	Clinical_trial
+SND1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(25266736, 25985019, 22745804, 24345920)	Responsive	Clinical_trial
+SND1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(25266736, 25985019, 22745804, 24345920)	Responsive	Clinical_trial
+SND1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(25266736, 25985019, 22745804, 24345920)	Responsive	Clinical_trial
+SND1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(25266736, 25985019, 22745804, 24345920)	Responsive	Clinical_trial
+SND1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(25266736, 25985019, 22745804, 24345920)	Responsive	Clinical_trial
+SND1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(25266736, 25985019, 22745804, 24345920)	Responsive	Clinical_trial
+SND1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(25266736, 25985019, 22745804, 24345920)	Responsive	Clinical_trial
+TRIM24--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(15630448, 24345920)	Responsive	Clinical_trial
+TRIM24--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(15630448, 24345920)	Responsive	Clinical_trial
+TRIM24--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(15630448, 24345920)	Responsive	Clinical_trial
+TRIM24--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(15630448, 24345920)	Responsive	Clinical_trial
+TRIM24--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(15630448, 24345920)	Responsive	Clinical_trial
+TRIM24--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(15630448, 24345920)	Responsive	Clinical_trial
+TRIM24--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(15630448, 24345920)	Responsive	Clinical_trial
+TRIM24--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(15630448, 24345920)	Responsive	Clinical_trial
+TRIM24--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(15630448, 24345920)	Responsive	Clinical_trial
+ZKSCAN1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(26314551)	Responsive	Clinical_trial
+ZKSCAN1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(26314551)	Responsive	Clinical_trial
+ZKSCAN1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(26314551)	Responsive	Clinical_trial
+ZKSCAN1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(26314551)	Responsive	Clinical_trial
+ZKSCAN1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(26314551)	Responsive	Clinical_trial
+ZKSCAN1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(26314551)	Responsive	Clinical_trial
+ZKSCAN1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(26314551)	Responsive	Clinical_trial
+ZKSCAN1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(26314551)	Responsive	Clinical_trial
+ZKSCAN1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(26314551)	Responsive	Clinical_trial
+CAD--ALK	Non-Small Cell Lung Cancer	Brigatinib	Responsive	Approved
+CAD--ALK	Non-Small Cell Lung Cancer	Brigatinib	Responsive	Approved
+CAD--ALK	Non-Small Cell Lung Cancer	Lorlatinib	Responsive	Approved
+CAD--ALK	Non-Small Cell Lung Cancer	Lorlatinib	Responsive	Approved
+CCDC6--RET	Medullary Thyroid Cancer	BLU-667(23578175, 30073261, 30257958, 30487236)	Responsive	Clinical_trial
+CCDC6--RET	Medullary Thyroid Cancer	LOXO-292(23578175, 30073261, 30257958, 30487236)	Responsive	Clinical_trial
+FGFR2--CCDC6	Solid tumor	AZD4547(23558953)	Responsive	Pre_clinical
+FGFR2--CCDC6	Solid tumor	BGJ398(23558953)	Responsive	Pre_clinical
+FGFR2--CCDC6	Solid tumor	Debio1347(23558953)	Responsive	Pre_clinical
+FGFR2--CCDC6	Solid tumor	Erdafitinib(23558953)	Responsive	Pre_clinical
+CDK5RAP2--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+EGFR--RAD51	Lung Carcinoid	Erlotinib(27102076)	Responsive	Pre_clinical
+EGFR--RAD51	Lung Carcinoid	Erlotinib(27102076)	Responsive	Pre_clinical
+EGFR--RAD51	Lung Carcinoid	Erlotinib(27102076)	Responsive	Pre_clinical
+EGFR--RAD51	Lung Carcinoid	Erlotinib(27102076)	Responsive	Pre_clinical
+EGFR--RAD51	Lung Carcinoid	Erlotinib(27102076)	Responsive	Pre_clinical
+EGFR--RAD51	Lung Carcinoid	Erlotinib(27102076)	Responsive	Pre_clinical
+EGFR--RAD51	Lung Carcinoid	Erlotinib(27102076)	Responsive	Pre_clinical
+EGFR--RAD51	Non-Small Cell Lung Cancer	Erlotinib(27102076)	Responsive	Pre_clinical
+EGFR--RAD51	Non-Small Cell Lung Cancer	Erlotinib(27102076)	Responsive	Pre_clinical
+EGFR--RAD51	Non-Small Cell Lung Cancer	Erlotinib(27102076)	Responsive	Pre_clinical
+EGFR--RAD51	Non-Small Cell Lung Cancer	Erlotinib(27102076)	Responsive	Pre_clinical
+EGFR--RAD51	Non-Small Cell Lung Cancer	Erlotinib(27102076)	Responsive	Pre_clinical
+EGFR--RAD51	Non-Small Cell Lung Cancer	Erlotinib(27102076)	Responsive	Pre_clinical
+EGFR--RAD51	Non-Small Cell Lung Cancer	Erlotinib(27102076)	Responsive	Pre_clinical
+ERBB4--.	Lung Adenocarcinoma	Lapatinib + Afatinib(24727320)	Responsive	Pre_clinical
+ESRP1--RAF1	Langerhans Cell Histiocytosis	Cobimetinib(20526349)	Responsive	Clinical_trial
+FGFR2--FAM76A	Solid tumor	AZD4547(24563622)	Responsive	Pre_clinical
+FGFR2--FAM76A	Solid tumor	BGJ398(24563622)	Responsive	Pre_clinical
+FGFR2--FAM76A	Solid tumor	Debio1347(24563622)	Responsive	Pre_clinical
+FGFR2--FAM76A	Solid tumor	Erdafitinib(24563622)	Responsive	Pre_clinical
+FGFR1--.	Solid tumor	AZD4547(23558953)	Responsive	Pre_clinical
+FGFR1--.	Solid tumor	AZD4547(23558953)	Responsive	Pre_clinical
+FGFR1--.	Solid tumor	BGJ398(23558953)	Responsive	Pre_clinical
+FGFR1--.	Solid tumor	BGJ398(23558953)	Responsive	Pre_clinical
+FGFR1--.	Solid tumor	Debio1347(23558953)	Responsive	Pre_clinical
+FGFR1--.	Solid tumor	Debio1347(23558953)	Responsive	Pre_clinical
+FGFR1--.	Solid tumor	Erdafitinib(23558953)	Responsive	Pre_clinical
+FGFR1--.	Solid tumor	Erdafitinib(23558953)	Responsive	Pre_clinical
+FGFR1--TACC1	Solid tumor	AZD4547(22837387, 23558953)	Responsive	Pre_clinical
+FGFR1--TACC1	Solid tumor	AZD4547(22837387, 23558953)	Responsive	Pre_clinical
+FGFR1--TACC1	Solid tumor	BGJ398(22837387, 23558953)	Responsive	Pre_clinical
+FGFR1--TACC1	Solid tumor	BGJ398(22837387, 23558953)	Responsive	Pre_clinical
+FGFR1--TACC1	Solid tumor	Debio1347(22837387, 23558953)	Responsive	Pre_clinical
+FGFR1--TACC1	Solid tumor	Debio1347(22837387, 23558953)	Responsive	Pre_clinical
+FGFR1--TACC1	Solid tumor	Erdafitinib(22837387, 23558953)	Responsive	Pre_clinical
+FGFR1--TACC1	Solid tumor	Erdafitinib(22837387, 23558953)	Responsive	Pre_clinical
+BCR--FGFR1	Solid tumor	AZD4547(29720732, 11739186, 20226962)	Responsive	Pre_clinical
+BCR--FGFR1	Solid tumor	AZD4547(29720732, 11739186, 20226962)	Responsive	Pre_clinical
+BCR--FGFR1	Solid tumor	BGJ398(29720732, 11739186, 20226962)	Responsive	Pre_clinical
+BCR--FGFR1	Solid tumor	BGJ398(29720732, 11739186, 20226962)	Responsive	Pre_clinical
+BCR--FGFR1	Solid tumor	Debio1347(29720732, 11739186, 20226962)	Responsive	Pre_clinical
+BCR--FGFR1	Solid tumor	Debio1347(29720732, 11739186, 20226962)	Responsive	Pre_clinical
+BCR--FGFR1	Solid tumor	Erdafitinib(29720732, 11739186, 20226962)	Responsive	Pre_clinical
+BCR--FGFR1	Solid tumor	Erdafitinib(29720732, 11739186, 20226962)	Responsive	Pre_clinical
+CEP110--FGFR1	Solid tumor	AZD4547(10688839, 20226962)	Responsive	Pre_clinical
+CEP110--FGFR1	Solid tumor	AZD4547(10688839, 20226962)	Responsive	Pre_clinical
+CEP110--FGFR1	Solid tumor	BGJ398(10688839, 20226962)	Responsive	Pre_clinical
+CEP110--FGFR1	Solid tumor	BGJ398(10688839, 20226962)	Responsive	Pre_clinical
+CEP110--FGFR1	Solid tumor	Debio1347(10688839, 20226962)	Responsive	Pre_clinical
+CEP110--FGFR1	Solid tumor	Debio1347(10688839, 20226962)	Responsive	Pre_clinical
+CEP110--FGFR1	Solid tumor	Erdafitinib(10688839, 20226962)	Responsive	Pre_clinical
+CEP110--FGFR1	Solid tumor	Erdafitinib(10688839, 20226962)	Responsive	Pre_clinical
+CNTRL--FGFR1	Solid tumor	AZD4547(29720732)	Responsive	Pre_clinical
+CNTRL--FGFR1	Solid tumor	AZD4547(29720732)	Responsive	Pre_clinical
+CNTRL--FGFR1	Solid tumor	BGJ398(29720732)	Responsive	Pre_clinical
+CNTRL--FGFR1	Solid tumor	BGJ398(29720732)	Responsive	Pre_clinical
+CNTRL--FGFR1	Solid tumor	Debio1347(29720732)	Responsive	Pre_clinical
+CNTRL--FGFR1	Solid tumor	Debio1347(29720732)	Responsive	Pre_clinical
+CNTRL--FGFR1	Solid tumor	Erdafitinib(29720732)	Responsive	Pre_clinical
+CNTRL--FGFR1	Solid tumor	Erdafitinib(29720732)	Responsive	Pre_clinical
+CUX1--FGFR1	Solid tumor	AZD4547(21330321)	Responsive	Pre_clinical
+CUX1--FGFR1	Solid tumor	AZD4547(21330321)	Responsive	Pre_clinical
+CUX1--FGFR1	Solid tumor	BGJ398(21330321)	Responsive	Pre_clinical
+CUX1--FGFR1	Solid tumor	BGJ398(21330321)	Responsive	Pre_clinical
+CUX1--FGFR1	Solid tumor	Debio1347(21330321)	Responsive	Pre_clinical
+CUX1--FGFR1	Solid tumor	Debio1347(21330321)	Responsive	Pre_clinical
+CUX1--FGFR1	Solid tumor	Erdafitinib(21330321)	Responsive	Pre_clinical
+CUX1--FGFR1	Solid tumor	Erdafitinib(21330321)	Responsive	Pre_clinical
+ERLIN2--FGFR1	Solid tumor	AZD4547(23558953)	Responsive	Pre_clinical
+ERLIN2--FGFR1	Solid tumor	AZD4547(23558953)	Responsive	Pre_clinical
+ERLIN2--FGFR1	Solid tumor	BGJ398(23558953)	Responsive	Pre_clinical
+ERLIN2--FGFR1	Solid tumor	BGJ398(23558953)	Responsive	Pre_clinical
+ERLIN2--FGFR1	Solid tumor	Debio1347(23558953)	Responsive	Pre_clinical
+ERLIN2--FGFR1	Solid tumor	Debio1347(23558953)	Responsive	Pre_clinical
+ERLIN2--FGFR1	Solid tumor	Erdafitinib(23558953)	Responsive	Pre_clinical
+ERLIN2--FGFR1	Solid tumor	Erdafitinib(23558953)	Responsive	Pre_clinical
+FGFR1OP1--FGFR1	Solid tumor	AZD4547(11689702, 29720732, 16690081, 21330321, 20226962)	Responsive	Pre_clinical
+FGFR1OP1--FGFR1	Solid tumor	AZD4547(11689702, 29720732, 16690081, 21330321, 20226962)	Responsive	Pre_clinical
+FGFR1OP1--FGFR1	Solid tumor	BGJ398(11689702, 29720732, 16690081, 21330321, 20226962)	Responsive	Pre_clinical
+FGFR1OP1--FGFR1	Solid tumor	BGJ398(11689702, 29720732, 16690081, 21330321, 20226962)	Responsive	Pre_clinical
+FGFR1OP1--FGFR1	Solid tumor	Debio1347(11689702, 29720732, 16690081, 21330321, 20226962)	Responsive	Pre_clinical
+FGFR1OP1--FGFR1	Solid tumor	Debio1347(11689702, 29720732, 16690081, 21330321, 20226962)	Responsive	Pre_clinical
+FGFR1OP1--FGFR1	Solid tumor	Erdafitinib(11689702, 29720732, 16690081, 21330321, 20226962)	Responsive	Pre_clinical
+FGFR1OP1--FGFR1	Solid tumor	Erdafitinib(11689702, 29720732, 16690081, 21330321, 20226962)	Responsive	Pre_clinical
+ZMYM2--FGFR1	Solid tumor	AZD4547(29720732)	Responsive	Pre_clinical
+ZMYM2--FGFR1	Solid tumor	AZD4547(29720732)	Responsive	Pre_clinical
+ZMYM2--FGFR1	Solid tumor	BGJ398(29720732)	Responsive	Pre_clinical
+ZMYM2--FGFR1	Solid tumor	BGJ398(29720732)	Responsive	Pre_clinical
+ZMYM2--FGFR1	Solid tumor	Debio1347(29720732)	Responsive	Pre_clinical
+ZMYM2--FGFR1	Solid tumor	Debio1347(29720732)	Responsive	Pre_clinical
+ZMYM2--FGFR1	Solid tumor	Erdafitinib(29720732)	Responsive	Pre_clinical
+ZMYM2--FGFR1	Solid tumor	Erdafitinib(29720732)	Responsive	Pre_clinical
+ZNF198--FGFR1	Solid tumor	AZD4547(20226962, 10887137, 10935490)	Responsive	Pre_clinical
+ZNF198--FGFR1	Solid tumor	AZD4547(20226962, 10887137, 10935490)	Responsive	Pre_clinical
+ZNF198--FGFR1	Solid tumor	BGJ398(20226962, 10887137, 10935490)	Responsive	Pre_clinical
+ZNF198--FGFR1	Solid tumor	BGJ398(20226962, 10887137, 10935490)	Responsive	Pre_clinical
+ZNF198--FGFR1	Solid tumor	Debio1347(20226962, 10887137, 10935490)	Responsive	Pre_clinical
+ZNF198--FGFR1	Solid tumor	Debio1347(20226962, 10887137, 10935490)	Responsive	Pre_clinical
+ZNF198--FGFR1	Solid tumor	Erdafitinib(20226962, 10887137, 10935490)	Responsive	Pre_clinical
+ZNF198--FGFR1	Solid tumor	Erdafitinib(20226962, 10887137, 10935490)	Responsive	Pre_clinical
+FGFR2--.	Bladder-Urinary Tract Cancer	Erdafitinib	Responsive	Approved
+FGFR2--.	Bladder-Urinary Tract Cancer	Erdafitinib	Responsive	Approved
+FGFR2--.	Bladder-Urinary Tract Cancer	Erdafitinib	Responsive	Approved
+FGFR2--.	Biliary Tract Cancer	FGFR inhibitors(ASCO 2016 (abstr 109))	Responsive	Clinical_trial
+FGFR2--.	Biliary Tract Cancer	FGFR inhibitors(ASCO 2016 (abstr 109))	Responsive	Clinical_trial
+FGFR2--.	Biliary Tract Cancer	FGFR inhibitors(ASCO 2016 (abstr 109))	Responsive	Clinical_trial
+FGFR2--.	Colorectal Adenocarcinoma	FGFR inhibitors(ASCO 2017 (abstr 2500))	Responsive	Clinical_trial
+FGFR2--.	Colorectal Adenocarcinoma	FGFR inhibitors(ASCO 2017 (abstr 2500))	Responsive	Clinical_trial
+FGFR2--.	Colorectal Adenocarcinoma	FGFR inhibitors(ASCO 2017 (abstr 2500))	Responsive	Clinical_trial
+FGFR2--.	Bladder-Urinary Tract Cancer	AZD4547(25608663, 28430863, 29573334, 26254407, 23558953)	Responsive	Clinical_trial
+FGFR2--.	Bladder-Urinary Tract Cancer	AZD4547(25608663, 28430863, 29573334, 26254407, 23558953)	Responsive	Clinical_trial
+FGFR2--.	Bladder-Urinary Tract Cancer	AZD4547(25608663, 28430863, 29573334, 26254407, 23558953)	Responsive	Clinical_trial
+FGFR2--.	Cholangiocarcinoma	AZD4547(25608663, 28430863, 29573334, 26254407, 23558953)	Responsive	Clinical_trial
+FGFR2--.	Cholangiocarcinoma	AZD4547(25608663, 28430863, 29573334, 26254407, 23558953)	Responsive	Clinical_trial
+FGFR2--.	Cholangiocarcinoma	AZD4547(25608663, 28430863, 29573334, 26254407, 23558953)	Responsive	Clinical_trial
+FGFR2--.	Bladder-Urinary Tract Cancer	BGJ398(25608663, 28430863, 29573334, 26254407, 23558953)	Responsive	Clinical_trial
+FGFR2--.	Bladder-Urinary Tract Cancer	BGJ398(25608663, 28430863, 29573334, 26254407, 23558953)	Responsive	Clinical_trial
+FGFR2--.	Bladder-Urinary Tract Cancer	BGJ398(25608663, 28430863, 29573334, 26254407, 23558953)	Responsive	Clinical_trial
+FGFR2--.	Cholangiocarcinoma	BGJ398(25608663, 28430863, 29573334, 26254407, 23558953)	Responsive	Clinical_trial
+FGFR2--.	Cholangiocarcinoma	BGJ398(25608663, 28430863, 29573334, 26254407, 23558953)	Responsive	Clinical_trial
+FGFR2--.	Cholangiocarcinoma	BGJ398(25608663, 28430863, 29573334, 26254407, 23558953)	Responsive	Clinical_trial
+FGFR2--.	Bladder-Urinary Tract Cancer	Debio1347(25608663, 28430863, 29573334, 26254407, 23558953)	Responsive	Clinical_trial
+FGFR2--.	Bladder-Urinary Tract Cancer	Debio1347(25608663, 28430863, 29573334, 26254407, 23558953)	Responsive	Clinical_trial
+FGFR2--.	Bladder-Urinary Tract Cancer	Debio1347(25608663, 28430863, 29573334, 26254407, 23558953)	Responsive	Clinical_trial
+FGFR2--.	Cholangiocarcinoma	Debio1347(25608663, 28430863, 29573334, 26254407, 23558953)	Responsive	Clinical_trial
+FGFR2--.	Cholangiocarcinoma	Debio1347(25608663, 28430863, 29573334, 26254407, 23558953)	Responsive	Clinical_trial
+FGFR2--.	Cholangiocarcinoma	Debio1347(25608663, 28430863, 29573334, 26254407, 23558953)	Responsive	Clinical_trial
+FGFR2--.	Solid tumor	AZD4547(25608663, 28430863, 29573334, 26254407, 23558953)	Responsive	Pre_clinical
+FGFR2--.	Solid tumor	AZD4547(25608663, 28430863, 29573334, 26254407, 23558953)	Responsive	Pre_clinical
+FGFR2--.	Solid tumor	AZD4547(25608663, 28430863, 29573334, 26254407, 23558953)	Responsive	Pre_clinical
+FGFR2--.	Solid tumor	BGJ398(25608663, 28430863, 29573334, 26254407, 23558953)	Responsive	Pre_clinical
+FGFR2--.	Solid tumor	BGJ398(25608663, 28430863, 29573334, 26254407, 23558953)	Responsive	Pre_clinical
+FGFR2--.	Solid tumor	BGJ398(25608663, 28430863, 29573334, 26254407, 23558953)	Responsive	Pre_clinical
+FGFR2--.	Solid tumor	Debio1347(25608663, 28430863, 29573334, 26254407, 23558953)	Responsive	Pre_clinical
+FGFR2--.	Solid tumor	Debio1347(25608663, 28430863, 29573334, 26254407, 23558953)	Responsive	Pre_clinical
+FGFR2--.	Solid tumor	Debio1347(25608663, 28430863, 29573334, 26254407, 23558953)	Responsive	Pre_clinical
+FGFR2--.	Solid tumor	Erdafitinib(25608663, 28430863, 29573334, 26254407, 23558953)	Responsive	Pre_clinical
+FGFR2--.	Solid tumor	Erdafitinib(25608663, 28430863, 29573334, 26254407, 23558953)	Responsive	Pre_clinical
+FGFR2--.	Solid tumor	Erdafitinib(25608663, 28430863, 29573334, 26254407, 23558953)	Responsive	Pre_clinical
+FGFR2--AHCYL1	Solid tumor	AZD4547(24122810)	Responsive	Pre_clinical
+FGFR2--AHCYL1	Solid tumor	AZD4547(24122810)	Responsive	Pre_clinical
+FGFR2--AHCYL1	Solid tumor	AZD4547(24122810)	Responsive	Pre_clinical
+FGFR2--AHCYL1	Solid tumor	BGJ398(24122810)	Responsive	Pre_clinical
+FGFR2--AHCYL1	Solid tumor	BGJ398(24122810)	Responsive	Pre_clinical
+FGFR2--AHCYL1	Solid tumor	BGJ398(24122810)	Responsive	Pre_clinical
+FGFR2--AHCYL1	Solid tumor	Debio1347(24122810)	Responsive	Pre_clinical
+FGFR2--AHCYL1	Solid tumor	Debio1347(24122810)	Responsive	Pre_clinical
+FGFR2--AHCYL1	Solid tumor	Debio1347(24122810)	Responsive	Pre_clinical
+FGFR2--AHCYL1	Solid tumor	Erdafitinib(24122810)	Responsive	Pre_clinical
+FGFR2--AHCYL1	Solid tumor	Erdafitinib(24122810)	Responsive	Pre_clinical
+FGFR2--AHCYL1	Solid tumor	Erdafitinib(24122810)	Responsive	Pre_clinical
+FGFR2--BICC1	Solid tumor	AZD4547(24122810, 23558953)	Responsive	Pre_clinical
+FGFR2--BICC1	Solid tumor	AZD4547(24122810, 23558953)	Responsive	Pre_clinical
+FGFR2--BICC1	Solid tumor	AZD4547(24122810, 23558953)	Responsive	Pre_clinical
+FGFR2--BICC1	Solid tumor	BGJ398(24122810, 23558953)	Responsive	Pre_clinical
+FGFR2--BICC1	Solid tumor	BGJ398(24122810, 23558953)	Responsive	Pre_clinical
+FGFR2--BICC1	Solid tumor	BGJ398(24122810, 23558953)	Responsive	Pre_clinical
+FGFR2--BICC1	Solid tumor	Debio1347(24122810, 23558953)	Responsive	Pre_clinical
+FGFR2--BICC1	Solid tumor	Debio1347(24122810, 23558953)	Responsive	Pre_clinical
+FGFR2--BICC1	Solid tumor	Debio1347(24122810, 23558953)	Responsive	Pre_clinical
+FGFR2--BICC1	Solid tumor	Erdafitinib(24122810, 23558953)	Responsive	Pre_clinical
+FGFR2--BICC1	Solid tumor	Erdafitinib(24122810, 23558953)	Responsive	Pre_clinical
+FGFR2--BICC1	Solid tumor	Erdafitinib(24122810, 23558953)	Responsive	Pre_clinical
+FGFR2--CCDC6	Solid tumor	AZD4547(23558953)	Responsive	Pre_clinical
+FGFR2--CCDC6	Solid tumor	AZD4547(23558953)	Responsive	Pre_clinical
+FGFR2--CCDC6	Solid tumor	AZD4547(23558953)	Responsive	Pre_clinical
+FGFR2--CCDC6	Solid tumor	BGJ398(23558953)	Responsive	Pre_clinical
+FGFR2--CCDC6	Solid tumor	BGJ398(23558953)	Responsive	Pre_clinical
+FGFR2--CCDC6	Solid tumor	BGJ398(23558953)	Responsive	Pre_clinical
+FGFR2--CCDC6	Solid tumor	Debio1347(23558953)	Responsive	Pre_clinical
+FGFR2--CCDC6	Solid tumor	Debio1347(23558953)	Responsive	Pre_clinical
+FGFR2--CCDC6	Solid tumor	Debio1347(23558953)	Responsive	Pre_clinical
+FGFR2--CCDC6	Solid tumor	Erdafitinib(23558953)	Responsive	Pre_clinical
+FGFR2--CCDC6	Solid tumor	Erdafitinib(23558953)	Responsive	Pre_clinical
+FGFR2--CCDC6	Solid tumor	Erdafitinib(23558953)	Responsive	Pre_clinical
+FGFR2--CIT	Solid tumor	AZD4547(23558953)	Responsive	Pre_clinical
+FGFR2--CIT	Solid tumor	AZD4547(23558953)	Responsive	Pre_clinical
+FGFR2--CIT	Solid tumor	AZD4547(23558953)	Responsive	Pre_clinical
+FGFR2--CIT	Solid tumor	BGJ398(23558953)	Responsive	Pre_clinical
+FGFR2--CIT	Solid tumor	BGJ398(23558953)	Responsive	Pre_clinical
+FGFR2--CIT	Solid tumor	BGJ398(23558953)	Responsive	Pre_clinical
+FGFR2--CIT	Solid tumor	Debio1347(23558953)	Responsive	Pre_clinical
+FGFR2--CIT	Solid tumor	Debio1347(23558953)	Responsive	Pre_clinical
+FGFR2--CIT	Solid tumor	Debio1347(23558953)	Responsive	Pre_clinical
+FGFR2--CIT	Solid tumor	Erdafitinib(23558953)	Responsive	Pre_clinical
+FGFR2--CIT	Solid tumor	Erdafitinib(23558953)	Responsive	Pre_clinical
+FGFR2--CIT	Solid tumor	Erdafitinib(23558953)	Responsive	Pre_clinical
+FGFR2--FAM76A	Solid tumor	AZD4547(24563622)	Responsive	Pre_clinical
+FGFR2--FAM76A	Solid tumor	AZD4547(24563622)	Responsive	Pre_clinical
+FGFR2--FAM76A	Solid tumor	AZD4547(24563622)	Responsive	Pre_clinical
+FGFR2--FAM76A	Solid tumor	BGJ398(24563622)	Responsive	Pre_clinical
+FGFR2--FAM76A	Solid tumor	BGJ398(24563622)	Responsive	Pre_clinical
+FGFR2--FAM76A	Solid tumor	BGJ398(24563622)	Responsive	Pre_clinical
+FGFR2--FAM76A	Solid tumor	Debio1347(24563622)	Responsive	Pre_clinical
+FGFR2--FAM76A	Solid tumor	Debio1347(24563622)	Responsive	Pre_clinical
+FGFR2--FAM76A	Solid tumor	Debio1347(24563622)	Responsive	Pre_clinical
+FGFR2--FAM76A	Solid tumor	Erdafitinib(24563622)	Responsive	Pre_clinical
+FGFR2--FAM76A	Solid tumor	Erdafitinib(24563622)	Responsive	Pre_clinical
+FGFR2--FAM76A	Solid tumor	Erdafitinib(24563622)	Responsive	Pre_clinical
+FGFR2--KIAA1967	Solid tumor	AZD4547(23558953)	Responsive	Pre_clinical
+FGFR2--KIAA1967	Solid tumor	AZD4547(23558953)	Responsive	Pre_clinical
+FGFR2--KIAA1967	Solid tumor	AZD4547(23558953)	Responsive	Pre_clinical
+FGFR2--KIAA1967	Solid tumor	BGJ398(23558953)	Responsive	Pre_clinical
+FGFR2--KIAA1967	Solid tumor	BGJ398(23558953)	Responsive	Pre_clinical
+FGFR2--KIAA1967	Solid tumor	BGJ398(23558953)	Responsive	Pre_clinical
+FGFR2--KIAA1967	Solid tumor	Debio1347(23558953)	Responsive	Pre_clinical
+FGFR2--KIAA1967	Solid tumor	Debio1347(23558953)	Responsive	Pre_clinical
+FGFR2--KIAA1967	Solid tumor	Debio1347(23558953)	Responsive	Pre_clinical
+FGFR2--KIAA1967	Solid tumor	Erdafitinib(23558953)	Responsive	Pre_clinical
+FGFR2--KIAA1967	Solid tumor	Erdafitinib(23558953)	Responsive	Pre_clinical
+FGFR2--KIAA1967	Solid tumor	Erdafitinib(23558953)	Responsive	Pre_clinical
+FGFR2--MGEA5	Solid tumor	AZD4547(24550739)	Responsive	Pre_clinical
+FGFR2--MGEA5	Solid tumor	AZD4547(24550739)	Responsive	Pre_clinical
+FGFR2--MGEA5	Solid tumor	AZD4547(24550739)	Responsive	Pre_clinical
+FGFR2--MGEA5	Solid tumor	BGJ398(24550739)	Responsive	Pre_clinical
+FGFR2--MGEA5	Solid tumor	BGJ398(24550739)	Responsive	Pre_clinical
+FGFR2--MGEA5	Solid tumor	BGJ398(24550739)	Responsive	Pre_clinical
+FGFR2--MGEA5	Solid tumor	Debio1347(24550739)	Responsive	Pre_clinical
+FGFR2--MGEA5	Solid tumor	Debio1347(24550739)	Responsive	Pre_clinical
+FGFR2--MGEA5	Solid tumor	Debio1347(24550739)	Responsive	Pre_clinical
+FGFR2--MGEA5	Solid tumor	Erdafitinib(24550739)	Responsive	Pre_clinical
+FGFR2--MGEA5	Solid tumor	Erdafitinib(24550739)	Responsive	Pre_clinical
+FGFR2--MGEA5	Solid tumor	Erdafitinib(24550739)	Responsive	Pre_clinical
+FGFR2--PPHLN1	Solid tumor	AZD4547(25608663)	Responsive	Pre_clinical
+FGFR2--PPHLN1	Solid tumor	AZD4547(25608663)	Responsive	Pre_clinical
+FGFR2--PPHLN1	Solid tumor	AZD4547(25608663)	Responsive	Pre_clinical
+FGFR2--PPHLN1	Solid tumor	BGJ398(25608663)	Responsive	Pre_clinical
+FGFR2--PPHLN1	Solid tumor	BGJ398(25608663)	Responsive	Pre_clinical
+FGFR2--PPHLN1	Solid tumor	BGJ398(25608663)	Responsive	Pre_clinical
+FGFR2--PPHLN1	Solid tumor	Debio1347(25608663)	Responsive	Pre_clinical
+FGFR2--PPHLN1	Solid tumor	Debio1347(25608663)	Responsive	Pre_clinical
+FGFR2--PPHLN1	Solid tumor	Debio1347(25608663)	Responsive	Pre_clinical
+FGFR2--PPHLN1	Solid tumor	Erdafitinib(25608663)	Responsive	Pre_clinical
+FGFR2--PPHLN1	Solid tumor	Erdafitinib(25608663)	Responsive	Pre_clinical
+FGFR2--PPHLN1	Solid tumor	Erdafitinib(25608663)	Responsive	Pre_clinical
+FGFR2--TACC3	Solid tumor	AZD4547(26048680)	Responsive	Pre_clinical
+FGFR2--TACC3	Solid tumor	AZD4547(26048680)	Responsive	Pre_clinical
+FGFR2--TACC3	Solid tumor	AZD4547(26048680)	Responsive	Pre_clinical
+FGFR2--TACC3	Solid tumor	BGJ398(26048680)	Responsive	Pre_clinical
+FGFR2--TACC3	Solid tumor	BGJ398(26048680)	Responsive	Pre_clinical
+FGFR2--TACC3	Solid tumor	BGJ398(26048680)	Responsive	Pre_clinical
+FGFR2--TACC3	Solid tumor	Debio1347(26048680)	Responsive	Pre_clinical
+FGFR2--TACC3	Solid tumor	Debio1347(26048680)	Responsive	Pre_clinical
+FGFR2--TACC3	Solid tumor	Debio1347(26048680)	Responsive	Pre_clinical
+FGFR2--TACC3	Solid tumor	Erdafitinib(26048680)	Responsive	Pre_clinical
+FGFR2--TACC3	Solid tumor	Erdafitinib(26048680)	Responsive	Pre_clinical
+FGFR2--TACC3	Solid tumor	Erdafitinib(26048680)	Responsive	Pre_clinical
+FGFR3--.	Bladder-Urinary Tract Cancer	Erdafitinib	Responsive	Approved
+FGFR3--.	Diffuse Glioma	FGFR inhibitors(26324363)	Responsive	Clinical_trial
+FGFR3--.	Bladder-Urinary Tract Cancer	AZD4547(23298836, 23661334, 22837387, 23558953)	Responsive	Clinical_trial
+FGFR3--.	Bladder-Urinary Tract Cancer	BGJ398(23298836, 23661334, 22837387, 23558953)	Responsive	Clinical_trial
+FGFR3--.	Bladder-Urinary Tract Cancer	Debio1347(23298836, 23661334, 22837387, 23558953)	Responsive	Clinical_trial
+FGFR3--.	Bladder Adenocarcinoma	FGFR inhibitors(26324363;ASCO 2017 (abstr 2500))	Responsive	Pre_clinical
+FGFR3--.	Solid tumor	AZD4547(23298836, 23661334, 22837387, 23558953)	Responsive	Pre_clinical
+FGFR3--.	Solid tumor	BGJ398(23298836, 23661334, 22837387, 23558953)	Responsive	Pre_clinical
+FGFR3--.	Solid tumor	Debio1347(23298836, 23661334, 22837387, 23558953)	Responsive	Pre_clinical
+FGFR3--.	Solid tumor	Erdafitinib(23298836, 23661334, 22837387, 23558953)	Responsive	Pre_clinical
+FGFR3--BAIAP2L1	Solid tumor	AZD4547(23175443)	Responsive	Pre_clinical
+FGFR3--BAIAP2L1	Solid tumor	BGJ398(23175443)	Responsive	Pre_clinical
+FGFR3--BAIAP2L1	Solid tumor	Debio1347(23175443)	Responsive	Pre_clinical
+FGFR3--BAIAP2L1	Solid tumor	Erdafitinib(23175443)	Responsive	Pre_clinical
+FGFR3--TACC3	Non-Small Cell Lung Cancer	FGFR inhibitors(25294908)	Responsive	Pre_clinical
+FGFR3--TACC3	Solid tumor	AZD4547(25609060, 22837387)	Responsive	Pre_clinical
+FGFR3--TACC3	Solid tumor	BGJ398(25609060, 22837387)	Responsive	Pre_clinical
+FGFR3--TACC3	Solid tumor	Debio1347(25609060, 22837387)	Responsive	Pre_clinical
+FGFR3--TACC3	Solid tumor	Erdafitinib(25609060, 22837387)	Responsive	Pre_clinical
+IGH--FGFR3	Solid tumor	AZD4547(17107900)	Responsive	Pre_clinical
+IGH--FGFR3	Solid tumor	BGJ398(17107900)	Responsive	Pre_clinical
+IGH--FGFR3	Solid tumor	Debio1347(17107900)	Responsive	Pre_clinical
+IGH--FGFR3	Solid tumor	Erdafitinib(17107900)	Responsive	Pre_clinical
+FIP1L1--PDGFRA	Chronic Eosinophilic Leukemia, NOS	Imatinib	Responsive	Approved
+FIP1L1--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+PDGFRA--FIP1L1	Chronic Eosinophilic Leukemia, NOS	Imatinib	Responsive	Approved
+EWSR1--FLI1	Ewing Sarcoma of Soft Tissue	TK216(17250957, 11715049, 25453903, 12432241)	Responsive	Pre_clinical
+EWSR1--FLI1	Ewing Sarcoma	TK216(17250957, 11715049, 25453903, 12432241)	Responsive	Pre_clinical
+JAK2--BRAF	Acute lymphoblastic leukemia	Ruxolitinib(22875628;22899477)	Responsive	Pre_clinical
+PCM1--JAK2	Chronic Eosinophilic Leukemia, NOS	Ruxolitinib(16034466, 21325169, 23372669, 22899477, 15805263, 16424865, 24913195)	Responsive	Clinical_trial
+KIF5B--ALK	Non-Small Cell Lung Cancer	Brigatinib	Responsive	Approved
+KIF5B--ALK	Non-Small Cell Lung Cancer	Lorlatinib	Responsive	Approved
+KIF5B--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+KIF5B--RET	Medullary Thyroid Cancer	BLU-667(22327624, 30487236)	Responsive	Clinical_trial
+KIF5B--RET	Medullary Thyroid Cancer	LOXO-292(22327624, 30487236)	Responsive	Clinical_trial
+MET--.	Diffuse Glioma	Crizotinib(27748748)	Responsive	Pre_clinical
+MET--.	Any cancer	Crizotinib(28512244, 29102694, 28510278, 27748748, 29527595, 29284707)	Responsive	Pre_clinical
+NOTCH1--.	Acute lymphoblastic leukemia	Gamma secretase inhibitors(16688224;23033986)	Responsive	Pre_clinical
+NOTCH1--.	Acute lymphoblastic leukemia	Gamma secretase inhibitors(16688224;23033986)	Responsive	Pre_clinical
+NOTCH1--.	Invasive Breast Carcinoma	Gamma secretase inhibitors(22101766)	Responsive	Pre_clinical
+NOTCH1--.	Invasive Breast Carcinoma	Gamma secretase inhibitors(22101766)	Responsive	Pre_clinical
+PDGFRA--.	Myelodysplastic Syndromes	Imatinib	Responsive	Approved
+PDGFRA--.	Myelodysplastic Syndromes	Imatinib	Responsive	Approved
+PDGFRA--.	Myelodysplastic Syndromes	Imatinib	Responsive	Approved
+PDGFRA--.	Myelodysplastic Syndromes	Imatinib	Responsive	Approved
+PDGFRA--.	Myelodysplastic Syndromes	Imatinib	Responsive	Approved
+PDGFRA--.	Myelodysplastic Syndromes	Imatinib	Responsive	Approved
+PDGFRA--.	Myelodysplastic Syndromes	Imatinib	Responsive	Approved
+PDGFRA--.	Myelodysplastic Syndromes	Imatinib	Responsive	Approved
+PDGFRA--.	Myelodysplastic Syndromes	Imatinib	Responsive	Approved
+PDGFRA--.	Myelodysplastic Syndromes	Imatinib	Responsive	Approved
+PDGFRA--.	Myelodysplastic Syndromes	Imatinib	Responsive	Approved
+PDGFRA--.	Myelodysplastic Syndromes	Imatinib	Responsive	Approved
+PDGFRA--.	Myelodysplastic Syndromes	Imatinib	Responsive	Approved
+PDGFRA--.	Myelodysplastic Syndromes	Imatinib	Responsive	Approved
+PDGFRA--.	Myelodysplastic Syndromes	Imatinib	Responsive	Approved
+PDGFRA--.	Myelodysplastic Syndromes	Imatinib	Responsive	Approved
+PDGFRA--.	Myelodysplastic Syndromes	Imatinib	Responsive	Approved
+PDGFRA--.	Myelodysplastic Syndromes	Imatinib	Responsive	Approved
+PDGFRA--.	Myelodysplastic Syndromes	Imatinib	Responsive	Approved
+PDGFRA--.	Myelodysplastic Syndromes	Imatinib	Responsive	Approved
+PDGFRA--.	Myelodysplastic Syndromes	Imatinib	Responsive	Approved
+PDGFRA--.	Myelodysplastic Syndromes	Imatinib	Responsive	Approved
+PDGFRA--.	Myelodysplastic Syndromes	Imatinib	Responsive	Approved
+PDGFRA--.	Myelodysplastic Syndromes	Imatinib	Responsive	Approved
+PDGFRA--.	Myelodysplastic Syndromes	Imatinib	Responsive	Approved
+PDGFRA--.	Myelodysplastic Syndromes	Imatinib	Responsive	Approved
+PDGFRA--.	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+PDGFRA--.	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+PDGFRA--.	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+PDGFRA--.	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+PDGFRA--.	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+PDGFRA--.	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+PDGFRA--.	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+PDGFRA--.	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+PDGFRA--.	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+PDGFRA--.	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+PDGFRA--.	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+PDGFRA--.	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+PDGFRA--.	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+PDGFRA--.	Myelodysplastic-Myeloproliferative Neoplasms	Imatinib	Responsive	Approved
+PDGFRA--.	Myelodysplastic-Myeloproliferative Neoplasms	Imatinib	Responsive	Approved
+PDGFRA--.	Myelodysplastic-Myeloproliferative Neoplasms	Imatinib	Responsive	Approved
+PDGFRA--.	Myelodysplastic-Myeloproliferative Neoplasms	Imatinib	Responsive	Approved
+PDGFRA--.	Myelodysplastic-Myeloproliferative Neoplasms	Imatinib	Responsive	Approved
+PDGFRA--.	Myelodysplastic-Myeloproliferative Neoplasms	Imatinib	Responsive	Approved
+PDGFRA--.	Myelodysplastic-Myeloproliferative Neoplasms	Imatinib	Responsive	Approved
+PDGFRA--.	Myelodysplastic-Myeloproliferative Neoplasms	Imatinib	Responsive	Approved
+PDGFRA--.	Myelodysplastic-Myeloproliferative Neoplasms	Imatinib	Responsive	Approved
+PDGFRA--.	Myelodysplastic-Myeloproliferative Neoplasms	Imatinib	Responsive	Approved
+PDGFRA--.	Myelodysplastic-Myeloproliferative Neoplasms	Imatinib	Responsive	Approved
+PDGFRA--.	Myelodysplastic-Myeloproliferative Neoplasms	Imatinib	Responsive	Approved
+PDGFRA--.	Myelodysplastic-Myeloproliferative Neoplasms	Imatinib	Responsive	Approved
+PDGFRA--FIP1L1	Chronic Eosinophilic Leukemia, NOS	Imatinib	Responsive	Approved
+PDGFRA--FIP1L1	Chronic Eosinophilic Leukemia, NOS	Imatinib	Responsive	Approved
+PDGFRA--FIP1L1	Chronic Eosinophilic Leukemia, NOS	Imatinib	Responsive	Approved
+PDGFRA--FIP1L1	Chronic Eosinophilic Leukemia, NOS	Imatinib	Responsive	Approved
+PDGFRA--FIP1L1	Chronic Eosinophilic Leukemia, NOS	Imatinib	Responsive	Approved
+PDGFRA--FIP1L1	Chronic Eosinophilic Leukemia, NOS	Imatinib	Responsive	Approved
+PDGFRA--FIP1L1	Chronic Eosinophilic Leukemia, NOS	Imatinib	Responsive	Approved
+PDGFRA--FIP1L1	Chronic Eosinophilic Leukemia, NOS	Imatinib	Responsive	Approved
+PDGFRA--FIP1L1	Chronic Eosinophilic Leukemia, NOS	Imatinib	Responsive	Approved
+PDGFRA--FIP1L1	Chronic Eosinophilic Leukemia, NOS	Imatinib	Responsive	Approved
+PDGFRA--FIP1L1	Chronic Eosinophilic Leukemia, NOS	Imatinib	Responsive	Approved
+PDGFRA--FIP1L1	Chronic Eosinophilic Leukemia, NOS	Imatinib	Responsive	Approved
+PDGFRA--FIP1L1	Chronic Eosinophilic Leukemia, NOS	Imatinib	Responsive	Approved
+BCR--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+BCR--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+BCR--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+BCR--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+BCR--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+BCR--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+BCR--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+BCR--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+BCR--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+BCR--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+BCR--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+BCR--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+BCR--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+CDK5RAP2--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+CDK5RAP2--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+CDK5RAP2--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+CDK5RAP2--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+CDK5RAP2--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+CDK5RAP2--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+CDK5RAP2--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+CDK5RAP2--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+CDK5RAP2--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+CDK5RAP2--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+CDK5RAP2--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+CDK5RAP2--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+CDK5RAP2--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+ETV6--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+ETV6--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+ETV6--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+ETV6--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+ETV6--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+ETV6--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+ETV6--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+ETV6--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+ETV6--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+ETV6--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+ETV6--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+ETV6--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+ETV6--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+FIP1L1--PDGFRA	Chronic Eosinophilic Leukemia, NOS	Imatinib	Responsive	Approved
+FIP1L1--PDGFRA	Chronic Eosinophilic Leukemia, NOS	Imatinib	Responsive	Approved
+FIP1L1--PDGFRA	Chronic Eosinophilic Leukemia, NOS	Imatinib	Responsive	Approved
+FIP1L1--PDGFRA	Chronic Eosinophilic Leukemia, NOS	Imatinib	Responsive	Approved
+FIP1L1--PDGFRA	Chronic Eosinophilic Leukemia, NOS	Imatinib	Responsive	Approved
+FIP1L1--PDGFRA	Chronic Eosinophilic Leukemia, NOS	Imatinib	Responsive	Approved
+FIP1L1--PDGFRA	Chronic Eosinophilic Leukemia, NOS	Imatinib	Responsive	Approved
+FIP1L1--PDGFRA	Chronic Eosinophilic Leukemia, NOS	Imatinib	Responsive	Approved
+FIP1L1--PDGFRA	Chronic Eosinophilic Leukemia, NOS	Imatinib	Responsive	Approved
+FIP1L1--PDGFRA	Chronic Eosinophilic Leukemia, NOS	Imatinib	Responsive	Approved
+FIP1L1--PDGFRA	Chronic Eosinophilic Leukemia, NOS	Imatinib	Responsive	Approved
+FIP1L1--PDGFRA	Chronic Eosinophilic Leukemia, NOS	Imatinib	Responsive	Approved
+FIP1L1--PDGFRA	Chronic Eosinophilic Leukemia, NOS	Imatinib	Responsive	Approved
+FIP1L1--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+FIP1L1--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+FIP1L1--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+FIP1L1--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+FIP1L1--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+FIP1L1--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+FIP1L1--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+FIP1L1--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+FIP1L1--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+FIP1L1--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+FIP1L1--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+FIP1L1--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+FIP1L1--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+KDR--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+KDR--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+KDR--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+KDR--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+KDR--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+KDR--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+KDR--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+KDR--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+KDR--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+KDR--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+KDR--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+KDR--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+KDR--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+KIF5B--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+KIF5B--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+KIF5B--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+KIF5B--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+KIF5B--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+KIF5B--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+KIF5B--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+KIF5B--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+KIF5B--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+KIF5B--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+KIF5B--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+KIF5B--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+KIF5B--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+STRN--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+STRN--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+STRN--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+STRN--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+STRN--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+STRN--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+STRN--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+STRN--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+STRN--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+STRN--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+STRN--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+STRN--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+STRN--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+PPFIBP2--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(26072686)	Responsive	Clinical_trial
+FGFR2--PPHLN1	Solid tumor	AZD4547(25608663)	Responsive	Pre_clinical
+FGFR2--PPHLN1	Solid tumor	BGJ398(25608663)	Responsive	Pre_clinical
+FGFR2--PPHLN1	Solid tumor	Debio1347(25608663)	Responsive	Pre_clinical
+FGFR2--PPHLN1	Solid tumor	Erdafitinib(25608663)	Responsive	Pre_clinical
+RUFY1--RET	Medullary Thyroid Cancer	BLU-667(30279230)	Responsive	Clinical_trial
+RUFY1--RET	Medullary Thyroid Cancer	LOXO-292(30279230)	Responsive	Clinical_trial
+SRGAP3--RAF1	Langerhans Cell Histiocytosis	Cobimetinib(19363522)	Responsive	Clinical_trial
+FGFR1--TACC1	Solid tumor	AZD4547(22837387, 23558953)	Responsive	Pre_clinical
+FGFR1--TACC1	Solid tumor	BGJ398(22837387, 23558953)	Responsive	Pre_clinical
+FGFR1--TACC1	Solid tumor	Debio1347(22837387, 23558953)	Responsive	Pre_clinical
+FGFR1--TACC1	Solid tumor	Erdafitinib(22837387, 23558953)	Responsive	Pre_clinical
+TRIM24--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(15630448, 24345920)	Responsive	Clinical_trial
+ZKSCAN1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(26314551)	Responsive	Clinical_trial
+ABL1--BCR	Chronic Myeloid Leukemia	Bosutinib	Responsive	Approved
+ABL1--BCR	Acute lymphoblastic leukemia	Dasatinib	Responsive	Approved
+ABL1--BCR	Chronic Myeloid Leukemia	Dasatinib	Responsive	Approved
+ABL1--BCR	Acute lymphoblastic leukemia	Imatinib	Responsive	Approved
+ABL1--BCR	Chronic Myeloid Leukemia	Imatinib	Responsive	Approved
+ABL1--BCR	Chronic Myeloid Leukemia	Nilotinib	Responsive	Approved
+ABL1--BCR	Acute lymphoblastic leukemia	Ponatinib	Responsive	Approved
+ABL1--BCR	Chronic Myeloid Leukemia	Ponatinib	Responsive	Approved
+ABL1--BCR	Acute lymphoblastic leukemia	Dasatinib + Venetoclax(27582059)	Responsive	Pre_clinical
+AGAP3--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(30279230, 28539463)	Responsive	Clinical_trial
+AGK--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(26314551, 23890088, 24135138)	Responsive	Clinical_trial
+AKAP9--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(15630448)	Responsive	Clinical_trial
+ARMC10--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(30279230)	Responsive	Clinical_trial
+ATG7--RAF1	Langerhans Cell Histiocytosis	Cobimetinib(23637631)	Responsive	Clinical_trial
+BCR--ABL1	Chronic Myelogenous Leukemia	Asciminib(11345193, 2825022, 11870241, 3460176)	Responsive	Clinical_trial
+BCR--ABL1	B-Lymphoblastic Leukemia-Lymphoma	Bosutinib	Responsive	Approved
+BCR--ABL1	Chronic Myelogenous Leukemia	Bosutinib	Responsive	Approved
+BCR--ABL1	B-Lymphoblastic Leukemia-Lymphoma	Dasatinib	Responsive	Approved
+BCR--ABL1	Chronic Myelogenous Leukemia	Dasatinib	Responsive	Approved
+BCR--ABL1	B-Lymphoblastic Leukemia-Lymphoma	Imatinib	Responsive	Approved
+BCR--ABL1	Chronic Myelogenous Leukemia	Imatinib	Responsive	Approved
+BCR--ABL1	B-Lymphoblastic Leukemia-Lymphoma	Nilotinib	Responsive	Approved
+BCR--ABL1	Chronic Myelogenous Leukemia	Nilotinib	Responsive	Approved
+BCR--ABL1	B-Lymphoblastic Leukemia-Lymphoma	Ponatinib	Responsive	Approved
+BCR--FGFR1	Solid tumor	AZD4547(29720732, 11739186, 20226962)	Responsive	Pre_clinical
+BCR--FGFR1	Solid tumor	BGJ398(29720732, 11739186, 20226962)	Responsive	Pre_clinical
+BCR--FGFR1	Solid tumor	Debio1347(29720732, 11739186, 20226962)	Responsive	Pre_clinical
+BCR--FGFR1	Solid tumor	Erdafitinib(29720732, 11739186, 20226962)	Responsive	Pre_clinical
+BCR--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+BRD4--C15orf55	NUT Midline Carcinoma of the Head and Neck	BET inhibitors(ENA 2015 (abstr A49))	Responsive	Pre_clinical
+CEP110--FGFR1	Solid tumor	AZD4547(10688839, 20226962)	Responsive	Pre_clinical
+CEP110--FGFR1	Solid tumor	BGJ398(10688839, 20226962)	Responsive	Pre_clinical
+CEP110--FGFR1	Solid tumor	Debio1347(10688839, 20226962)	Responsive	Pre_clinical
+CEP110--FGFR1	Solid tumor	Erdafitinib(10688839, 20226962)	Responsive	Pre_clinical
+CNTRL--FGFR1	Solid tumor	AZD4547(29720732)	Responsive	Pre_clinical
+CNTRL--FGFR1	Solid tumor	BGJ398(29720732)	Responsive	Pre_clinical
+CNTRL--FGFR1	Solid tumor	Debio1347(29720732)	Responsive	Pre_clinical
+CNTRL--FGFR1	Solid tumor	Erdafitinib(29720732)	Responsive	Pre_clinical
+COL1A1--PDGFB	Dermatofibrosarcoma Protuberans	Imatinib	Responsive	Approved
+CRLF2--.	Acute lymphoblastic leukemia	BET inhibitors(22904298)	Responsive	Pre_clinical
+CRLF2--.	Acute lymphoblastic leukemia	MTOR inhibitors(22955920)	Responsive	Pre_clinical
+CUL1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(25985019, 22745804, 15630448, 26324360)	Responsive	Clinical_trial
+CUX1--FGFR1	Solid tumor	AZD4547(21330321)	Responsive	Pre_clinical
+CUX1--FGFR1	Solid tumor	BGJ398(21330321)	Responsive	Pre_clinical
+CUX1--FGFR1	Solid tumor	Debio1347(21330321)	Responsive	Pre_clinical
+CUX1--FGFR1	Solid tumor	Erdafitinib(21330321)	Responsive	Pre_clinical
+EML4--ALK	Non-Small Cell Lung Cancer	Brigatinib	Responsive	Approved
+EML4--ALK	Non-Small Cell Lung Cancer	Lorlatinib	Responsive	Approved
+ERLIN2--FGFR1	Solid tumor	AZD4547(23558953)	Responsive	Pre_clinical
+ERLIN2--FGFR1	Solid tumor	BGJ398(23558953)	Responsive	Pre_clinical
+ERLIN2--FGFR1	Solid tumor	Debio1347(23558953)	Responsive	Pre_clinical
+ERLIN2--FGFR1	Solid tumor	Erdafitinib(23558953)	Responsive	Pre_clinical
+ESR1--.	Breast Cancer	AZD9496(25099679, 29360925, 24055055)	Responsive	Clinical_trial
+ESR1--.	Breast Cancer	Fulvestrant(25099679, 29360925, 24055055)	Responsive	Clinical_trial
+ESR1--CCDC170	Breast Cancer	AZD9496(25099679, 22496636, 22101766)	Responsive	Clinical_trial
+ESR1--CCDC170	Breast Cancer	Fulvestrant(25099679, 22496636, 22101766)	Responsive	Clinical_trial
+ESR1--DAB2	Breast Cancer	AZD9496(29360925)	Responsive	Clinical_trial
+ESR1--DAB2	Breast Cancer	Fulvestrant(29360925)	Responsive	Clinical_trial
+ESR1--GYG1	Breast Cancer	AZD9496(29360925)	Responsive	Clinical_trial
+ESR1--GYG1	Breast Cancer	Fulvestrant(29360925)	Responsive	Clinical_trial
+ESR1--SOX9	Breast Cancer	AZD9496(29360925)	Responsive	Clinical_trial
+ESR1--SOX9	Breast Cancer	Fulvestrant(29360925)	Responsive	Clinical_trial
+ESR1--YAP1	Breast Cancer	AZD9496(24055055)	Responsive	Clinical_trial
+ESR1--YAP1	Breast Cancer	Fulvestrant(24055055)	Responsive	Clinical_trial
+ESR1--YAP1	Invasive Breast Carcinoma	ESR1 inhibitors(24055055)	Resistant	Pre_clinical
+ETV6--FLT3	Acute Myeloid Leukemia	High Dose Chemotherapy + Midostaurin	Responsive	Approved
+ETV6--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+EWSR1--FLI1	Ewing Sarcoma of Soft Tissue	TK216(17250957, 11715049, 25453903, 12432241)	Responsive	Pre_clinical
+EWSR1--FLI1	Ewing Sarcoma	TK216(17250957, 11715049, 25453903, 12432241)	Responsive	Pre_clinical
+FAM131B--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(25040262, 15630448, 21424530)	Responsive	Clinical_trial
+FGFR1OP1--FGFR1	Solid tumor	AZD4547(11689702, 29720732, 16690081, 21330321, 20226962)	Responsive	Pre_clinical
+FGFR1OP1--FGFR1	Solid tumor	BGJ398(11689702, 29720732, 16690081, 21330321, 20226962)	Responsive	Pre_clinical
+FGFR1OP1--FGFR1	Solid tumor	Debio1347(11689702, 29720732, 16690081, 21330321, 20226962)	Responsive	Pre_clinical
+FGFR1OP1--FGFR1	Solid tumor	Erdafitinib(11689702, 29720732, 16690081, 21330321, 20226962)	Responsive	Pre_clinical
+GTF2I--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(26314551, 28448514)	Responsive	Clinical_trial
+IGH--FGFR3	Solid tumor	AZD4547(17107900)	Responsive	Pre_clinical
+IGH--FGFR3	Solid tumor	BGJ398(17107900)	Responsive	Pre_clinical
+IGH--FGFR3	Solid tumor	Debio1347(17107900)	Responsive	Pre_clinical
+IGH--FGFR3	Solid tumor	Erdafitinib(17107900)	Responsive	Pre_clinical
+KDR--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+KIAA1549--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(18974108, 23533272, 24345920, 26072686)	Responsive	Clinical_trial
+MKRN1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(18974108, 26314551, 15630448, 26324360, 23817572)	Responsive	Clinical_trial
+MLL--.	Acute Myeloid Leukemia	Daunorubicin	Responsive	Approved
+MLL--.	Acute Myeloid Leukemia	Belinostat(NCT00351975;NCT00357032;22015773)	Responsive	Clinical_trial
+MLL--.	Acute lymphoblastic leukemia	EPZ-5676(NCT02141828;NCT01684150;21741596)	Responsive	Clinical_trial
+MLL--.	Acute Myeloid Leukemia	EPZ-5676(NCT02141828;NCT01684150;21741596)	Responsive	Clinical_trial
+MLL--.	Myelodysplastic Syndromes	EPZ-5676(NCT02141828;NCT01684150;21741596)	Responsive	Clinical_trial
+MLL--.	Acute Myeloid Leukemia	BET inhibitors(21964340)	Responsive	Pre_clinical
+NCOA4--RET	Medullary Thyroid Cancer	BLU-667(30279230, 28011461, 27626672, 30487236)	Responsive	Clinical_trial
+NCOA4--RET	Medullary Thyroid Cancer	LOXO-292(30279230, 28011461, 27626672, 30487236)	Responsive	Clinical_trial
+NOTCH2--.	Invasive Breast Carcinoma	Gamma secretase inhibitors(22101766)	Responsive	Pre_clinical
+NPM--ALK	Non-Small Cell Lung Cancer	Brigatinib	Responsive	Approved
+NPM--ALK	Non-Small Cell Lung Cancer	Lorlatinib	Responsive	Approved
+NRG1--.	Lung Adenocarcinoma	Afatinib(AACR 2016 (abstr 2631))	Responsive	Pre_clinical
+NRG1--.	Lung Adenocarcinoma	Lapatinib(24727320)	Responsive	Pre_clinical
+NTRK1--.	Solid tumor	Larotrectinib	Responsive	Approved
+NTRK1--.	Any cancer	Pan-TKR inhibitors(28183697;ASCO 2017 (LBA2501))	Responsive	Clinical_trial
+NTRK1--.	Solid tumor	Entrectinib(24162815)	Responsive	Clinical_trial
+NTRK1--.	Lung Adenocarcinoma	Crizotinib(ASCO 2013 (abstr 8023))	Responsive	Pre_clinical
+NTRK1--.	Colorectal Adenocarcinoma	Pan-TK inhibitors(26546295)	Responsive	Pre_clinical
+NTRK1--.	Lung Adenocarcinoma	Pan-TK inhibitors(24162815)	Responsive	Pre_clinical
+NTRK2--.	Solid tumor	Larotrectinib	Responsive	Approved
+NTRK2--.	Solid tumor	Entrectinib(26884591, 24647444, 24445538, 26457764, 26797418, 24162815, 27843590, 26603524)	Responsive	Clinical_trial
+NTRK3--.	Solid tumor	Larotrectinib	Responsive	Approved
+NTRK3--.	Solid tumor	Entrectinib(26884591, 26457764, 26797418, 27148571, 26603524)	Responsive	Clinical_trial
+NTRK3--.	Invasive Breast Carcinoma	IGF1R inhibitors(21148487;23131561)	Responsive	Pre_clinical
+NTRK3--.	Invasive Breast Carcinoma	Midostaurin(21148487;23131561)	Responsive	Pre_clinical
+NTRK3--.	Invasive Breast Carcinoma	PI3K pathway inhibitors(21148487;23131561)	Responsive	Pre_clinical
+PAPSS1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(15630448, 24345920)	Responsive	Clinical_trial
+PCBP2--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(18974108, 26343582, 22745804, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+PCM1--JAK2	Chronic Eosinophilic Leukemia, NOS	Ruxolitinib(16034466, 21325169, 23372669, 22899477, 15805263, 16424865, 24913195)	Responsive	Clinical_trial
+PDGFB--COL1A1	Dermatofibrosarcoma Protuberans	Imatinib	Responsive	Approved
+PDGFRB--.	Myelodysplastic-Myeloproliferative Neoplasms	Imatinib	Responsive	Approved
+PML--RARA	Acute Myeloid Leukemia	Tretinoin + Arsenic Trioxide	Responsive	Approved
+PML--RARA	Acute Promyelocytic Leukemia	Tretinoin	Responsive	Approved
+PML--RARA	Acute Myeloid Leukemia	Volasertib(NCT02198482;NCT01662505)	Responsive	Clinical_trial
+RAF1--.	Langerhans Cell Histiocytosis	Cobimetinib(27810072, 19363522, 20526349, 23637631)	Responsive	Clinical_trial
+RAF1--.	Prostate Adenocarcinoma	Pan-RAF inhibitors(20526349)	Responsive	Pre_clinical
+RAF1--.	Prostate Adenocarcinoma	Sorafenib(20526349)	Responsive	Pre_clinical
+RAF1--.	Prostate Adenocarcinoma	U0126(20526349)	Responsive	Pre_clinical
+RANBP1--ALK	Non-Small Cell Lung Cancer	Brigatinib	Responsive	Approved
+RANBP1--ALK	Non-Small Cell Lung Cancer	Lorlatinib	Responsive	Approved
+RANBP2--ALK	Non-Small Cell Lung Cancer	Brigatinib	Responsive	Approved
+RANBP2--ALK	Non-Small Cell Lung Cancer	Lorlatinib	Responsive	Approved
+RET--.	Non-Small Cell Lung Cancer	Cabozantinib	Responsive	Approved
+RET--.	Non-Small Cell Lung Cancer	Vandetanib	Responsive	Approved
+RET--.	Lung Adenocarcinoma	Cabozantinib(28447912)	Responsive	Clinical_trial
+RET--.	Lung Adenocarcinoma	Sunitinib(28447912)	Responsive	Clinical_trial
+RET--.	Lung Adenocarcinoma	Vandetanib(28447912)	Responsive	Clinical_trial
+RET--.	Medullary Thyroid Cancer	BLU-667(29912274, 27803005, 25064355, 27825636, 29657135, 22327623)	Responsive	Clinical_trial
+RET--.	Non-Small Cell Lung Cancer	BLU-667(29912274, 27803005, 25064355, 27825636, 29657135, 22327623)	Responsive	Clinical_trial
+RET--.	Medullary Thyroid Cancer	LOXO-292(29912274, 27803005, 25064355, 27825636, 29657135, 22327623)	Responsive	Clinical_trial
+RET--.	Non-Small Cell Lung Cancer	LOXO-292(29912274, 27803005, 25064355, 27825636, 29657135, 22327623)	Responsive	Clinical_trial
+RET--.	Lung Adenocarcinoma	Nintedanib(26787234)	Responsive	Pre_clinical
+RET--.	Lung Adenocarcinoma	RET inhibitors(22327624;22327622)	Responsive	Pre_clinical
+RET--TPCN1	Thyroid Cancer	Cabozantinib(21470995)	Responsive	Pre_clinical
+RET--TPCN1	Thyroid Cancer	RET inhibitors(23056499)	Responsive	Pre_clinical
+RET--TPCN1	Thyroid Cancer	Sunitinib(21470995)	Responsive	Pre_clinical
+RET--TPCN1	Thyroid Cancer	Vandetanib(21470995)	Responsive	Pre_clinical
+ROS1--.	Non-Small Cell Lung Cancer	Crizotinib	Responsive	Approved
+ROS1--.	Lung Adenocarcinoma	Crizotinib(25264305)	Responsive	Clinical_trial
+ROS1--.	Lung Adenocarcinoma	Cabozantinib(27370605)	Responsive	Pre_clinical
+ROS1--.	Inflammatory Myofibroblastic Tumor	Crizotinib(24875859)	Responsive	Pre_clinical
+ROS1--.	Lung Adenocarcinoma	HSP90 inhibitors(23533265)	Responsive	Pre_clinical
+SND1--BRAF	Langerhans Cell Histiocytosis	Cobimetinib(25266736, 25985019, 22745804, 24345920)	Responsive	Clinical_trial
+STRN--ALK	Non-Small Cell Lung Cancer	Brigatinib	Responsive	Approved
+STRN--ALK	Non-Small Cell Lung Cancer	Lorlatinib	Responsive	Approved
+STRN--PDGFRA	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+TMPRSS2--.	Prostate Adenocarcinoma	DNA-PKc inhibitors(21575865)	Responsive	Pre_clinical
+TMPRSS2--.	Prostate Adenocarcinoma	PARP inhibitors(21575865)	Responsive	Pre_clinical
+ZMYM2--FGFR1	Solid tumor	AZD4547(29720732)	Responsive	Pre_clinical
+ZMYM2--FGFR1	Solid tumor	BGJ398(29720732)	Responsive	Pre_clinical
+ZMYM2--FGFR1	Solid tumor	Debio1347(29720732)	Responsive	Pre_clinical
+ZMYM2--FGFR1	Solid tumor	Erdafitinib(29720732)	Responsive	Pre_clinical
+ZNF198--FGFR1	Solid tumor	AZD4547(20226962, 10887137, 10935490)	Responsive	Pre_clinical
+ZNF198--FGFR1	Solid tumor	BGJ398(20226962, 10887137, 10935490)	Responsive	Pre_clinical
+ZNF198--FGFR1	Solid tumor	Debio1347(20226962, 10887137, 10935490)	Responsive	Pre_clinical
+ZNF198--FGFR1	Solid tumor	Erdafitinib(20226962, 10887137, 10935490)	Responsive	Pre_clinical
+ABL1--BCR	Chronic Myeloid Leukemia	Bosutinib	Responsive	Approved
+ABL1--BCR	Acute lymphoblastic leukemia	Dasatinib	Responsive	Approved
+ABL1--BCR	Chronic Myeloid Leukemia	Dasatinib	Responsive	Approved
+ABL1--BCR	Acute lymphoblastic leukemia	Imatinib	Responsive	Approved
+ABL1--BCR	Chronic Myeloid Leukemia	Imatinib	Responsive	Approved
+ABL1--BCR	Chronic Myeloid Leukemia	Nilotinib	Responsive	Approved
+ABL1--BCR	Acute lymphoblastic leukemia	Ponatinib	Responsive	Approved
+ABL1--BCR	Chronic Myeloid Leukemia	Ponatinib	Responsive	Approved
+ABL1--BCR	Acute lymphoblastic leukemia	Dasatinib + Venetoclax(27582059)	Responsive	Pre_clinical
+AKT3--.	Invasive Breast Carcinoma	ATP competitive AKT inhibitors(22722202)	Responsive	Pre_clinical
+ALK--.	Non-Small Cell Lung Cancer	Alectinib	Responsive	Approved
+ALK--.	Non-Small Cell Lung Cancer	Brigatinib	Responsive	Approved
+ALK--.	Non-Small Cell Lung Cancer	Ceritinib	Responsive	Approved
+ALK--.	Non-Small Cell Lung Cancer	Crizotinib	Responsive	Approved
+ALK--.	Lung Adenocarcinoma	Alectinib	Responsive	Approved
+ALK--.	Lung Adenocarcinoma	Ceritinib	Responsive	Approved
+ALK--.	Lung Adenocarcinoma	Crizotinib	Responsive	Approved
+ALK--.	Inflammatory Myofibroblastic Tumor	Ceritinib	Responsive	Approved
+ALK--.	Inflammatory Myofibroblastic Tumor	Crizotinib	Responsive	Approved
+ALK--.	Non-Small Cell Lung Cancer	Lorlatinib	Responsive	Approved
+ALK--.	Hematologic cancer	Ceritinib(NCT02186821)	Responsive	Clinical_trial
+ALK--.	Glioblastoma	Crizotinib(24491302;NCT02270034)	Responsive	Clinical_trial
+ALK--.	Lymphoid Neoplasm	Crizotinib(24491302;NCT02270034)	Responsive	Clinical_trial
+ALK--.	Lung Adenocarcinoma	HSP90 inhibitors(23553849)	Responsive	Clinical_trial
+ALK--.	Non-Small Cell Lung Cancer	Lorlatinib(26951079)	Responsive	Clinical_trial
+ALK--.	Lung Adenocarcinoma	novel ALK inhibitors(23639470)	Responsive	Clinical_trial
+ALK--.	Lung Adenocarcinoma	ALK inhibitor + IGF1R inhibitors(25173427)	Responsive	Pre_clinical
+ALK--.	Lung Adenocarcinoma	ALK inhibitor + MEK inhibitors(26301689)	Responsive	Pre_clinical
+ALK--.	Lung Adenocarcinoma	ALK inhibitor + SRC inhibitors(25394791)	Responsive	Pre_clinical
+ALK--.	Colorectal Adenocarcinoma	ALK inhibitors(26633560)	Responsive	Pre_clinical
+ALK--.	Colorectal Adenocarcinoma	Ceritinib(26633560;26933125;27742657)	Responsive	Pre_clinical
+ALK--.	Inflammatory Myofibroblastic Tumor	Ceritinib(26633560;26933125;27742657)	Responsive	Pre_clinical
+ALK--.	Inflammatory Myofibroblastic Tumor	Crizotinib(20979472;24687827)	Responsive	Pre_clinical
+ALK--.	Thyroid Cancer	Crizotinib(20979472;24687827)	Responsive	Pre_clinical
+ALK--.	Colorectal Adenocarcinoma	Entrictinib(26633560;26933125)	Responsive	Pre_clinical
+ATG7--RAF1	Langerhans Cell Histiocytosis	Cobimetinib(23637631)	Responsive	Clinical_trial
+BCR--ABL1	Chronic Myelogenous Leukemia	Asciminib(11345193, 2825022, 11870241, 3460176)	Responsive	Clinical_trial
+BCR--ABL1	B-Lymphoblastic Leukemia-Lymphoma	Bosutinib	Responsive	Approved
+BCR--ABL1	Chronic Myelogenous Leukemia	Bosutinib	Responsive	Approved
+BCR--ABL1	B-Lymphoblastic Leukemia-Lymphoma	Dasatinib	Responsive	Approved
+BCR--ABL1	Chronic Myelogenous Leukemia	Dasatinib	Responsive	Approved
+BCR--ABL1	B-Lymphoblastic Leukemia-Lymphoma	Imatinib	Responsive	Approved
+BCR--ABL1	Chronic Myelogenous Leukemia	Imatinib	Responsive	Approved
+BCR--ABL1	B-Lymphoblastic Leukemia-Lymphoma	Nilotinib	Responsive	Approved
+BCR--ABL1	Chronic Myelogenous Leukemia	Nilotinib	Responsive	Approved
+BCR--ABL1	B-Lymphoblastic Leukemia-Lymphoma	Ponatinib	Responsive	Approved
+BRAF--.	Langerhans Cell Histiocytosis	Cobimetinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Melanoma	Cobimetinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Ovarian-Fallopian Tube Cancer	Cobimetinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Melanoma	Trametinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Ovarian-Fallopian Tube Cancer	Trametinib(26314551, 26343582, 22745804, 15630448, 28783719, 20526349, 30073261, 18974108, 25985019, 26324360, 21424530, 30257958, 24345920)	Responsive	Clinical_trial
+BRAF--.	Lung Adenocarcinoma	BRAF inhibitor + MEK inhibitors(ASCO 2017 (abstr 9072))	Responsive	Pre_clinical
+BRAF--.	Cutaneous Melanoma	MEK inhibitors(24727320;24345920;20526349)	Responsive	Pre_clinical
+BRAF--.	Lung Adenocarcinoma	MEK inhibitors(24727320;24345920;20526349)	Responsive	Pre_clinical
+BRAF--.	Prostate Adenocarcinoma	MEK inhibitors(24727320;24345920;20526349)	Responsive	Pre_clinical
+BRAF--.	Ovarian-Fallopian Tube Cancer	Selumetinib(26324360)	Responsive	Pre_clinical
+BRAF--.	Cutaneous Melanoma	Sorafenib(238900088;20526349;24727320)	Responsive	Pre_clinical
+BRAF--.	Lung Adenocarcinoma	Sorafenib(238900088;20526349;24727320)	Responsive	Pre_clinical
+BRAF--.	Prostate Adenocarcinoma	Sorafenib(238900088;20526349;24727320)	Responsive	Pre_clinical
+BRD4--C15orf55	NUT Midline Carcinoma of the Head and Neck	BET inhibitors(ENA 2015 (abstr A49))	Responsive	Pre_clinical
+CCDC6--RET	Medullary Thyroid Cancer	BLU-667(23578175, 30073261, 30257958, 30487236)	Responsive	Clinical_trial
+CCDC6--RET	Medullary Thyroid Cancer	LOXO-292(23578175, 30073261, 30257958, 30487236)	Responsive	Clinical_trial
+COL1A1--PDGFB	Dermatofibrosarcoma Protuberans	Imatinib	Responsive	Approved
+CRLF2--.	Acute lymphoblastic leukemia	BET inhibitors(22904298)	Responsive	Pre_clinical
+CRLF2--.	Acute lymphoblastic leukemia	MTOR inhibitors(22955920)	Responsive	Pre_clinical
+EGFR--RAD51	Lung Carcinoid	Erlotinib(27102076)	Responsive	Pre_clinical
+EGFR--RAD51	Non-Small Cell Lung Cancer	Erlotinib(27102076)	Responsive	Pre_clinical
+ERBB4--.	Lung Adenocarcinoma	Lapatinib + Afatinib(24727320)	Responsive	Pre_clinical
+ESR1--.	Breast Cancer	AZD9496(25099679, 29360925, 24055055)	Responsive	Clinical_trial
+ESR1--.	Breast Cancer	Fulvestrant(25099679, 29360925, 24055055)	Responsive	Clinical_trial
+ESR1--CCDC170	Breast Cancer	AZD9496(25099679, 22496636, 22101766)	Responsive	Clinical_trial
+ESR1--CCDC170	Breast Cancer	Fulvestrant(25099679, 22496636, 22101766)	Responsive	Clinical_trial
+ESR1--DAB2	Breast Cancer	AZD9496(29360925)	Responsive	Clinical_trial
+ESR1--DAB2	Breast Cancer	Fulvestrant(29360925)	Responsive	Clinical_trial
+ESR1--GYG1	Breast Cancer	AZD9496(29360925)	Responsive	Clinical_trial
+ESR1--GYG1	Breast Cancer	Fulvestrant(29360925)	Responsive	Clinical_trial
+ESR1--SOX9	Breast Cancer	AZD9496(29360925)	Responsive	Clinical_trial
+ESR1--SOX9	Breast Cancer	Fulvestrant(29360925)	Responsive	Clinical_trial
+ESR1--YAP1	Breast Cancer	AZD9496(24055055)	Responsive	Clinical_trial
+ESR1--YAP1	Breast Cancer	Fulvestrant(24055055)	Responsive	Clinical_trial
+ESR1--YAP1	Invasive Breast Carcinoma	ESR1 inhibitors(24055055)	Resistant	Pre_clinical
+ESRP1--RAF1	Langerhans Cell Histiocytosis	Cobimetinib(20526349)	Responsive	Clinical_trial
+ETV6--FLT3	Acute Myeloid Leukemia	High Dose Chemotherapy + Midostaurin	Responsive	Approved
+FGFR1--.	Solid tumor	AZD4547(23558953)	Responsive	Pre_clinical
+FGFR1--.	Solid tumor	BGJ398(23558953)	Responsive	Pre_clinical
+FGFR1--.	Solid tumor	Debio1347(23558953)	Responsive	Pre_clinical
+FGFR1--.	Solid tumor	Erdafitinib(23558953)	Responsive	Pre_clinical
+FGFR2--.	Bladder-Urinary Tract Cancer	Erdafitinib	Responsive	Approved
+FGFR2--.	Biliary Tract Cancer	FGFR inhibitors(ASCO 2016 (abstr 109))	Responsive	Clinical_trial
+FGFR2--.	Colorectal Adenocarcinoma	FGFR inhibitors(ASCO 2017 (abstr 2500))	Responsive	Clinical_trial
+FGFR2--.	Bladder-Urinary Tract Cancer	AZD4547(25608663, 28430863, 29573334, 26254407, 23558953)	Responsive	Clinical_trial
+FGFR2--.	Cholangiocarcinoma	AZD4547(25608663, 28430863, 29573334, 26254407, 23558953)	Responsive	Clinical_trial
+FGFR2--.	Bladder-Urinary Tract Cancer	BGJ398(25608663, 28430863, 29573334, 26254407, 23558953)	Responsive	Clinical_trial
+FGFR2--.	Cholangiocarcinoma	BGJ398(25608663, 28430863, 29573334, 26254407, 23558953)	Responsive	Clinical_trial
+FGFR2--.	Bladder-Urinary Tract Cancer	Debio1347(25608663, 28430863, 29573334, 26254407, 23558953)	Responsive	Clinical_trial
+FGFR2--.	Cholangiocarcinoma	Debio1347(25608663, 28430863, 29573334, 26254407, 23558953)	Responsive	Clinical_trial
+FGFR2--.	Solid tumor	AZD4547(25608663, 28430863, 29573334, 26254407, 23558953)	Responsive	Pre_clinical
+FGFR2--.	Solid tumor	BGJ398(25608663, 28430863, 29573334, 26254407, 23558953)	Responsive	Pre_clinical
+FGFR2--.	Solid tumor	Debio1347(25608663, 28430863, 29573334, 26254407, 23558953)	Responsive	Pre_clinical
+FGFR2--.	Solid tumor	Erdafitinib(25608663, 28430863, 29573334, 26254407, 23558953)	Responsive	Pre_clinical
+FGFR2--BICC1	Solid tumor	AZD4547(24122810, 23558953)	Responsive	Pre_clinical
+FGFR2--BICC1	Solid tumor	BGJ398(24122810, 23558953)	Responsive	Pre_clinical
+FGFR2--BICC1	Solid tumor	Debio1347(24122810, 23558953)	Responsive	Pre_clinical
+FGFR2--BICC1	Solid tumor	Erdafitinib(24122810, 23558953)	Responsive	Pre_clinical
+FGFR2--CIT	Solid tumor	AZD4547(23558953)	Responsive	Pre_clinical
+FGFR2--CIT	Solid tumor	BGJ398(23558953)	Responsive	Pre_clinical
+FGFR2--CIT	Solid tumor	Debio1347(23558953)	Responsive	Pre_clinical
+FGFR2--CIT	Solid tumor	Erdafitinib(23558953)	Responsive	Pre_clinical
+FGFR2--KIAA1967	Solid tumor	AZD4547(23558953)	Responsive	Pre_clinical
+FGFR2--KIAA1967	Solid tumor	BGJ398(23558953)	Responsive	Pre_clinical
+FGFR2--KIAA1967	Solid tumor	Debio1347(23558953)	Responsive	Pre_clinical
+FGFR2--KIAA1967	Solid tumor	Erdafitinib(23558953)	Responsive	Pre_clinical
+FGFR2--MGEA5	Solid tumor	AZD4547(24550739)	Responsive	Pre_clinical
+FGFR2--MGEA5	Solid tumor	BGJ398(24550739)	Responsive	Pre_clinical
+FGFR2--MGEA5	Solid tumor	Debio1347(24550739)	Responsive	Pre_clinical
+FGFR2--MGEA5	Solid tumor	Erdafitinib(24550739)	Responsive	Pre_clinical
+FGFR2--TACC3	Solid tumor	AZD4547(26048680)	Responsive	Pre_clinical
+FGFR2--TACC3	Solid tumor	BGJ398(26048680)	Responsive	Pre_clinical
+FGFR2--TACC3	Solid tumor	Debio1347(26048680)	Responsive	Pre_clinical
+FGFR2--TACC3	Solid tumor	Erdafitinib(26048680)	Responsive	Pre_clinical
+FGFR3--.	Bladder-Urinary Tract Cancer	Erdafitinib	Responsive	Approved
+FGFR3--.	Diffuse Glioma	FGFR inhibitors(26324363)	Responsive	Clinical_trial
+FGFR3--.	Bladder-Urinary Tract Cancer	AZD4547(23298836, 23661334, 22837387, 23558953)	Responsive	Clinical_trial
+FGFR3--.	Bladder-Urinary Tract Cancer	BGJ398(23298836, 23661334, 22837387, 23558953)	Responsive	Clinical_trial
+FGFR3--.	Bladder-Urinary Tract Cancer	Debio1347(23298836, 23661334, 22837387, 23558953)	Responsive	Clinical_trial
+FGFR3--.	Bladder Adenocarcinoma	FGFR inhibitors(26324363;ASCO 2017 (abstr 2500))	Responsive	Pre_clinical
+FGFR3--.	Solid tumor	AZD4547(23298836, 23661334, 22837387, 23558953)	Responsive	Pre_clinical
+FGFR3--.	Solid tumor	BGJ398(23298836, 23661334, 22837387, 23558953)	Responsive	Pre_clinical
+FGFR3--.	Solid tumor	Debio1347(23298836, 23661334, 22837387, 23558953)	Responsive	Pre_clinical
+FGFR3--.	Solid tumor	Erdafitinib(23298836, 23661334, 22837387, 23558953)	Responsive	Pre_clinical
+FGFR3--BAIAP2L1	Solid tumor	AZD4547(23175443)	Responsive	Pre_clinical
+FGFR3--BAIAP2L1	Solid tumor	BGJ398(23175443)	Responsive	Pre_clinical
+FGFR3--BAIAP2L1	Solid tumor	Debio1347(23175443)	Responsive	Pre_clinical
+FGFR3--BAIAP2L1	Solid tumor	Erdafitinib(23175443)	Responsive	Pre_clinical
+FGFR3--TACC3	Non-Small Cell Lung Cancer	FGFR inhibitors(25294908)	Responsive	Pre_clinical
+FGFR3--TACC3	Solid tumor	AZD4547(25609060, 22837387)	Responsive	Pre_clinical
+FGFR3--TACC3	Solid tumor	BGJ398(25609060, 22837387)	Responsive	Pre_clinical
+FGFR3--TACC3	Solid tumor	Debio1347(25609060, 22837387)	Responsive	Pre_clinical
+FGFR3--TACC3	Solid tumor	Erdafitinib(25609060, 22837387)	Responsive	Pre_clinical
+KIF5B--RET	Medullary Thyroid Cancer	BLU-667(22327624, 30487236)	Responsive	Clinical_trial
+KIF5B--RET	Medullary Thyroid Cancer	LOXO-292(22327624, 30487236)	Responsive	Clinical_trial
+MET--.	Diffuse Glioma	Crizotinib(27748748)	Responsive	Pre_clinical
+MET--.	Any cancer	Crizotinib(28512244, 29102694, 28510278, 27748748, 29527595, 29284707)	Responsive	Pre_clinical
+MLL--.	Acute Myeloid Leukemia	Daunorubicin	Responsive	Approved
+MLL--.	Acute Myeloid Leukemia	Belinostat(NCT00351975;NCT00357032;22015773)	Responsive	Clinical_trial
+MLL--.	Acute lymphoblastic leukemia	EPZ-5676(NCT02141828;NCT01684150;21741596)	Responsive	Clinical_trial
+MLL--.	Acute Myeloid Leukemia	EPZ-5676(NCT02141828;NCT01684150;21741596)	Responsive	Clinical_trial
+MLL--.	Myelodysplastic Syndromes	EPZ-5676(NCT02141828;NCT01684150;21741596)	Responsive	Clinical_trial
+MLL--.	Acute Myeloid Leukemia	BET inhibitors(21964340)	Responsive	Pre_clinical
+NCOA4--RET	Medullary Thyroid Cancer	BLU-667(30279230, 28011461, 27626672, 30487236)	Responsive	Clinical_trial
+NCOA4--RET	Medullary Thyroid Cancer	LOXO-292(30279230, 28011461, 27626672, 30487236)	Responsive	Clinical_trial
+NOTCH1--.	Acute lymphoblastic leukemia	Gamma secretase inhibitors(16688224;23033986)	Responsive	Pre_clinical
+NOTCH1--.	Invasive Breast Carcinoma	Gamma secretase inhibitors(22101766)	Responsive	Pre_clinical
+NOTCH2--.	Invasive Breast Carcinoma	Gamma secretase inhibitors(22101766)	Responsive	Pre_clinical
+NRG1--.	Lung Adenocarcinoma	Afatinib(AACR 2016 (abstr 2631))	Responsive	Pre_clinical
+NRG1--.	Lung Adenocarcinoma	Lapatinib(24727320)	Responsive	Pre_clinical
+NTRK1--.	Solid tumor	Larotrectinib	Responsive	Approved
+NTRK1--.	Any cancer	Pan-TKR inhibitors(28183697;ASCO 2017 (LBA2501))	Responsive	Clinical_trial
+NTRK1--.	Solid tumor	Entrectinib(24162815)	Responsive	Clinical_trial
+NTRK1--.	Lung Adenocarcinoma	Crizotinib(ASCO 2013 (abstr 8023))	Responsive	Pre_clinical
+NTRK1--.	Colorectal Adenocarcinoma	Pan-TK inhibitors(26546295)	Responsive	Pre_clinical
+NTRK1--.	Lung Adenocarcinoma	Pan-TK inhibitors(24162815)	Responsive	Pre_clinical
+NTRK2--.	Solid tumor	Larotrectinib	Responsive	Approved
+NTRK2--.	Solid tumor	Entrectinib(26884591, 24647444, 24445538, 26457764, 26797418, 24162815, 27843590, 26603524)	Responsive	Clinical_trial
+NTRK3--.	Solid tumor	Larotrectinib	Responsive	Approved
+NTRK3--.	Solid tumor	Entrectinib(26884591, 26457764, 26797418, 27148571, 26603524)	Responsive	Clinical_trial
+NTRK3--.	Invasive Breast Carcinoma	IGF1R inhibitors(21148487;23131561)	Responsive	Pre_clinical
+NTRK3--.	Invasive Breast Carcinoma	Midostaurin(21148487;23131561)	Responsive	Pre_clinical
+NTRK3--.	Invasive Breast Carcinoma	PI3K pathway inhibitors(21148487;23131561)	Responsive	Pre_clinical
+PDGFB--COL1A1	Dermatofibrosarcoma Protuberans	Imatinib	Responsive	Approved
+PDGFRA--.	Myelodysplastic Syndromes	Imatinib	Responsive	Approved
+PDGFRA--.	Myelodysplastic Syndromes	Imatinib	Responsive	Approved
+PDGFRA--.	Gastrointestinal Stromal Tumor	Imatinib	Responsive	Approved
+PDGFRA--.	Myelodysplastic-Myeloproliferative Neoplasms	Imatinib	Responsive	Approved
+PDGFRB--.	Myelodysplastic-Myeloproliferative Neoplasms	Imatinib	Responsive	Approved
+PML--RARA	Acute Myeloid Leukemia	Tretinoin + Arsenic Trioxide	Responsive	Approved
+PML--RARA	Acute Promyelocytic Leukemia	Tretinoin	Responsive	Approved
+PML--RARA	Acute Myeloid Leukemia	Volasertib(NCT02198482;NCT01662505)	Responsive	Clinical_trial
+RAF1--.	Langerhans Cell Histiocytosis	Cobimetinib(27810072, 19363522, 20526349, 23637631)	Responsive	Clinical_trial
+RAF1--.	Prostate Adenocarcinoma	Pan-RAF inhibitors(20526349)	Responsive	Pre_clinical
+RAF1--.	Prostate Adenocarcinoma	Sorafenib(20526349)	Responsive	Pre_clinical
+RAF1--.	Prostate Adenocarcinoma	U0126(20526349)	Responsive	Pre_clinical
+RET--.	Non-Small Cell Lung Cancer	Cabozantinib	Responsive	Approved
+RET--.	Non-Small Cell Lung Cancer	Vandetanib	Responsive	Approved
+RET--.	Lung Adenocarcinoma	Cabozantinib(28447912)	Responsive	Clinical_trial
+RET--.	Lung Adenocarcinoma	Sunitinib(28447912)	Responsive	Clinical_trial
+RET--.	Lung Adenocarcinoma	Vandetanib(28447912)	Responsive	Clinical_trial
+RET--.	Medullary Thyroid Cancer	BLU-667(29912274, 27803005, 25064355, 27825636, 29657135, 22327623)	Responsive	Clinical_trial
+RET--.	Non-Small Cell Lung Cancer	BLU-667(29912274, 27803005, 25064355, 27825636, 29657135, 22327623)	Responsive	Clinical_trial
+RET--.	Medullary Thyroid Cancer	LOXO-292(29912274, 27803005, 25064355, 27825636, 29657135, 22327623)	Responsive	Clinical_trial
+RET--.	Non-Small Cell Lung Cancer	LOXO-292(29912274, 27803005, 25064355, 27825636, 29657135, 22327623)	Responsive	Clinical_trial
+RET--.	Lung Adenocarcinoma	Nintedanib(26787234)	Responsive	Pre_clinical
+RET--.	Lung Adenocarcinoma	RET inhibitors(22327624;22327622)	Responsive	Pre_clinical
+RET--TPCN1	Thyroid Cancer	Cabozantinib(21470995)	Responsive	Pre_clinical
+RET--TPCN1	Thyroid Cancer	RET inhibitors(23056499)	Responsive	Pre_clinical
+RET--TPCN1	Thyroid Cancer	Sunitinib(21470995)	Responsive	Pre_clinical
+RET--TPCN1	Thyroid Cancer	Vandetanib(21470995)	Responsive	Pre_clinical
+ROS1--.	Non-Small Cell Lung Cancer	Crizotinib	Responsive	Approved
+ROS1--.	Lung Adenocarcinoma	Crizotinib(25264305)	Responsive	Clinical_trial
+ROS1--.	Lung Adenocarcinoma	Cabozantinib(27370605)	Responsive	Pre_clinical
+ROS1--.	Inflammatory Myofibroblastic Tumor	Crizotinib(24875859)	Responsive	Pre_clinical
+ROS1--.	Lung Adenocarcinoma	HSP90 inhibitors(23533265)	Responsive	Pre_clinical
+RUFY1--RET	Medullary Thyroid Cancer	BLU-667(30279230)	Responsive	Clinical_trial
+RUFY1--RET	Medullary Thyroid Cancer	LOXO-292(30279230)	Responsive	Clinical_trial
+SRGAP3--RAF1	Langerhans Cell Histiocytosis	Cobimetinib(19363522)	Responsive	Clinical_trial
+TMPRSS2--.	Prostate Adenocarcinoma	DNA-PKc inhibitors(21575865)	Responsive	Pre_clinical
+TMPRSS2--.	Prostate Adenocarcinoma	PARP inhibitors(21575865)	Responsive	Pre_clinical
+FGFR2--AHCYL1	Solid tumor	levonorgestrel(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--AHCYL1	Solid tumor	levonorgestrel(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--AHCYL1	Solid tumor	levonorgestrel(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--AHCYL1	Solid tumor	levonorgestrel(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+AKT3--.	Invasive Breast Carcinoma	GSK2110183(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+AKT3--.	Invasive Breast Carcinoma	MK-2206(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ALK--.	Non-Small Cell Lung Cancer	torasemide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ALK--.	Non-Small Cell Lung Cancer	torasemide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ALK--.	Non-Small Cell Lung Cancer	torasemide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ALK--.	Non-Small Cell Lung Cancer	torasemide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ALK--.	Lung Adenocarcinoma	torasemide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ALK--.	Lung Adenocarcinoma	torasemide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ALK--.	Lung Adenocarcinoma	torasemide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ALK--.	Inflammatory Myofibroblastic Tumor	torasemide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ALK--.	Inflammatory Myofibroblastic Tumor	torasemide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ALK--.	Non-Small Cell Lung Cancer	torasemide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ALK--.	Hematologic cancer	torasemide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ALK--.	Glioblastoma	torasemide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ALK--.	Lymphoid Neoplasm	torasemide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ALK--.	Lung Adenocarcinoma	torasemide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ALK--.	Non-Small Cell Lung Cancer	torasemide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ALK--.	Lung Adenocarcinoma	torasemide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ALK--.	Lung Adenocarcinoma	torasemide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ALK--.	Lung Adenocarcinoma	torasemide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ALK--.	Lung Adenocarcinoma	torasemide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ALK--.	Colorectal Adenocarcinoma	torasemide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ALK--.	Colorectal Adenocarcinoma	torasemide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ALK--.	Inflammatory Myofibroblastic Tumor	torasemide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ALK--.	Inflammatory Myofibroblastic Tumor	torasemide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ALK--.	Thyroid Cancer	torasemide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ALK--.	Colorectal Adenocarcinoma	torasemide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CAD--ALK	Non-Small Cell Lung Cancer	torasemide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CAD--ALK	Non-Small Cell Lung Cancer	torasemide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+EML4--ALK	Non-Small Cell Lung Cancer	torasemide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+EML4--ALK	Non-Small Cell Lung Cancer	torasemide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+KIF5B--ALK	Non-Small Cell Lung Cancer	torasemide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+KIF5B--ALK	Non-Small Cell Lung Cancer	torasemide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+NPM--ALK	Non-Small Cell Lung Cancer	torasemide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+NPM--ALK	Non-Small Cell Lung Cancer	torasemide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+RANBP1--ALK	Non-Small Cell Lung Cancer	torasemide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+RANBP1--ALK	Non-Small Cell Lung Cancer	torasemide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+RANBP2--ALK	Non-Small Cell Lung Cancer	torasemide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+RANBP2--ALK	Non-Small Cell Lung Cancer	torasemide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+STRN--ALK	Non-Small Cell Lung Cancer	torasemide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+STRN--ALK	Non-Small Cell Lung Cancer	torasemide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Langerhans Cell Histiocytosis	bafetinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Langerhans Cell Histiocytosis	PLX-4720(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Langerhans Cell Histiocytosis	dabrafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Langerhans Cell Histiocytosis	MLN2480(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Langerhans Cell Histiocytosis	SB-590885(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Langerhans Cell Histiocytosis	vemurafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Langerhans Cell Histiocytosis	refametinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Langerhans Cell Histiocytosis	MEK1-2-inhibitor(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Langerhans Cell Histiocytosis	camicinal(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Melanoma	bafetinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Melanoma	PLX-4720(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Melanoma	dabrafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Melanoma	MLN2480(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Melanoma	SB-590885(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Melanoma	vemurafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Melanoma	refametinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Melanoma	MEK1-2-inhibitor(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Melanoma	camicinal(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Ovarian-Fallopian Tube Cancer	bafetinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Ovarian-Fallopian Tube Cancer	PLX-4720(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Ovarian-Fallopian Tube Cancer	dabrafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Ovarian-Fallopian Tube Cancer	MLN2480(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Ovarian-Fallopian Tube Cancer	SB-590885(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Ovarian-Fallopian Tube Cancer	vemurafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Ovarian-Fallopian Tube Cancer	refametinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Ovarian-Fallopian Tube Cancer	MEK1-2-inhibitor(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Ovarian-Fallopian Tube Cancer	camicinal(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Melanoma	bafetinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Melanoma	PLX-4720(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Melanoma	dabrafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Melanoma	MLN2480(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Melanoma	SB-590885(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Melanoma	vemurafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Melanoma	refametinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Melanoma	MEK1-2-inhibitor(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Melanoma	camicinal(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Ovarian-Fallopian Tube Cancer	bafetinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Ovarian-Fallopian Tube Cancer	PLX-4720(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Ovarian-Fallopian Tube Cancer	dabrafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Ovarian-Fallopian Tube Cancer	MLN2480(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Ovarian-Fallopian Tube Cancer	SB-590885(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Ovarian-Fallopian Tube Cancer	vemurafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Ovarian-Fallopian Tube Cancer	refametinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Ovarian-Fallopian Tube Cancer	MEK1-2-inhibitor(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Ovarian-Fallopian Tube Cancer	camicinal(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Lung Adenocarcinoma	bafetinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Lung Adenocarcinoma	PLX-4720(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Lung Adenocarcinoma	dabrafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Lung Adenocarcinoma	MLN2480(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Lung Adenocarcinoma	SB-590885(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Lung Adenocarcinoma	vemurafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Lung Adenocarcinoma	refametinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Lung Adenocarcinoma	MEK1-2-inhibitor(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Lung Adenocarcinoma	camicinal(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Cutaneous Melanoma	bafetinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Cutaneous Melanoma	PLX-4720(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Cutaneous Melanoma	dabrafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Cutaneous Melanoma	MLN2480(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Cutaneous Melanoma	SB-590885(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Cutaneous Melanoma	vemurafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Cutaneous Melanoma	refametinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Cutaneous Melanoma	MEK1-2-inhibitor(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Cutaneous Melanoma	camicinal(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Lung Adenocarcinoma	bafetinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Lung Adenocarcinoma	PLX-4720(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Lung Adenocarcinoma	dabrafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Lung Adenocarcinoma	MLN2480(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Lung Adenocarcinoma	SB-590885(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Lung Adenocarcinoma	vemurafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Lung Adenocarcinoma	refametinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Lung Adenocarcinoma	MEK1-2-inhibitor(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Lung Adenocarcinoma	camicinal(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Prostate Adenocarcinoma	bafetinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Prostate Adenocarcinoma	PLX-4720(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Prostate Adenocarcinoma	dabrafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Prostate Adenocarcinoma	MLN2480(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Prostate Adenocarcinoma	SB-590885(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Prostate Adenocarcinoma	vemurafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Prostate Adenocarcinoma	refametinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Prostate Adenocarcinoma	MEK1-2-inhibitor(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Prostate Adenocarcinoma	camicinal(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Ovarian-Fallopian Tube Cancer	bafetinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Ovarian-Fallopian Tube Cancer	PLX-4720(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Ovarian-Fallopian Tube Cancer	dabrafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Ovarian-Fallopian Tube Cancer	MLN2480(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Ovarian-Fallopian Tube Cancer	SB-590885(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Ovarian-Fallopian Tube Cancer	vemurafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Ovarian-Fallopian Tube Cancer	refametinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Ovarian-Fallopian Tube Cancer	MEK1-2-inhibitor(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Ovarian-Fallopian Tube Cancer	camicinal(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Cutaneous Melanoma	bafetinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Cutaneous Melanoma	PLX-4720(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Cutaneous Melanoma	dabrafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Cutaneous Melanoma	MLN2480(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Cutaneous Melanoma	SB-590885(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Cutaneous Melanoma	vemurafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Cutaneous Melanoma	refametinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Cutaneous Melanoma	MEK1-2-inhibitor(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Cutaneous Melanoma	camicinal(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Lung Adenocarcinoma	bafetinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Lung Adenocarcinoma	PLX-4720(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Lung Adenocarcinoma	dabrafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Lung Adenocarcinoma	MLN2480(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Lung Adenocarcinoma	SB-590885(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Lung Adenocarcinoma	vemurafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Lung Adenocarcinoma	refametinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Lung Adenocarcinoma	MEK1-2-inhibitor(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Lung Adenocarcinoma	camicinal(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Prostate Adenocarcinoma	bafetinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Prostate Adenocarcinoma	PLX-4720(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Prostate Adenocarcinoma	dabrafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Prostate Adenocarcinoma	MLN2480(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Prostate Adenocarcinoma	SB-590885(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Prostate Adenocarcinoma	vemurafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Prostate Adenocarcinoma	refametinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Prostate Adenocarcinoma	MEK1-2-inhibitor(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BRAF--.	Prostate Adenocarcinoma	camicinal(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+AGAP3--BRAF	Langerhans Cell Histiocytosis	bafetinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+AGAP3--BRAF	Langerhans Cell Histiocytosis	PLX-4720(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+AGAP3--BRAF	Langerhans Cell Histiocytosis	dabrafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+AGAP3--BRAF	Langerhans Cell Histiocytosis	MLN2480(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+AGAP3--BRAF	Langerhans Cell Histiocytosis	SB-590885(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+AGAP3--BRAF	Langerhans Cell Histiocytosis	vemurafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+AGAP3--BRAF	Langerhans Cell Histiocytosis	refametinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+AGAP3--BRAF	Langerhans Cell Histiocytosis	MEK1-2-inhibitor(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+AGAP3--BRAF	Langerhans Cell Histiocytosis	camicinal(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+AGK--BRAF	Langerhans Cell Histiocytosis	bafetinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+AGK--BRAF	Langerhans Cell Histiocytosis	PLX-4720(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+AGK--BRAF	Langerhans Cell Histiocytosis	dabrafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+AGK--BRAF	Langerhans Cell Histiocytosis	MLN2480(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+AGK--BRAF	Langerhans Cell Histiocytosis	SB-590885(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+AGK--BRAF	Langerhans Cell Histiocytosis	vemurafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+AGK--BRAF	Langerhans Cell Histiocytosis	refametinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+AGK--BRAF	Langerhans Cell Histiocytosis	MEK1-2-inhibitor(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+AGK--BRAF	Langerhans Cell Histiocytosis	camicinal(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+AKAP9--BRAF	Langerhans Cell Histiocytosis	bafetinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+AKAP9--BRAF	Langerhans Cell Histiocytosis	PLX-4720(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+AKAP9--BRAF	Langerhans Cell Histiocytosis	dabrafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+AKAP9--BRAF	Langerhans Cell Histiocytosis	MLN2480(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+AKAP9--BRAF	Langerhans Cell Histiocytosis	SB-590885(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+AKAP9--BRAF	Langerhans Cell Histiocytosis	vemurafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+AKAP9--BRAF	Langerhans Cell Histiocytosis	refametinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+AKAP9--BRAF	Langerhans Cell Histiocytosis	MEK1-2-inhibitor(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+AKAP9--BRAF	Langerhans Cell Histiocytosis	camicinal(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ARMC10--BRAF	Langerhans Cell Histiocytosis	bafetinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ARMC10--BRAF	Langerhans Cell Histiocytosis	PLX-4720(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ARMC10--BRAF	Langerhans Cell Histiocytosis	dabrafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ARMC10--BRAF	Langerhans Cell Histiocytosis	MLN2480(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ARMC10--BRAF	Langerhans Cell Histiocytosis	SB-590885(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ARMC10--BRAF	Langerhans Cell Histiocytosis	vemurafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ARMC10--BRAF	Langerhans Cell Histiocytosis	refametinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ARMC10--BRAF	Langerhans Cell Histiocytosis	MEK1-2-inhibitor(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ARMC10--BRAF	Langerhans Cell Histiocytosis	camicinal(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CUL1--BRAF	Langerhans Cell Histiocytosis	bafetinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CUL1--BRAF	Langerhans Cell Histiocytosis	PLX-4720(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CUL1--BRAF	Langerhans Cell Histiocytosis	dabrafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CUL1--BRAF	Langerhans Cell Histiocytosis	MLN2480(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CUL1--BRAF	Langerhans Cell Histiocytosis	SB-590885(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CUL1--BRAF	Langerhans Cell Histiocytosis	vemurafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CUL1--BRAF	Langerhans Cell Histiocytosis	refametinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CUL1--BRAF	Langerhans Cell Histiocytosis	MEK1-2-inhibitor(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CUL1--BRAF	Langerhans Cell Histiocytosis	camicinal(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FAM131B--BRAF	Langerhans Cell Histiocytosis	bafetinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FAM131B--BRAF	Langerhans Cell Histiocytosis	PLX-4720(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FAM131B--BRAF	Langerhans Cell Histiocytosis	dabrafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FAM131B--BRAF	Langerhans Cell Histiocytosis	MLN2480(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FAM131B--BRAF	Langerhans Cell Histiocytosis	SB-590885(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FAM131B--BRAF	Langerhans Cell Histiocytosis	vemurafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FAM131B--BRAF	Langerhans Cell Histiocytosis	refametinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FAM131B--BRAF	Langerhans Cell Histiocytosis	MEK1-2-inhibitor(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FAM131B--BRAF	Langerhans Cell Histiocytosis	camicinal(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+GTF2I--BRAF	Langerhans Cell Histiocytosis	bafetinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+GTF2I--BRAF	Langerhans Cell Histiocytosis	PLX-4720(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+GTF2I--BRAF	Langerhans Cell Histiocytosis	dabrafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+GTF2I--BRAF	Langerhans Cell Histiocytosis	MLN2480(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+GTF2I--BRAF	Langerhans Cell Histiocytosis	SB-590885(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+GTF2I--BRAF	Langerhans Cell Histiocytosis	vemurafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+GTF2I--BRAF	Langerhans Cell Histiocytosis	refametinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+GTF2I--BRAF	Langerhans Cell Histiocytosis	MEK1-2-inhibitor(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+GTF2I--BRAF	Langerhans Cell Histiocytosis	camicinal(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+JAK2--BRAF	Acute lymphoblastic leukemia	bafetinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+JAK2--BRAF	Acute lymphoblastic leukemia	PLX-4720(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+JAK2--BRAF	Acute lymphoblastic leukemia	dabrafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+JAK2--BRAF	Acute lymphoblastic leukemia	MLN2480(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+JAK2--BRAF	Acute lymphoblastic leukemia	SB-590885(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+JAK2--BRAF	Acute lymphoblastic leukemia	vemurafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+JAK2--BRAF	Acute lymphoblastic leukemia	refametinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+JAK2--BRAF	Acute lymphoblastic leukemia	MEK1-2-inhibitor(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+JAK2--BRAF	Acute lymphoblastic leukemia	camicinal(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+KIAA1549--BRAF	Langerhans Cell Histiocytosis	bafetinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+KIAA1549--BRAF	Langerhans Cell Histiocytosis	PLX-4720(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+KIAA1549--BRAF	Langerhans Cell Histiocytosis	dabrafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+KIAA1549--BRAF	Langerhans Cell Histiocytosis	MLN2480(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+KIAA1549--BRAF	Langerhans Cell Histiocytosis	SB-590885(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+KIAA1549--BRAF	Langerhans Cell Histiocytosis	vemurafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+KIAA1549--BRAF	Langerhans Cell Histiocytosis	refametinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+KIAA1549--BRAF	Langerhans Cell Histiocytosis	MEK1-2-inhibitor(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+KIAA1549--BRAF	Langerhans Cell Histiocytosis	camicinal(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+MKRN1--BRAF	Langerhans Cell Histiocytosis	bafetinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+MKRN1--BRAF	Langerhans Cell Histiocytosis	PLX-4720(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+MKRN1--BRAF	Langerhans Cell Histiocytosis	dabrafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+MKRN1--BRAF	Langerhans Cell Histiocytosis	MLN2480(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+MKRN1--BRAF	Langerhans Cell Histiocytosis	SB-590885(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+MKRN1--BRAF	Langerhans Cell Histiocytosis	vemurafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+MKRN1--BRAF	Langerhans Cell Histiocytosis	refametinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+MKRN1--BRAF	Langerhans Cell Histiocytosis	MEK1-2-inhibitor(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+MKRN1--BRAF	Langerhans Cell Histiocytosis	camicinal(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PAPSS1--BRAF	Langerhans Cell Histiocytosis	bafetinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PAPSS1--BRAF	Langerhans Cell Histiocytosis	PLX-4720(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PAPSS1--BRAF	Langerhans Cell Histiocytosis	dabrafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PAPSS1--BRAF	Langerhans Cell Histiocytosis	MLN2480(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PAPSS1--BRAF	Langerhans Cell Histiocytosis	SB-590885(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PAPSS1--BRAF	Langerhans Cell Histiocytosis	vemurafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PAPSS1--BRAF	Langerhans Cell Histiocytosis	refametinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PAPSS1--BRAF	Langerhans Cell Histiocytosis	MEK1-2-inhibitor(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PAPSS1--BRAF	Langerhans Cell Histiocytosis	camicinal(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PCBP2--BRAF	Langerhans Cell Histiocytosis	bafetinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PCBP2--BRAF	Langerhans Cell Histiocytosis	PLX-4720(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PCBP2--BRAF	Langerhans Cell Histiocytosis	dabrafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PCBP2--BRAF	Langerhans Cell Histiocytosis	MLN2480(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PCBP2--BRAF	Langerhans Cell Histiocytosis	SB-590885(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PCBP2--BRAF	Langerhans Cell Histiocytosis	vemurafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PCBP2--BRAF	Langerhans Cell Histiocytosis	refametinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PCBP2--BRAF	Langerhans Cell Histiocytosis	MEK1-2-inhibitor(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PCBP2--BRAF	Langerhans Cell Histiocytosis	camicinal(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PPFIBP2--BRAF	Langerhans Cell Histiocytosis	bafetinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PPFIBP2--BRAF	Langerhans Cell Histiocytosis	PLX-4720(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PPFIBP2--BRAF	Langerhans Cell Histiocytosis	dabrafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PPFIBP2--BRAF	Langerhans Cell Histiocytosis	MLN2480(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PPFIBP2--BRAF	Langerhans Cell Histiocytosis	SB-590885(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PPFIBP2--BRAF	Langerhans Cell Histiocytosis	vemurafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PPFIBP2--BRAF	Langerhans Cell Histiocytosis	refametinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PPFIBP2--BRAF	Langerhans Cell Histiocytosis	MEK1-2-inhibitor(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PPFIBP2--BRAF	Langerhans Cell Histiocytosis	camicinal(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+SND1--BRAF	Langerhans Cell Histiocytosis	bafetinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+SND1--BRAF	Langerhans Cell Histiocytosis	PLX-4720(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+SND1--BRAF	Langerhans Cell Histiocytosis	dabrafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+SND1--BRAF	Langerhans Cell Histiocytosis	MLN2480(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+SND1--BRAF	Langerhans Cell Histiocytosis	SB-590885(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+SND1--BRAF	Langerhans Cell Histiocytosis	vemurafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+SND1--BRAF	Langerhans Cell Histiocytosis	refametinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+SND1--BRAF	Langerhans Cell Histiocytosis	MEK1-2-inhibitor(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+SND1--BRAF	Langerhans Cell Histiocytosis	camicinal(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+TRIM24--BRAF	Langerhans Cell Histiocytosis	bafetinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+TRIM24--BRAF	Langerhans Cell Histiocytosis	PLX-4720(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+TRIM24--BRAF	Langerhans Cell Histiocytosis	dabrafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+TRIM24--BRAF	Langerhans Cell Histiocytosis	MLN2480(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+TRIM24--BRAF	Langerhans Cell Histiocytosis	SB-590885(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+TRIM24--BRAF	Langerhans Cell Histiocytosis	vemurafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+TRIM24--BRAF	Langerhans Cell Histiocytosis	refametinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+TRIM24--BRAF	Langerhans Cell Histiocytosis	MEK1-2-inhibitor(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+TRIM24--BRAF	Langerhans Cell Histiocytosis	camicinal(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ZKSCAN1--BRAF	Langerhans Cell Histiocytosis	bafetinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ZKSCAN1--BRAF	Langerhans Cell Histiocytosis	PLX-4720(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ZKSCAN1--BRAF	Langerhans Cell Histiocytosis	dabrafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ZKSCAN1--BRAF	Langerhans Cell Histiocytosis	MLN2480(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ZKSCAN1--BRAF	Langerhans Cell Histiocytosis	SB-590885(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ZKSCAN1--BRAF	Langerhans Cell Histiocytosis	vemurafenib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ZKSCAN1--BRAF	Langerhans Cell Histiocytosis	refametinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ZKSCAN1--BRAF	Langerhans Cell Histiocytosis	MEK1-2-inhibitor(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ZKSCAN1--BRAF	Langerhans Cell Histiocytosis	camicinal(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CAD--ALK	Non-Small Cell Lung Cancer	tipifarnib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CAD--ALK	Non-Small Cell Lung Cancer	azathioprine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CAD--ALK	Non-Small Cell Lung Cancer	tipifarnib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CAD--ALK	Non-Small Cell Lung Cancer	azathioprine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CCDC6--RET	Medullary Thyroid Cancer	PMPA(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CCDC6--RET	Medullary Thyroid Cancer	PMPA(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--CCDC6	Solid tumor	PMPA(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--CCDC6	Solid tumor	PMPA(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--CCDC6	Solid tumor	PMPA(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--CCDC6	Solid tumor	PMPA(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CDK5RAP2--PDGFRA	Gastrointestinal Stromal Tumor	quinethazone(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+EGFR--RAD51	Lung Carcinoid	canertinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+EGFR--RAD51	Lung Carcinoid	olmutinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+EGFR--RAD51	Lung Carcinoid	EGF816(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+EGFR--RAD51	Lung Carcinoid	BIBX-1382(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+EGFR--RAD51	Lung Carcinoid	BMS-599626(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+EGFR--RAD51	Lung Carcinoid	WHI-P154(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+EGFR--RAD51	Lung Carcinoid	icotinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+EGFR--RAD51	Non-Small Cell Lung Cancer	canertinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+EGFR--RAD51	Non-Small Cell Lung Cancer	olmutinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+EGFR--RAD51	Non-Small Cell Lung Cancer	EGF816(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+EGFR--RAD51	Non-Small Cell Lung Cancer	BIBX-1382(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+EGFR--RAD51	Non-Small Cell Lung Cancer	BMS-599626(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+EGFR--RAD51	Non-Small Cell Lung Cancer	WHI-P154(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+EGFR--RAD51	Non-Small Cell Lung Cancer	icotinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ERBB4--.	Lung Adenocarcinoma	lomeguatrib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ESRP1--RAF1	Langerhans Cell Histiocytosis	alfacalcidol(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--FAM76A	Solid tumor	pemirolast(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--FAM76A	Solid tumor	pemirolast(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--FAM76A	Solid tumor	pemirolast(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--FAM76A	Solid tumor	pemirolast(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR1--.	Solid tumor	captopril(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR1--.	Solid tumor	muscimol(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR1--.	Solid tumor	captopril(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR1--.	Solid tumor	muscimol(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR1--.	Solid tumor	captopril(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR1--.	Solid tumor	muscimol(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR1--.	Solid tumor	captopril(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR1--.	Solid tumor	muscimol(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR1--TACC1	Solid tumor	captopril(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR1--TACC1	Solid tumor	muscimol(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR1--TACC1	Solid tumor	captopril(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR1--TACC1	Solid tumor	muscimol(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR1--TACC1	Solid tumor	captopril(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR1--TACC1	Solid tumor	muscimol(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR1--TACC1	Solid tumor	captopril(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR1--TACC1	Solid tumor	muscimol(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BCR--FGFR1	Solid tumor	captopril(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BCR--FGFR1	Solid tumor	muscimol(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BCR--FGFR1	Solid tumor	captopril(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BCR--FGFR1	Solid tumor	muscimol(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BCR--FGFR1	Solid tumor	captopril(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BCR--FGFR1	Solid tumor	muscimol(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BCR--FGFR1	Solid tumor	captopril(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BCR--FGFR1	Solid tumor	muscimol(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CEP110--FGFR1	Solid tumor	captopril(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CEP110--FGFR1	Solid tumor	muscimol(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CEP110--FGFR1	Solid tumor	captopril(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CEP110--FGFR1	Solid tumor	muscimol(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CEP110--FGFR1	Solid tumor	captopril(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CEP110--FGFR1	Solid tumor	muscimol(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CEP110--FGFR1	Solid tumor	captopril(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CEP110--FGFR1	Solid tumor	muscimol(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CNTRL--FGFR1	Solid tumor	captopril(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CNTRL--FGFR1	Solid tumor	muscimol(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CNTRL--FGFR1	Solid tumor	captopril(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CNTRL--FGFR1	Solid tumor	muscimol(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CNTRL--FGFR1	Solid tumor	captopril(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CNTRL--FGFR1	Solid tumor	muscimol(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CNTRL--FGFR1	Solid tumor	captopril(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CNTRL--FGFR1	Solid tumor	muscimol(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CUX1--FGFR1	Solid tumor	captopril(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CUX1--FGFR1	Solid tumor	muscimol(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CUX1--FGFR1	Solid tumor	captopril(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CUX1--FGFR1	Solid tumor	muscimol(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CUX1--FGFR1	Solid tumor	captopril(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CUX1--FGFR1	Solid tumor	muscimol(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CUX1--FGFR1	Solid tumor	captopril(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CUX1--FGFR1	Solid tumor	muscimol(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ERLIN2--FGFR1	Solid tumor	captopril(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ERLIN2--FGFR1	Solid tumor	muscimol(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ERLIN2--FGFR1	Solid tumor	captopril(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ERLIN2--FGFR1	Solid tumor	muscimol(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ERLIN2--FGFR1	Solid tumor	captopril(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ERLIN2--FGFR1	Solid tumor	muscimol(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ERLIN2--FGFR1	Solid tumor	captopril(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ERLIN2--FGFR1	Solid tumor	muscimol(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR1OP1--FGFR1	Solid tumor	captopril(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR1OP1--FGFR1	Solid tumor	muscimol(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR1OP1--FGFR1	Solid tumor	captopril(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR1OP1--FGFR1	Solid tumor	muscimol(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR1OP1--FGFR1	Solid tumor	captopril(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR1OP1--FGFR1	Solid tumor	muscimol(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR1OP1--FGFR1	Solid tumor	captopril(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR1OP1--FGFR1	Solid tumor	muscimol(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ZMYM2--FGFR1	Solid tumor	captopril(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ZMYM2--FGFR1	Solid tumor	muscimol(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ZMYM2--FGFR1	Solid tumor	captopril(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ZMYM2--FGFR1	Solid tumor	muscimol(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ZMYM2--FGFR1	Solid tumor	captopril(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ZMYM2--FGFR1	Solid tumor	muscimol(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ZMYM2--FGFR1	Solid tumor	captopril(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ZMYM2--FGFR1	Solid tumor	muscimol(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ZNF198--FGFR1	Solid tumor	captopril(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ZNF198--FGFR1	Solid tumor	muscimol(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ZNF198--FGFR1	Solid tumor	captopril(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ZNF198--FGFR1	Solid tumor	muscimol(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ZNF198--FGFR1	Solid tumor	captopril(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ZNF198--FGFR1	Solid tumor	muscimol(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ZNF198--FGFR1	Solid tumor	captopril(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ZNF198--FGFR1	Solid tumor	muscimol(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--.	Bladder-Urinary Tract Cancer	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--.	Bladder-Urinary Tract Cancer	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--.	Bladder-Urinary Tract Cancer	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--.	Biliary Tract Cancer	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--.	Biliary Tract Cancer	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--.	Biliary Tract Cancer	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--.	Colorectal Adenocarcinoma	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--.	Colorectal Adenocarcinoma	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--.	Colorectal Adenocarcinoma	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--.	Bladder-Urinary Tract Cancer	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--.	Bladder-Urinary Tract Cancer	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--.	Bladder-Urinary Tract Cancer	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--.	Cholangiocarcinoma	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--.	Cholangiocarcinoma	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--.	Cholangiocarcinoma	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--.	Bladder-Urinary Tract Cancer	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--.	Bladder-Urinary Tract Cancer	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--.	Bladder-Urinary Tract Cancer	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--.	Cholangiocarcinoma	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--.	Cholangiocarcinoma	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--.	Cholangiocarcinoma	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--.	Bladder-Urinary Tract Cancer	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--.	Bladder-Urinary Tract Cancer	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--.	Bladder-Urinary Tract Cancer	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--.	Cholangiocarcinoma	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--.	Cholangiocarcinoma	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--.	Cholangiocarcinoma	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--.	Solid tumor	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--.	Solid tumor	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--.	Solid tumor	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--.	Solid tumor	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--.	Solid tumor	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--.	Solid tumor	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--.	Solid tumor	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--.	Solid tumor	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--.	Solid tumor	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--.	Solid tumor	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--.	Solid tumor	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--.	Solid tumor	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--AHCYL1	Solid tumor	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--AHCYL1	Solid tumor	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--AHCYL1	Solid tumor	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--AHCYL1	Solid tumor	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--AHCYL1	Solid tumor	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--AHCYL1	Solid tumor	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--AHCYL1	Solid tumor	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--AHCYL1	Solid tumor	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--AHCYL1	Solid tumor	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--AHCYL1	Solid tumor	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--AHCYL1	Solid tumor	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--AHCYL1	Solid tumor	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--BICC1	Solid tumor	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--BICC1	Solid tumor	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--BICC1	Solid tumor	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--BICC1	Solid tumor	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--BICC1	Solid tumor	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--BICC1	Solid tumor	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--BICC1	Solid tumor	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--BICC1	Solid tumor	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--BICC1	Solid tumor	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--BICC1	Solid tumor	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--BICC1	Solid tumor	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--BICC1	Solid tumor	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--CCDC6	Solid tumor	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--CCDC6	Solid tumor	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--CCDC6	Solid tumor	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--CCDC6	Solid tumor	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--CCDC6	Solid tumor	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--CCDC6	Solid tumor	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--CCDC6	Solid tumor	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--CCDC6	Solid tumor	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--CCDC6	Solid tumor	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--CCDC6	Solid tumor	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--CCDC6	Solid tumor	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--CCDC6	Solid tumor	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--CIT	Solid tumor	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--CIT	Solid tumor	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--CIT	Solid tumor	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--CIT	Solid tumor	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--CIT	Solid tumor	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--CIT	Solid tumor	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--CIT	Solid tumor	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--CIT	Solid tumor	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--CIT	Solid tumor	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--CIT	Solid tumor	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--CIT	Solid tumor	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--CIT	Solid tumor	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--FAM76A	Solid tumor	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--FAM76A	Solid tumor	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--FAM76A	Solid tumor	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--FAM76A	Solid tumor	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--FAM76A	Solid tumor	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--FAM76A	Solid tumor	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--FAM76A	Solid tumor	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--FAM76A	Solid tumor	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--FAM76A	Solid tumor	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--FAM76A	Solid tumor	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--FAM76A	Solid tumor	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--FAM76A	Solid tumor	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--KIAA1967	Solid tumor	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--KIAA1967	Solid tumor	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--KIAA1967	Solid tumor	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--KIAA1967	Solid tumor	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--KIAA1967	Solid tumor	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--KIAA1967	Solid tumor	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--KIAA1967	Solid tumor	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--KIAA1967	Solid tumor	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--KIAA1967	Solid tumor	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--KIAA1967	Solid tumor	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--KIAA1967	Solid tumor	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--KIAA1967	Solid tumor	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--MGEA5	Solid tumor	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--MGEA5	Solid tumor	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--MGEA5	Solid tumor	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--MGEA5	Solid tumor	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--MGEA5	Solid tumor	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--MGEA5	Solid tumor	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--MGEA5	Solid tumor	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--MGEA5	Solid tumor	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--MGEA5	Solid tumor	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--MGEA5	Solid tumor	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--MGEA5	Solid tumor	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--MGEA5	Solid tumor	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--PPHLN1	Solid tumor	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--PPHLN1	Solid tumor	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--PPHLN1	Solid tumor	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--PPHLN1	Solid tumor	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--PPHLN1	Solid tumor	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--PPHLN1	Solid tumor	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--PPHLN1	Solid tumor	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--PPHLN1	Solid tumor	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--PPHLN1	Solid tumor	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--PPHLN1	Solid tumor	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--PPHLN1	Solid tumor	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--PPHLN1	Solid tumor	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--TACC3	Solid tumor	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--TACC3	Solid tumor	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--TACC3	Solid tumor	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--TACC3	Solid tumor	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--TACC3	Solid tumor	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--TACC3	Solid tumor	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--TACC3	Solid tumor	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--TACC3	Solid tumor	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--TACC3	Solid tumor	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--TACC3	Solid tumor	CGP-52411(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--TACC3	Solid tumor	thioridazine(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--TACC3	Solid tumor	vandetanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR3--.	Bladder-Urinary Tract Cancer	geniposide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR3--.	Diffuse Glioma	geniposide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR3--.	Bladder-Urinary Tract Cancer	geniposide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR3--.	Bladder-Urinary Tract Cancer	geniposide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR3--.	Bladder-Urinary Tract Cancer	geniposide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR3--.	Bladder Adenocarcinoma	geniposide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR3--.	Solid tumor	geniposide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR3--.	Solid tumor	geniposide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR3--.	Solid tumor	geniposide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR3--.	Solid tumor	geniposide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR3--BAIAP2L1	Solid tumor	geniposide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR3--BAIAP2L1	Solid tumor	geniposide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR3--BAIAP2L1	Solid tumor	geniposide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR3--BAIAP2L1	Solid tumor	geniposide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR3--TACC3	Non-Small Cell Lung Cancer	geniposide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR3--TACC3	Solid tumor	geniposide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR3--TACC3	Solid tumor	geniposide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR3--TACC3	Solid tumor	geniposide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR3--TACC3	Solid tumor	geniposide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+IGH--FGFR3	Solid tumor	geniposide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+IGH--FGFR3	Solid tumor	geniposide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+IGH--FGFR3	Solid tumor	geniposide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+IGH--FGFR3	Solid tumor	geniposide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FIP1L1--PDGFRA	Chronic Eosinophilic Leukemia, NOS	SAR131675(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FIP1L1--PDGFRA	Gastrointestinal Stromal Tumor	SAR131675(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--FIP1L1	Chronic Eosinophilic Leukemia, NOS	SAR131675(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+EWSR1--FLI1	Ewing Sarcoma of Soft Tissue	meclofenamic-acid(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+EWSR1--FLI1	Ewing Sarcoma	meclofenamic-acid(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+JAK2--BRAF	Acute lymphoblastic leukemia	nonivamide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PCM1--JAK2	Chronic Eosinophilic Leukemia, NOS	nonivamide(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+KIF5B--ALK	Non-Small Cell Lung Cancer	L-670596(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+KIF5B--ALK	Non-Small Cell Lung Cancer	L-670596(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+KIF5B--PDGFRA	Gastrointestinal Stromal Tumor	L-670596(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+KIF5B--RET	Medullary Thyroid Cancer	L-670596(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+KIF5B--RET	Medullary Thyroid Cancer	L-670596(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+MET--.	Diffuse Glioma	MK-8033(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+MET--.	Any cancer	MK-8033(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+NOTCH1--.	Acute lymphoblastic leukemia	SQ-22536(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+NOTCH1--.	Acute lymphoblastic leukemia	cefoselis(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+NOTCH1--.	Invasive Breast Carcinoma	SQ-22536(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+NOTCH1--.	Invasive Breast Carcinoma	cefoselis(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Myelodysplastic Syndromes	imatinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Myelodysplastic Syndromes	flumatinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Myelodysplastic Syndromes	MGCD-265(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Myelodysplastic Syndromes	tandutinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Myelodysplastic Syndromes	nintedanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Myelodysplastic Syndromes	lucitanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Myelodysplastic Syndromes	masitinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Myelodysplastic Syndromes	KRN-633(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Myelodysplastic Syndromes	fruquintinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Myelodysplastic Syndromes	SU014813(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Myelodysplastic Syndromes	telatinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Myelodysplastic Syndromes	BIX-02188(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Myelodysplastic Syndromes	BIX-02188(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Myelodysplastic Syndromes	imatinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Myelodysplastic Syndromes	flumatinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Myelodysplastic Syndromes	MGCD-265(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Myelodysplastic Syndromes	tandutinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Myelodysplastic Syndromes	nintedanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Myelodysplastic Syndromes	lucitanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Myelodysplastic Syndromes	masitinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Myelodysplastic Syndromes	KRN-633(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Myelodysplastic Syndromes	fruquintinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Myelodysplastic Syndromes	SU014813(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Myelodysplastic Syndromes	telatinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Myelodysplastic Syndromes	BIX-02188(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Myelodysplastic Syndromes	BIX-02188(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Gastrointestinal Stromal Tumor	imatinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Gastrointestinal Stromal Tumor	flumatinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Gastrointestinal Stromal Tumor	MGCD-265(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Gastrointestinal Stromal Tumor	tandutinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Gastrointestinal Stromal Tumor	nintedanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Gastrointestinal Stromal Tumor	lucitanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Gastrointestinal Stromal Tumor	masitinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Gastrointestinal Stromal Tumor	KRN-633(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Gastrointestinal Stromal Tumor	fruquintinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Gastrointestinal Stromal Tumor	SU014813(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Gastrointestinal Stromal Tumor	telatinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Gastrointestinal Stromal Tumor	BIX-02188(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Gastrointestinal Stromal Tumor	BIX-02188(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Myelodysplastic-Myeloproliferative Neoplasms	imatinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Myelodysplastic-Myeloproliferative Neoplasms	flumatinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Myelodysplastic-Myeloproliferative Neoplasms	MGCD-265(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Myelodysplastic-Myeloproliferative Neoplasms	tandutinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Myelodysplastic-Myeloproliferative Neoplasms	nintedanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Myelodysplastic-Myeloproliferative Neoplasms	lucitanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Myelodysplastic-Myeloproliferative Neoplasms	masitinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Myelodysplastic-Myeloproliferative Neoplasms	KRN-633(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Myelodysplastic-Myeloproliferative Neoplasms	fruquintinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Myelodysplastic-Myeloproliferative Neoplasms	SU014813(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Myelodysplastic-Myeloproliferative Neoplasms	telatinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Myelodysplastic-Myeloproliferative Neoplasms	BIX-02188(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--.	Myelodysplastic-Myeloproliferative Neoplasms	BIX-02188(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--FIP1L1	Chronic Eosinophilic Leukemia, NOS	imatinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--FIP1L1	Chronic Eosinophilic Leukemia, NOS	flumatinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--FIP1L1	Chronic Eosinophilic Leukemia, NOS	MGCD-265(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--FIP1L1	Chronic Eosinophilic Leukemia, NOS	tandutinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--FIP1L1	Chronic Eosinophilic Leukemia, NOS	nintedanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--FIP1L1	Chronic Eosinophilic Leukemia, NOS	lucitanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--FIP1L1	Chronic Eosinophilic Leukemia, NOS	masitinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--FIP1L1	Chronic Eosinophilic Leukemia, NOS	KRN-633(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--FIP1L1	Chronic Eosinophilic Leukemia, NOS	fruquintinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--FIP1L1	Chronic Eosinophilic Leukemia, NOS	SU014813(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--FIP1L1	Chronic Eosinophilic Leukemia, NOS	telatinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--FIP1L1	Chronic Eosinophilic Leukemia, NOS	BIX-02188(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PDGFRA--FIP1L1	Chronic Eosinophilic Leukemia, NOS	BIX-02188(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BCR--PDGFRA	Gastrointestinal Stromal Tumor	imatinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BCR--PDGFRA	Gastrointestinal Stromal Tumor	flumatinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BCR--PDGFRA	Gastrointestinal Stromal Tumor	MGCD-265(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BCR--PDGFRA	Gastrointestinal Stromal Tumor	tandutinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BCR--PDGFRA	Gastrointestinal Stromal Tumor	nintedanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BCR--PDGFRA	Gastrointestinal Stromal Tumor	lucitanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BCR--PDGFRA	Gastrointestinal Stromal Tumor	masitinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BCR--PDGFRA	Gastrointestinal Stromal Tumor	KRN-633(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BCR--PDGFRA	Gastrointestinal Stromal Tumor	fruquintinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BCR--PDGFRA	Gastrointestinal Stromal Tumor	SU014813(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BCR--PDGFRA	Gastrointestinal Stromal Tumor	telatinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BCR--PDGFRA	Gastrointestinal Stromal Tumor	BIX-02188(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+BCR--PDGFRA	Gastrointestinal Stromal Tumor	BIX-02188(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CDK5RAP2--PDGFRA	Gastrointestinal Stromal Tumor	imatinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CDK5RAP2--PDGFRA	Gastrointestinal Stromal Tumor	flumatinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CDK5RAP2--PDGFRA	Gastrointestinal Stromal Tumor	MGCD-265(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CDK5RAP2--PDGFRA	Gastrointestinal Stromal Tumor	tandutinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CDK5RAP2--PDGFRA	Gastrointestinal Stromal Tumor	nintedanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CDK5RAP2--PDGFRA	Gastrointestinal Stromal Tumor	lucitanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CDK5RAP2--PDGFRA	Gastrointestinal Stromal Tumor	masitinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CDK5RAP2--PDGFRA	Gastrointestinal Stromal Tumor	KRN-633(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CDK5RAP2--PDGFRA	Gastrointestinal Stromal Tumor	fruquintinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CDK5RAP2--PDGFRA	Gastrointestinal Stromal Tumor	SU014813(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CDK5RAP2--PDGFRA	Gastrointestinal Stromal Tumor	telatinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CDK5RAP2--PDGFRA	Gastrointestinal Stromal Tumor	BIX-02188(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+CDK5RAP2--PDGFRA	Gastrointestinal Stromal Tumor	BIX-02188(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ETV6--PDGFRA	Gastrointestinal Stromal Tumor	imatinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ETV6--PDGFRA	Gastrointestinal Stromal Tumor	flumatinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ETV6--PDGFRA	Gastrointestinal Stromal Tumor	MGCD-265(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ETV6--PDGFRA	Gastrointestinal Stromal Tumor	tandutinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ETV6--PDGFRA	Gastrointestinal Stromal Tumor	nintedanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ETV6--PDGFRA	Gastrointestinal Stromal Tumor	lucitanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ETV6--PDGFRA	Gastrointestinal Stromal Tumor	masitinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ETV6--PDGFRA	Gastrointestinal Stromal Tumor	KRN-633(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ETV6--PDGFRA	Gastrointestinal Stromal Tumor	fruquintinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ETV6--PDGFRA	Gastrointestinal Stromal Tumor	SU014813(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ETV6--PDGFRA	Gastrointestinal Stromal Tumor	telatinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ETV6--PDGFRA	Gastrointestinal Stromal Tumor	BIX-02188(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ETV6--PDGFRA	Gastrointestinal Stromal Tumor	BIX-02188(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FIP1L1--PDGFRA	Chronic Eosinophilic Leukemia, NOS	imatinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FIP1L1--PDGFRA	Chronic Eosinophilic Leukemia, NOS	flumatinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FIP1L1--PDGFRA	Chronic Eosinophilic Leukemia, NOS	MGCD-265(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FIP1L1--PDGFRA	Chronic Eosinophilic Leukemia, NOS	tandutinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FIP1L1--PDGFRA	Chronic Eosinophilic Leukemia, NOS	nintedanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FIP1L1--PDGFRA	Chronic Eosinophilic Leukemia, NOS	lucitanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FIP1L1--PDGFRA	Chronic Eosinophilic Leukemia, NOS	masitinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FIP1L1--PDGFRA	Chronic Eosinophilic Leukemia, NOS	KRN-633(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FIP1L1--PDGFRA	Chronic Eosinophilic Leukemia, NOS	fruquintinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FIP1L1--PDGFRA	Chronic Eosinophilic Leukemia, NOS	SU014813(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FIP1L1--PDGFRA	Chronic Eosinophilic Leukemia, NOS	telatinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FIP1L1--PDGFRA	Chronic Eosinophilic Leukemia, NOS	BIX-02188(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FIP1L1--PDGFRA	Chronic Eosinophilic Leukemia, NOS	BIX-02188(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FIP1L1--PDGFRA	Gastrointestinal Stromal Tumor	imatinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FIP1L1--PDGFRA	Gastrointestinal Stromal Tumor	flumatinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FIP1L1--PDGFRA	Gastrointestinal Stromal Tumor	MGCD-265(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FIP1L1--PDGFRA	Gastrointestinal Stromal Tumor	tandutinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FIP1L1--PDGFRA	Gastrointestinal Stromal Tumor	nintedanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FIP1L1--PDGFRA	Gastrointestinal Stromal Tumor	lucitanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FIP1L1--PDGFRA	Gastrointestinal Stromal Tumor	masitinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FIP1L1--PDGFRA	Gastrointestinal Stromal Tumor	KRN-633(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FIP1L1--PDGFRA	Gastrointestinal Stromal Tumor	fruquintinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FIP1L1--PDGFRA	Gastrointestinal Stromal Tumor	SU014813(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FIP1L1--PDGFRA	Gastrointestinal Stromal Tumor	telatinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FIP1L1--PDGFRA	Gastrointestinal Stromal Tumor	BIX-02188(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FIP1L1--PDGFRA	Gastrointestinal Stromal Tumor	BIX-02188(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+KDR--PDGFRA	Gastrointestinal Stromal Tumor	imatinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+KDR--PDGFRA	Gastrointestinal Stromal Tumor	flumatinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+KDR--PDGFRA	Gastrointestinal Stromal Tumor	MGCD-265(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+KDR--PDGFRA	Gastrointestinal Stromal Tumor	tandutinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+KDR--PDGFRA	Gastrointestinal Stromal Tumor	nintedanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+KDR--PDGFRA	Gastrointestinal Stromal Tumor	lucitanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+KDR--PDGFRA	Gastrointestinal Stromal Tumor	masitinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+KDR--PDGFRA	Gastrointestinal Stromal Tumor	KRN-633(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+KDR--PDGFRA	Gastrointestinal Stromal Tumor	fruquintinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+KDR--PDGFRA	Gastrointestinal Stromal Tumor	SU014813(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+KDR--PDGFRA	Gastrointestinal Stromal Tumor	telatinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+KDR--PDGFRA	Gastrointestinal Stromal Tumor	BIX-02188(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+KDR--PDGFRA	Gastrointestinal Stromal Tumor	BIX-02188(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+KIF5B--PDGFRA	Gastrointestinal Stromal Tumor	imatinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+KIF5B--PDGFRA	Gastrointestinal Stromal Tumor	flumatinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+KIF5B--PDGFRA	Gastrointestinal Stromal Tumor	MGCD-265(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+KIF5B--PDGFRA	Gastrointestinal Stromal Tumor	tandutinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+KIF5B--PDGFRA	Gastrointestinal Stromal Tumor	nintedanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+KIF5B--PDGFRA	Gastrointestinal Stromal Tumor	lucitanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+KIF5B--PDGFRA	Gastrointestinal Stromal Tumor	masitinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+KIF5B--PDGFRA	Gastrointestinal Stromal Tumor	KRN-633(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+KIF5B--PDGFRA	Gastrointestinal Stromal Tumor	fruquintinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+KIF5B--PDGFRA	Gastrointestinal Stromal Tumor	SU014813(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+KIF5B--PDGFRA	Gastrointestinal Stromal Tumor	telatinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+KIF5B--PDGFRA	Gastrointestinal Stromal Tumor	BIX-02188(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+KIF5B--PDGFRA	Gastrointestinal Stromal Tumor	BIX-02188(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+STRN--PDGFRA	Gastrointestinal Stromal Tumor	imatinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+STRN--PDGFRA	Gastrointestinal Stromal Tumor	flumatinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+STRN--PDGFRA	Gastrointestinal Stromal Tumor	MGCD-265(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+STRN--PDGFRA	Gastrointestinal Stromal Tumor	tandutinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+STRN--PDGFRA	Gastrointestinal Stromal Tumor	nintedanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+STRN--PDGFRA	Gastrointestinal Stromal Tumor	lucitanib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+STRN--PDGFRA	Gastrointestinal Stromal Tumor	masitinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+STRN--PDGFRA	Gastrointestinal Stromal Tumor	KRN-633(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+STRN--PDGFRA	Gastrointestinal Stromal Tumor	fruquintinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+STRN--PDGFRA	Gastrointestinal Stromal Tumor	SU014813(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+STRN--PDGFRA	Gastrointestinal Stromal Tumor	telatinib(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+STRN--PDGFRA	Gastrointestinal Stromal Tumor	BIX-02188(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+STRN--PDGFRA	Gastrointestinal Stromal Tumor	BIX-02188(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+PPFIBP2--BRAF	Langerhans Cell Histiocytosis	IEM1754(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--PPHLN1	Solid tumor	naringenin(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--PPHLN1	Solid tumor	naringenin(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--PPHLN1	Solid tumor	naringenin(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR2--PPHLN1	Solid tumor	naringenin(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+RUFY1--RET	Medullary Thyroid Cancer	SDZ-220-581(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+RUFY1--RET	Medullary Thyroid Cancer	SDZ-220-581(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+SRGAP3--RAF1	Langerhans Cell Histiocytosis	nomegestrol-acetate(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR1--TACC1	Solid tumor	acifran(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR1--TACC1	Solid tumor	acifran(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR1--TACC1	Solid tumor	acifran(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+FGFR1--TACC1	Solid tumor	acifran(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+TRIM24--BRAF	Langerhans Cell Histiocytosis	TU-2100(10.1038/s43018-019-0018-6)	Responsive	Repurposed
+ZKSCAN1--BRAF	Langerhans Cell Histiocytosis	deracoxib(10.1038/s43018-019-0018-6)	Responsive	Repurposed

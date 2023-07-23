@@ -1,0 +1,8 @@
+#fusion_name	J	S
+geneA--BCAR3	4	10
+geneA--FSD1	1	1
+
+CRTC2--geneB	2	4
+ARSD--geneB	100	400
+
+

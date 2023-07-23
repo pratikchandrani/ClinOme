@@ -1,0 +1,111 @@
+\documentclass[a4paper]{article}
+
+\usepackage{fancyhdr}
+
+\usepackage{graphicx}
+
+\usepackage{blindtext}
+
+\usepackage{tcolorbox}
+
+\usepackage{csvsimple}
+
+\usepackage{pgfplotstable}
+
+\usepackage{booktabs}
+
+\usepackage{longtable}
+
+\usepackage{datatool}
+
+\usepackage[utf8]{inputenc} % this is needed for umlauts
+\usepackage[ngerman]{babel} % this is needed for umlauts
+\usepackage[T1]{fontenc}    % this is needed for correct output of umlauts in pdf
+
+\usepackage[locale=DE]{siunitx} % Formats the units and values
+\usepackage{datatool}
+\usepackage{booktabs} % For \toprule, \midrule and \bottomrule
+% Setup siunitx:
+\sisetup{
+	round-mode          = places, % Rounds numbers
+	round-precision     = 2, % to 2 places
+}
+
+
+\usepackage[centering,margin=1in]{geometry}
+
+
+\fancyhf{}
+\fancyhead[C]{\includegraphics[scale=0.88]{images/header.png}}
+
+\setlength{\headheight}{1.00cm}
+\pagestyle{fancy}
+
+
+
+\begin{document}
+	
+	\begin{minipage}{2in}
+		\flushleft\textbf{ClinOme Analysis Report} \\
+	\end{minipage}
+	\hfill \hfill
+	\begin{minipage}{2in}
+		\flushright\textbf{\today} \\
+	\end{minipage}
+	
+	\vspace{0.4cm}
+	\normalsize
+	\textbf{PATIENT DETAILS}
+
+	\vspace{0.1cm}
+	\begin{flushleft} 
+	Patient ID : \\
+	Gender : \\
+	Tumour Type : \\
+	ClinOme Report Date : \today \\
+	
+\noindent\fbox{%
+	\parbox{\textwidth}{%
+		\normalsize
+		About The Test : ClinOme (clinical genome) test is a comprehensive cancer genomics test of tumour samples to identify therapeutically relevant alterations using next generation sequencing (NGS).
+		
+		\small
+		*Disclaimer:The information provided in this report is only indicative and should be used by only trained clinician for therapy related decision making.
+		
+	}%
+}	
+
+	\end{flushleft}
+	
+	\vspace{0.5cm}	
+	\centering
+	\includegraphics[scale=0.96]{images/Test_result.png}	
+	
+	\textbf{THERAPEUTICALLY RELEVANT MUTATIONS IDENTIFIED IN PATIENT SAMPLE}
+
+	\vspace{0.5cm}	
+
+\resizebox{\linewidth}{!}{\pgfplotstabletypeset[
+	col sep=comma,
+	string type,
+	every head row/.style={%
+		before row={\toprule
+			\multicolumn{1}{c}{} & \multicolumn{3}{c}{Potentially effective therapeutics} & \multicolumn{3}{c}{Potentially ineffective therapeutics} & \\
+		},
+		after row=\midrule
+	},
+	every last row/.style={after row=\bottomrule},
+	columns/variant/.style={column name=Variant, column type=l},
+	columns/approved/.style={column name=Approved, column type=l},
+	columns/offlabel/.style={column name=Off label, column type=l},    
+	columns/trial/.style={column name=Clinical trials, column type=l},
+	columns/approved2/.style={column name=Approved2, column type=l},
+	columns/offlabel2/.style={column name=Off label 2, column type=l},
+	columns/trials2/.style={column name=Trials2, column type=l}
+	]{Codes/finaloutput2.csv}}
+
+
+\end{document}
+	
+
+

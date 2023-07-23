@@ -1,0 +1,9 @@
+[submodule "FusionFilter"]
+	path = FusionFilter
+	url = https://github.com/FusionFilter/FusionFilter.git
+[submodule "FusionInspector.wiki"]
+	path = FusionInspector.wiki
+	url = https://github.com/FusionInspector/FusionInspector.wiki.git
+[submodule "FusionAnnotator"]
+	path = FusionAnnotator
+	url = https://github.com/FusionAnnotator/FusionAnnotator.git

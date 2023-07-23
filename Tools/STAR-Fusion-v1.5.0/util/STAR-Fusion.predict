@@ -1,0 +1,501 @@
+#!/usr/bin/env perl
+
+# contributed by Brian Haas, Broad Institute, 2015
+
+use strict;
+use warnings;
+use Carp;
+use Cwd;
+use FindBin;
+use lib ("$FindBin::Bin/../PerlLib");
+use File::Basename;
+use Data::Dumper;
+use Process_cmd;
+use DelimParser;
+use JSON::XS;
+
+use Getopt::Long qw(:config posix_default no_ignore_case bundling pass_through);
+
+my $UTILDIR = "$FindBin::Bin/util";
+
+## Options
+my $out_prefix = "star-fusion";
+my $chimeric_junction_file;
+my $help_flag;
+
+my $NO_REMOVE_DUPS;
+
+my $LONG_ANCHOR_SIZE = 25;
+
+my $usage = <<__EOUSAGE__;
+
+###################################################################################
+#
+#  Required:
+#
+#    --annotated_junction|J <string>     annotated Chimeric.out.junction file incl gene mappings
+#
+#
+#  Optional:
+#
+#    --out_prefix|O <string>         output file prefix (default: $out_prefix)
+#    
+#    --no_remove_dups                do not remove duplicate reads
+#
+###################################################################################
+
+
+__EOUSAGE__
+
+    ;
+
+
+my $DEBUG;
+
+&GetOptions ( 'h' => \$help_flag,
+              
+              'chimeric_junction|J=s' => \$chimeric_junction_file,
+              
+              'out_prefix|O=s' => \$out_prefix,
+
+              'no_remove_dups' => \$NO_REMOVE_DUPS,
+              
+              'd' => \$DEBUG,
+    );
+
+
+if ($help_flag) {
+    die $usage;
+}
+unless ($chimeric_junction_file) {
+    die $usage;
+}
+
+
+my $JSON_DECODER = JSON::XS->new();
+
+main: {
+
+    my %all_fusion_candidate_complex_names;  # {fusion_complex_name} = info struct.  complex_name = gene_symbolA^gene_idA--gene_symbolB^gene_idB
+    my %junction_breakpoint_to_read_names;  #  {fusion_complex_name} -> {breakpoint} -> {read_name} = 1 
+    my %junction_breakpoint_to_long_anchors; # {fusion_complex_name} -> {breakpoint} -> {left|right} = 1 
+    my %spans_to_read_names; # {fusion_complex_name} -> { read_name } = 1
+    
+    
+    print STDERR "-parsing fusion evidence: $chimeric_junction_file\n";
+    &get_chimeric_reads_to_genes($chimeric_junction_file, 
+                                 
+                                 \%all_fusion_candidate_complex_names,                                 
+                                 \%junction_breakpoint_to_read_names,
+                                 \%spans_to_read_names,
+                                 
+                                 \%junction_breakpoint_to_long_anchors,
+        );
+    
+        
+    ########################################################################
+    ## Examine each fusion gene pair, filter out fusion candidates based on 
+    ## reference gene mappings and use of reference splice junctions.
+    ########################################################################
+                      
+    my $junction_read_outfile = "$out_prefix.junction_read_names";
+    open (my $ofh_junc, ">$junction_read_outfile") or die "Error, cannot write to $junction_read_outfile";
+    
+    my $spanning_read_outfile = "$out_prefix.spanning_frag_names";
+    open (my $ofh_span, ">$spanning_read_outfile") or die "Error, cannot write to $spanning_read_outfile";
+    
+    my @fusion_candidates;
+    
+    foreach my $fusion_complex_name (keys %all_fusion_candidate_complex_names) {
+        
+        ## get the span support
+        my $spanning_reads_href = $spans_to_read_names{$fusion_complex_name};
+        my @spanning_reads;
+        
+        if (ref $spanning_reads_href) {
+            @spanning_reads = keys %$spanning_reads_href;
+            foreach my $span_read (@spanning_reads) {
+                print $ofh_span "$fusion_complex_name\t$span_read\n";
+            }
+        }
+               
+        my $fusion_info_struct = $all_fusion_candidate_complex_names{$fusion_complex_name};
+        my ($left_gene_id, $right_gene_id, $fusion_simple_name) = ($fusion_info_struct->{left_gene_id},
+                                                                   $fusion_info_struct->{right_gene_id},
+                                                                   $fusion_info_struct->{fusion_simple_name});
+        
+        my $breakpoint_info_href = $junction_breakpoint_to_read_names{$fusion_complex_name};
+        
+        if ($breakpoint_info_href) {
+            
+            # sort by number of reads supporting the breakpoints
+            my @fusion_breakpoints = reverse sort { scalar(keys %{$breakpoint_info_href->{$a}}) <=> scalar(keys %{$breakpoint_info_href->{$b}}) } keys %$breakpoint_info_href;
+            
+            while (@fusion_breakpoints) {
+                my $best_breakpoint = shift @fusion_breakpoints;
+                
+                my ($left_coords, $left_delta, $right_coords, $right_delta) = split(/;/, $best_breakpoint);
+                my $splice_type = ($left_delta == 0 && $right_delta == 0) ? "ONLY_REF_SPLICE" : "INCL_NON_REF_SPLICE"; 
+                
+                my $junction_reads_href = $breakpoint_info_href->{$best_breakpoint};
+                my @junc_reads = keys %$junction_reads_href;
+                                
+                my $breakpoint_count = scalar(@junc_reads);
+
+                
+                
+                # prune any junction reads from the span support for this fusion.
+                my %local_spanning_reads = map { + $_ => 1 } @spanning_reads;                
+                
+                foreach my $junction_read (@junc_reads) {
+                    print $ofh_junc "$fusion_complex_name\t$best_breakpoint\t$junction_read\n";
+                    if (exists $local_spanning_reads{$junction_read}) {
+                        delete $local_spanning_reads{$junction_read};
+                    }
+                }
+                
+                my @span_reads = keys %local_spanning_reads;
+                my $span_count = scalar(@span_reads);
+                
+                
+                my $score = 4 * $breakpoint_count +  $span_count;
+
+                my $long_double_anchor_support = "NO_LDAS";
+                if ($junction_breakpoint_to_long_anchors{$fusion_complex_name}->{$best_breakpoint}->{'left'}
+                    &&
+                    $junction_breakpoint_to_long_anchors{$fusion_complex_name}->{$best_breakpoint}->{'right'} ) {
+
+                    $long_double_anchor_support = "YES_LDAS";
+                    
+                }
+                                
+                
+                my $fusion_candidate = { fusion_simple_name => $fusion_simple_name,
+                                         fusion_complex_name => $fusion_complex_name,
+                                         
+                                         junction_count => $breakpoint_count,
+                                         spanning_count => $span_count,
+                                         
+                                         left_gene => $left_gene_id,
+                                         left_coords => $left_coords,
+                                         left_delta => $left_delta, # dist to ref splice junction
+                                         
+                                         right_gene => $right_gene_id,
+                                         right_coords => $right_coords,
+                                         right_delta => $right_delta, # dist to ref splice junction
+                                         
+                                         splice_type => $splice_type,
+                                         
+                                         spanning_frag_names => \@span_reads,
+                                         junction_read_names => \@junc_reads,
+                                                                                  
+                                         score => $score,
+
+                                         long_double_anchor_support => $long_double_anchor_support,
+                                         
+                };                
+                
+                
+                push (@fusion_candidates, $fusion_candidate);
+            
+            } # end for each breakpoint
+        } # end if breakpont
+        else {
+            # just spanning evidence.
+
+            my $span_count = scalar(@spanning_reads);
+
+
+
+            
+            my $score = $span_count;
+            
+            my $fusion_candidate = { fusion_simple_name => $fusion_simple_name,
+                                     fusion_complex_name => $fusion_complex_name,
+                                     
+                                     junction_count => 0,
+                                     spanning_count => $span_count,
+                                     
+                                     left_gene => $left_gene_id,
+                                     left_coords => $fusion_info_struct->{left_coord},
+                                     left_delta => '.', # dist to ref splice junction
+                                     
+                                     right_gene => $right_gene_id,
+                                     right_coords => $fusion_info_struct->{right_coord},
+                                     right_delta => '.',
+                                     
+                                     splice_type => "NO_JUNCTION_READS_IDENTIFIED",
+                                     
+                                     spanning_frag_names => \@spanning_reads,
+                                     junction_read_names => [],
+                                     
+                                     
+                                     score => $score,
+
+                                     long_double_anchor_support => "NO_LDAS",
+                                     
+                                     
+            };
+            
+            
+            
+            push (@fusion_candidates, $fusion_candidate);
+        }
+        
+        
+    }
+    
+    close $ofh_junc;
+    close $ofh_span;
+
+    my $fusion_predictions_outfile = "$out_prefix.fusion_candidates.preliminary";
+    open (my $ofh, ">$fusion_predictions_outfile") or die "Error, cannot write to file: $fusion_predictions_outfile";
+    
+    print STDERR "-outputting fusion candidates to file: $fusion_predictions_outfile\n";
+
+    # print header
+    my @column_headers = ("#FusionName", 
+                          "JunctionReadCount", 
+                          "SpanningFragCount", 
+                          "SpliceType",
+                          "LeftGene", 
+                          "LeftBreakpoint",  
+                          "RightGene", 
+                          "RightBreakpoint", 
+                          "JunctionReads",
+                          "SpanningFrags", 
+                          "LargeAnchorSupport");
+    
+    my $tab_writer = new DelimParser::Writer($ofh, "\t", \@column_headers);
+
+        
+    # examining fusions based on the specific junction breakpoint, regardless of genes assigned to.
+    
+    @fusion_candidates = reverse sort {$a->{score}<=>$b->{score}} @fusion_candidates;
+
+
+    foreach my $fusion_candidate (@fusion_candidates) {
+
+        
+        ## determine if we're filtering the fusion due to insufficient evidence.
+        
+        my $junction_count = $fusion_candidate->{junction_count};
+        my $spanning_count = $fusion_candidate->{spanning_count};
+        my $sum_frags = $junction_count + $spanning_count;
+        my $splice_type = $fusion_candidate->{splice_type};
+        
+        my $junction_reads = join(",", @{$fusion_candidate->{junction_read_names}}) || ".";
+        my $spanning_frags = join(",", @{$fusion_candidate->{spanning_frag_names}}) || ".";
+        
+        my $row = { '#FusionName' => $fusion_candidate->{fusion_simple_name}, 
+                    'JunctionReadCount' => $fusion_candidate->{junction_count}, 
+                    'SpanningFragCount' => $fusion_candidate->{spanning_count},
+                    'SpliceType' => $fusion_candidate->{splice_type},
+                    'LeftGene' => $fusion_candidate->{left_gene}, 
+                    'LeftBreakpoint' => $fusion_candidate->{left_coords}, 
+                    'RightGene' => $fusion_candidate->{right_gene}, 
+                    'RightBreakpoint' => $fusion_candidate->{right_coords}, 
+                    'JunctionReads' => $junction_reads, 
+                    'SpanningFrags' => $spanning_frags,
+                    'LargeAnchorSupport' => $fusion_candidate->{long_double_anchor_support},
+    
+        };
+
+        
+        $tab_writer->write_row($row);
+        
+        
+    }
+    
+    close $ofh;
+    
+    
+    exit(0);
+
+    
+}
+
+
+####
+sub get_chimeric_reads_to_genes {
+    my ($junctions_file, 
+        $all_fusion_candidate_complex_names_href, 
+        $junction_breakpoint_to_read_names_href, 
+        $spans_to_read_names_href,
+        $junction_breakpoint_to_long_anchors_href) = @_;
+    
+    
+    my %seen; # avoid PE duplicates
+
+    open (my $fh, $junctions_file) or die "Error, cannot open file $junctions_file";
+    while (<$fh>) {
+        chomp;
+        my $line = $_;
+        my @x = split(/\t/);
+        
+        # from star doc:
+        #The rst 9 columns give information about the chimeric junction:
+
+        #The format of this le is as follows. Every line contains one chimerically aligned read, e.g.:
+        #chr22 23632601 + chr9 133729450 + 1 0 0 SINATRA-0006:3:3:6387:56650 23632554 47M29S 133729451 47S29M40p76M
+        #The first 9 columns give information about the chimeric junction:
+
+        #column 1: chromosome of the donor
+        #column 2: rst base of the intron of the donor (1-based)
+        #column 3: strand of the donor
+        #column 4: chromosome of the acceptor
+        #column 5: rst base of the intron of the acceptor (1-based)
+        #column 6: strand of the acceptor
+        #column 7: junction type: -1=encompassing junction (between the mates), 1=GT/AG, 2=CT/AC
+        #column 8: repeat length to the left of the junction
+        #column 9: repeat length to the right of the junction
+        #Columns 10-14 describe the alignments of the two chimeric segments, it is SAM like. Alignments are given with respect to the (+) strand
+        #column 10: read name
+        #column 11: rst base of the rst segment (on the + strand)
+        #column 12: CIGAR of the rst segment
+        #column 13: rst base of the second segment
+        #column 14: CIGAR of the second segment
+        
+        #column n-2: read group
+        
+        #column n-1: left gene mapping info in JSON
+        #column n: right gene mapping info in JSON
+        
+        
+        my $junction_type = $x[6];
+                
+        my $read_name = $x[9];
+        
+        my $read_group = $x[$#x-2];
+        if ($read_group =~ /^\D/ && $read_group ne "GRPundef") {
+            # do this only if using the new STAR formatting
+            # if old star, this shows up as a cigar string that starts with a number
+            $read_name = "\&${read_group}\@${read_name}"; # encoding read group info into the read name
+        }
+        my ($chrA, $coordA, $orientA) = ($x[0], $x[1], $x[2]);
+        $coordA = ($orientA eq '+') ? --$coordA : ++$coordA;
+        
+        my ($rst_A, $cigar_A) = ($x[10], $x[11]);
+        
+        my ($chrB, $coordB, $orientB) = ($x[3], $x[4], $x[5]);
+        $coordB = ($orientB eq '+') ? ++$coordB : --$coordB;
+        
+        my ($rst_B, $cigar_B) = ($x[12], $x[13]);
+
+        my $PE_read_map_token = join("$;", $chrA, $rst_A, $cigar_A ,$chrB, $rst_B, $cigar_B);
+                
+        if ($seen{$PE_read_map_token}) { 
+            # rmdups
+            unless ($NO_REMOVE_DUPS) {
+                next;
+            }
+        }
+        else {
+            $seen{$PE_read_map_token} = 1;
+        }
+        
+        my $left_gene_json = $x[$#x-1];
+        my @A_hits;
+        if ($left_gene_json ne '.') {
+            my $A_hits_aref = $JSON_DECODER->decode($left_gene_json);
+            @A_hits = @$A_hits_aref;
+        }
+        
+        my $right_gene_json = $x[$#x];
+        my @B_hits;
+        if ($right_gene_json ne '.') {
+            my $B_hits_aref = $JSON_DECODER->decode($right_gene_json);
+            @B_hits = @$B_hits_aref;
+        }
+        
+        if ($DEBUG) {
+            print STDERR "A: " . Dumper(\@A_hits);
+            print STDERR "B: " . Dumper(\@B_hits);
+        }
+
+        ###########################
+        # Examine possible fusions:
+        
+        foreach my $left_possibility (@A_hits) {
+
+            foreach my $right_possibility (@B_hits) {
+                        
+                my ($left_entry, $right_entry) = ($left_possibility, $right_possibility);
+                
+                # ensure consistent orientation
+                unless ($left_entry->{sense_or_antisense} eq $right_entry->{sense_or_antisense}) {
+                    next;
+                }
+
+                
+                if ($left_entry->{sense_or_antisense} eq 'antisense') {
+                    # swap em
+                    ($left_entry, $right_entry) = ($right_entry, $left_entry);
+                }
+                
+                my $left_gene_id = $left_entry->{gene_id};
+                my ($left_gene_name, $left_id) = split(/\^/, $left_gene_id);
+                
+                my $right_gene_id = $right_entry->{gene_id};
+                my ($right_gene_name, $right_id) = split(/\^/, $right_gene_id);
+                
+                my $fusion_simple_name = join("--", $left_gene_name, $right_gene_name);
+                my $fusion_complex_name = join("--", $left_gene_id, $right_gene_id);
+
+                $all_fusion_candidate_complex_names_href->{$fusion_complex_name} = { left_gene_id => $left_gene_id,
+                                                                                     right_gene_id => $right_gene_id,
+                                                                                     fusion_complex_name => $fusion_complex_name,
+                                                                                     fusion_simple_name => $fusion_simple_name,
+                                                                                     left_coord => join(":", $left_entry->{chr}, $left_entry->{pt_align}), # left breakpoint
+                                                                                     right_coord => join(":", $right_entry->{chr}, $right_entry->{pt_align}) # right breakpoint
+                                                                                         
+                };
+                
+                if ($junction_type == -1) { 
+                    # Not a split read, but rather a split pair
+                    
+                    $spans_to_read_names_href->{$fusion_complex_name}->{$read_name} = 1;
+                    push (@x, $fusion_complex_name);
+                }
+                else {
+
+                    # include breakpoint info and distance of exon coordinates from breakpoints
+                    
+                    my @at_exon_junctions = ($left_entry->{chr} . ":" . $left_entry->{pt_align} . ":" . $left_entry->{exon}->{orient},
+                                             $left_entry->{delta}, 
+                                             $right_entry->{chr} . ":" . $right_entry->{pt_align} . ":" . $right_entry->{exon}->{orient},
+                                             $right_entry->{delta}, 
+                        );
+                    
+                    
+                    my $junction_text = join(";", @at_exon_junctions);
+                    push (@x, $junction_text, $fusion_complex_name);
+                    
+                    # both at exon junctions
+                                        
+                    $junction_breakpoint_to_read_names_href->{$fusion_complex_name}->{$junction_text}->{$read_name}++; # track junction read name to fusion name
+
+                    #########################
+                    ## examine anchor support.
+                    
+                    my $left_anchor_length = $left_entry->{anchor_length};
+                    my $right_anchor_length = $right_entry->{anchor_length};
+
+                    if ($left_anchor_length >= $LONG_ANCHOR_SIZE) {
+                        $junction_breakpoint_to_long_anchors_href->{$fusion_complex_name}->{$junction_text}->{'left'} = 1;
+                    }
+                    if ($right_anchor_length >= $LONG_ANCHOR_SIZE) {
+                        $junction_breakpoint_to_long_anchors_href->{$fusion_complex_name}->{$junction_text}->{'right'} = 1;
+                    }
+                                        
+                }
+            }
+        }
+        
+        
+    }
+    
+    return;    
+}
+
+

@@ -1,0 +1,2 @@
+
+The Set::IntervalTree module tends to install trouble-free on Linux.  Note, if you have trouble installing Set::IntervalTree on Mac OS X (as I did), try the following:  download the tarball from the http://search.cpan.org/~benbooth/Set-IntervalTree-0.02/lib/Set/IntervalTree.pm, run the perl Makefile.pl, then edit the generated 'Makefile' and remove all occurrences of '-arch i386'. Then try 'make', 'make test', and finally 'make install'.

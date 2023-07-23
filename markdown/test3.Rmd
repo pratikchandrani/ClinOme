@@ -1,0 +1,88 @@
+---
+output: html_document
+documentclass: report
+classoption: a4paper
+fontsize: 10
+fig_height: 6
+fig_width: 12
+geometry: margin=2cm
+
+---
+  
+<style>
+body {
+  text-align: justify}
+</style>
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, fig.align="center")
+```
+
+![](header.png){ width=10000px }
+
+#### **Patient Details**
+
+```{bash, echo = FALSE }
+sample=$(awk -F"\t" '{print $1}' sample_info.csv)
+cancer=$(awk -F"\t" '{print $2}' sample_info.csv)
+echo "Sample ID : $sample"
+echo "Cancer Type : $cancer"
+```
+
+-------------------------------------------------------------------------
+
+##### **ClinOme NGS Analysis**
+  
+  Test Performed: ClinOme (clinical genome) is a comprehensive cancer genomics test of tumor samples to identify therapeutically relevant alterations using next-generation sequencing (NGS). 
+
+1.	NGS library was prepared for hot-spot of 52 genes from patient’s DNA/RNA using AmpliSeq Focus library preparation kit. The NGS library was loaded on Illumina MiSeq for sequencing.
+
+NGS data was analyzed by ClinOme computational biology tool and the alterations identified were provided in the results table below.
+
+
+***Disclaimer**: The information provided in this report is indicative and can be used for research purpose as well. The information should be used by only clinicians trained in precision medicine.
+
+----------------------------------------------------------------------
+  
+<div class="alert alert-info">
+<strong><center>TEST RESULTS</center></strong> 
+</div>
+  
+```{r, echo = FALSE}
+knitr::opts_knit$set(root.dir=getwd())
+options(kableExtra.latex.load_packages = FALSE)
+library(knitr)
+library(kableExtra)
+long_dt <- read.table(file="finaloutput.csv",header=TRUE)
+long_dt <- long_dt[-c(7,11)]
+long_dt[is.na(long_dt)] <- " "
+kable(long_dt) %>%
+  kable_styling("striped", full_width = F) %>%
+  add_header_above(c(" " = 3, "Potentially Effective Drug" = 3, "Potentially Ineffective Drug" = 3)) %>% 
+  scroll_box(width = "900px", height = "200px")
+```
+
+  
+_____________________________________________________________________________________
+\newpage
+
+
+##### **GENE READ COUNT AVERAGE**
+
+```{r, echo = FALSE}
+library(knitr)
+library(kableExtra)
+data2 <- read.csv(file="gene.csv",header=TRUE,sep="\t")
+if (nrow(data2)>26){
+  dd2 <- cbind(data2[1:26, ], data2[27:52, ])
+} else {
+  dd2 <- data2
+}
+library(htmlTable)
+htmlTable(dd2, n.cgroup = c(2, 2), rnames = FALSE)
+```
+
+```{bash, echo = FALSE }
+coverage=$(awk -F"\t" '{print $2}' overall_coverage.csv)
+echo "Overall Coverage Of the Sample : $coverage"
+```

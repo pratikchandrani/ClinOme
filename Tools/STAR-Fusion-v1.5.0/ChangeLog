@@ -1,0 +1,81 @@
+
+STAR-Fusion Release v1.5.0
+	-removed BBEmerge
+	-require min of STAR version 2.6.1
+	-leverages updated Chimeric junction out files with embedded metadata
+	
+
+STAR-Fusion Release v1.4.0
+	-works with multimapping fusion evidence. Default: --STAR_chimMultimapNmax 10
+	-automatically integrates overlapping mate merging for short frags or long rna-seq reads. (--bbmerge no longer required for FFPE, but still retaining the --bbmerge option for now).
+	-requires at least STAR version STAR_2.6
+	-minor bug fixes
+
+	
+	STAR-Fusion Release v1.3.1
+
+	This is a major update and includes the following changes:
+
+	-overall structure of intermediate outputs makes it more straightforward to follow the fusion evidence and fusion prediction filtering and troubleshooting (to be well described in updated documentation soon).
+
+	-the human fusion annotation database was expanded to include some new resources, all described here:
+	https://github.com/FusionAnnotator/CTAT_HumanFusionLib/wiki
+
+	-the 'red herring' category of fusions (see above wiki) are now by default auto-filtered from the final output. You can turn off annotation-based filtering with: STAR-Fusion --no_annotation_filter
+
+	-fusions are automatically filtered out based on minimum fusion evidence requirements set based on the number of input reads. A minimum of 0.1 fusion fragments per million total fragments (FFPM) are required as a default (set with: STAR-Fusion --min_FFPM)
+
+
+STAR-Fusion Release v1.2.0
+	Added --bbmerge : runs STAR w/ paired-end reads but then also runs STAR using 'super-reads' assembled via the bbmerge software.  This helps in cases where fragments are short and/or the paired-end reads overlap.
+	Bugfixes related to inframe vs. frameshift detection wrt setting coding phases of exons.
+	Removed filtering of blast-pairs where sequences are shared due to physical overlap on the genome (false negatives).
+	FusionInspector 'inspect' and 'validate' modes write to corresponding separately named directories.
+	Plug-n-play ctat genome libs are updated wrt removing blast pairs for overlapping genes and CDS phasing information for reference proteins. (GRCh37_gencode_v19_CTAT_lib_Nov012017 and GRCh38_gencode_v26_CTAT_lib_Nov012017)
+	Including new CTAT genome lib for Mouse v. M15 to support mouse cancer studies.
+
+	Instead of downloading the new ctat genome lib, users can patch the earlier: GRCh37_gencode_v19_CTAT_lib_July192017 or GRCh38_gencode_v26_CTAT_lib_July192017 involving 3 steps:
+	   cd /path/to/existing/ctat_genome_lib_dir
+           STAR-Fusion/FusionFilter/util/index_blast_pairs.remove_overlapping_genes.pl .
+	   STAR-Fusion/FusionFilter/util/build_prot_info_db.pl --gtf ref_annot.gtf --genome_fa ref_genome.fa --out_prefix ref_annot
+
+	
+STAR-Fusion Release v1.1.0
+	Much new functionality is included in this release v1.1.0:
+	Note: v1.1.0 requires a new CTAT_genome_lib: https://data.broadinstitute.org/Trinity/CTAT_RESOURCE_LIB/
+	annotating fusions based on known cancer fusions (--annotate)
+	exploring the effects on fused coding regions, reconstructing candidate fusion transcripts and fusion proteins (--examine_coding_effect)
+	extracting the fastq reads that provide the evidence for fusion transcripts (use --extract_fusion_reads)
+	perform 'in silico validation' of fusion transcripts using FusionInspector ( --FusionInspector <inspect|validate> )
+	de novo reconstruct fusion transcripts using Trinity (--denovo_reconstruct)
+
+
+Version 1.0.0 (Feb 1, 2017)
+	including dinucleotide splice sites in the report
+	incorporate FFPM values whenever fastq reads are given, regardless of using the chimeric junction files direction.
+	uses samtools to extract sequence regions from the genome, rather than putting the entire genome into memory.
+	
+
+Version 0.8.0 (July 28, 2016):
+	FFPM stats computed correctly when using gzipped fastq files
+	upgraded FusionFilter: better takes into account overlapping genes and no longer (inadvertently) filters them out as candidate paralogs.
+	
+Version 0.7.0 (Mar 5, 2016)
+	Update to FusionFilter v0.1.0
+	Require long double anchor support for those fusions only supported by breakpoint/split reads and no spanning fragments, reduces FP rate.
+
+Version 0.6.0 (Dec 16, 2015)
+	including FFPM calculations in output summary.
+
+Version 0.5.4 (Nov, 10, 2015)
+	update to FusionFilter, no 2-pass in genome-generate function
+
+Version 0.5.3 (Nov, 6, 2015)
+	removed duplicate PE alignments supporting fusions, decreases FP rate dramatically on samples w/ high PCR dups, w/ little effect on other 'good' samples w/ low DUP rate.
+
+Version 0.5.2 (Oct 26, 2016)
+	Bugfix for paired cigar-string alignment parsing leading to proper grouping of junction counts.
+
+Version 0.5.1 (Oct 10, 2015)
+     added back capability to run STAR-Fusion from an existing Chimeric.out.junctions file from an earlier STAR run.
+     Use parameter:  --chimeric_junction|J or (--left_fq, --right_fq)

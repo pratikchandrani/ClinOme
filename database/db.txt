@@ -1,0 +1,908 @@
+Any cancer	Any cancer
+Any cancer/Liquid tumor/Blood Cancer	Blood Cancer
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Atypical	Myeloid Atypical
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Benign	Myeloid Benign
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Acute Leukemias of Ambiguous Lineage	Acute Leukemias of Ambiguous Lineage
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Acute Leukemias of Ambiguous Lineage/Acute Undifferentiated Leukemia	Acute Undifferentiated Leukemia
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Acute Leukemias of Ambiguous Lineage/Mixed Phenotype Acute Leukemia, B	Mixed Phenotype Acute Leukemia, B
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Acute Leukemias of Ambiguous Lineage/Mixed Phenotype Acute Leukemia, B/Myeloid, NOS	Myeloid, NOS
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Acute Leukemias of Ambiguous Lineage/Mixed Phenotype Acute Leukemia, T	Mixed Phenotype Acute Leukemia, T
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Acute Leukemias of Ambiguous Lineage/Mixed Phenotype Acute Leukemia, T/Myeloid, NOS	Myeloid, NOS
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Acute Leukemias of Ambiguous Lineage/Mixed Phenotype Acute Leukemia with t(9;22)(q34.1;q11.2); BCR-ABL1	Mixed Phenotype Acute Leukemia with t(9;22)(q34.1;q11.2); BCR-ABL1
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Acute Leukemias of Ambiguous Lineage/Mixed Phenotype Acute Leukemia with t(v;11q23.3); KMT2A Rearranged	Mixed Phenotype Acute Leukemia with t(v;11q23.3); KMT2A Rearranged
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Acute Myeloid Leukemia	Acute Myeloid Leukemia
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Acute Myeloid Leukemia/AML, NOS/Acute Basophilic Leukemia	Acute Basophilic Leukemia
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Acute Myeloid Leukemia/AML, NOS/Acute Megakaryoblastic Leukemia	Acute Megakaryoblastic Leukemia
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Acute Myeloid Leukemia/AML, NOS/Acute Monoblastic	Acute Monoblastic
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Acute Myeloid Leukemia/AML, NOS/Acute Monoblastic/Monocytic Leukemia	Monocytic Leukemia
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Acute Myeloid Leukemia/AML, NOS/Acute Myelomonocytic Leukemia	Acute Myelomonocytic Leukemia
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Acute Myeloid Leukemia/AML, NOS/Acute Panmyelosis with Myelofibrosis	Acute Panmyelosis with Myelofibrosis
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Acute Myeloid Leukemia/AML, NOS	AML, NOS
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Acute Myeloid Leukemia/AML, NOS/AML with Maturation	AML with Maturation
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Acute Myeloid Leukemia/AML, NOS/AML with Minimal Differentiation	AML with Minimal Differentiation
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Acute Myeloid Leukemia/AML, NOS/AML without Maturation	AML without Maturation
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Acute Myeloid Leukemia/AML, NOS/Pure Erythroid Leukemia	Pure Erythroid Leukemia
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Acute Myeloid Leukemia/AML with Myelodysplasia-Related Changes	AML with Myelodysplasia-Related Changes
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Acute Myeloid Leukemia/AML with Recurrent Genetic Abnormalities/AML (megakaryoblastic) with t(1;22)(p13.3;q13.3);RBM15-MKL1	AML (megakaryoblastic) with t(1;22)(p13.3;q13.3);RBM15-MKL1
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Acute Myeloid Leukemia/AML with Recurrent Genetic Abnormalities/AML with BCR-ABL1	AML with BCR-ABL1
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Acute Myeloid Leukemia/AML with Recurrent Genetic Abnormalities/AML with Biallelic Mutations of CEBPA	AML with Biallelic Mutations of CEBPA
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Acute Myeloid Leukemia/AML with Recurrent Genetic Abnormalities/AML with inv(16)(p13.1q22) or t(16;16)(p13.1;q22);CBFB-MYH11	AML with inv(16)(p13.1q22) or t(16;16)(p13.1;q22);CBFB-MYH11
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Acute Myeloid Leukemia/AML with Recurrent Genetic Abnormalities/AML with inv(3)(q21.3q26.2) or t(3;3)(q21.3;q26.2); GATA2, MECOM	AML with inv(3)(q21.3q26.2) or t(3;3)(q21.3;q26.2); GATA2, MECOM
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Acute Myeloid Leukemia/AML with Recurrent Genetic Abnormalities/AML with Mutated NPM1	AML with Mutated NPM1
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Acute Myeloid Leukemia/AML with Recurrent Genetic Abnormalities/AML with Mutated RUNX1	AML with Mutated RUNX1
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Acute Myeloid Leukemia/AML with Recurrent Genetic Abnormalities	AML with Recurrent Genetic Abnormalities
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Acute Myeloid Leukemia/AML with Recurrent Genetic Abnormalities/AML with t(6;9)(p23;q34.1);DEK-NUP214	AML with t(6;9)(p23;q34.1);DEK-NUP214
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Acute Myeloid Leukemia/AML with Recurrent Genetic Abnormalities/AML with t(8;21)(q22;q22.1);RUNX1-RUNX1T1	AML with t(8;21)(q22;q22.1);RUNX1-RUNX1T1
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Acute Myeloid Leukemia/AML with Recurrent Genetic Abnormalities/AML with t(9;11)(p21.3;q23.3);MLLT3-KMT2A	AML with t(9;11)(p21.3;q23.3);MLLT3-KMT2A
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Acute Myeloid Leukemia/AML with Recurrent Genetic Abnormalities/APL with PML-RARA	APL with PML-RARA
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Acute Myeloid Leukemia/Myeloid Proliferations Related to Down Syndrome/Myeloid Leukemia Associated with Down Syndrome	Myeloid Leukemia Associated with Down Syndrome
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Acute Myeloid Leukemia/Myeloid Proliferations Related to Down Syndrome	Myeloid Proliferations Related to Down Syndrome
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Acute Myeloid Leukemia/Myeloid Proliferations Related to Down Syndrome/Transient Abnormal Myelopoiesis	Transient Abnormal Myelopoiesis
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Acute Myeloid Leukemia/Myeloid Sarcoma	Myeloid Sarcoma
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Acute Myeloid Leukemia/Therapy-Related Myeloid Neoplasms/Therapy-Related Acute Myeloid Leukemia	Therapy-Related Acute Myeloid Leukemia
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Acute Myeloid Leukemia/Therapy-Related Myeloid Neoplasms/Therapy-Related Myelodysplastic Syndrome	Therapy-Related Myelodysplastic Syndrome
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Acute Myeloid Leukemia/Therapy-Related Myeloid Neoplasms	Therapy-Related Myeloid Neoplasms
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Blastic Plasmacytoid Dendritic Cell Neoplasm	Blastic Plasmacytoid Dendritic Cell Neoplasm
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Blood Cancer	Blood Cancer
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Blood Cancer/Lymphoid Neoplasms with Eosinophilia and Rearrangement of  PDGFRA	Lymphoid Neoplasms with Eosinophilia and Rearrangement of  PDGFRA
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Blood Cancer/Lymphoid Neoplasms with Eosinophilia and Rearrangement of  PDGFRA/PDGFRB or FGFR1 or with PCM1-JAK2/Blood Cancer	Blood Cancer
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Blood Cancer/Lymphoid Neoplasms with Eosinophilia and Rearrangement of  PDGFRA/PDGFRB or FGFR1 or with PCM1-JAK2/Blood Cancer/Lymphoid Neoplasms with FGFR1 Rearrangement	Lymphoid Neoplasms with FGFR1 Rearrangement
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Blood Cancer/Lymphoid Neoplasms with Eosinophilia and Rearrangement of  PDGFRA/PDGFRB or FGFR1 or with PCM1-JAK2/Blood Cancer/Lymphoid Neoplasms with PCM1-JAK2	Lymphoid Neoplasms with PCM1-JAK2
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Blood Cancer/Lymphoid Neoplasms with Eosinophilia and Rearrangement of  PDGFRA/PDGFRB or FGFR1 or with PCM1-JAK2/Blood Cancer/Lymphoid Neoplasms with PDGFRA Rearrangement	Lymphoid Neoplasms with PDGFRA Rearrangement
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Blood Cancer/Lymphoid Neoplasms with Eosinophilia and Rearrangement of  PDGFRA/PDGFRB or FGFR1 or with PCM1-JAK2/Blood Cancer/Lymphoid Neoplasms with PDGFRB Rearrangement	Lymphoid Neoplasms with PDGFRB Rearrangement
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Blood Cancer/Lymphoid Neoplasms with Eosinophilia and Rearrangement of  PDGFRA/PDGFRB or FGFR1 or with PCM1-JAK2	PDGFRB or FGFR1 or with PCM1-JAK2
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Histiocytic and Dendritic Cell Neoplasms/Disseminated Juvenile Xanthogranuloma	Disseminated Juvenile Xanthogranuloma
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Histiocytic and Dendritic Cell Neoplasms/Erdheim-Chester Disease	Erdheim-Chester Disease
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Histiocytic and Dendritic Cell Neoplasms/Fibroblastic Reticular Cell Tumor	Fibroblastic Reticular Cell Tumor
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Histiocytic and Dendritic Cell Neoplasms/Follicular Dendritic Cell Sarcoma	Follicular Dendritic Cell Sarcoma
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Histiocytic and Dendritic Cell Neoplasms	Histiocytic and Dendritic Cell Neoplasms
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Histiocytic and Dendritic Cell Neoplasms/Histiocytic Sarcoma	Histiocytic Sarcoma
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Histiocytic and Dendritic Cell Neoplasms/Indeterminate Dendritic Cell Tumor	Indeterminate Dendritic Cell Tumor
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Histiocytic and Dendritic Cell Neoplasms/Interdigitating Dendritic Cell Sarcoma	Interdigitating Dendritic Cell Sarcoma
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Histiocytic and Dendritic Cell Neoplasms/Langerhans Cell Histiocytosis	Langerhans Cell Histiocytosis
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Histiocytic and Dendritic Cell Neoplasms/Langerhans Cell Sarcoma	Langerhans Cell Sarcoma
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Histiocytic and Dendritic Cell Neoplasms/Rosai-Dorfman Disease	Rosai-Dorfman Disease
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Mastocytosis/Cutaneous Mastocytosis	Cutaneous Mastocytosis
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Mastocytosis/Mast Cell Sarcoma	Mast Cell Sarcoma
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Mastocytosis	Mastocytosis
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Mastocytosis/Systemic Mastocytosis/Aggressive Systemic Mastocytosis	Aggressive Systemic Mastocytosis
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Mastocytosis/Systemic Mastocytosis/Indolent Systemic Mastocytosis	Indolent Systemic Mastocytosis
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Mastocytosis/Systemic Mastocytosis/Mast Cell Leukemia	Mast Cell Leukemia
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Mastocytosis/Systemic Mastocytosis/Smoldering Systemic Mastocytosis	Smoldering Systemic Mastocytosis
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Mastocytosis/Systemic Mastocytosis	Systemic Mastocytosis
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Mastocytosis/Systemic Mastocytosis/Systemic Mastocytosis with an Associated Hematological Neoplasm	Systemic Mastocytosis with an Associated Hematological Neoplasm
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Myelodysplastic	Myelodysplastic
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Myelodysplastic/Myeloproliferative Neoplasms/Atypical Chronic Myeloid Leukemia, BCR-ABL1-	Atypical Chronic Myeloid Leukemia, BCR-ABL1-
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Myelodysplastic/Myeloproliferative Neoplasms/Chronic Myelomonocytic Leukemia	Chronic Myelomonocytic Leukemia
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Myelodysplastic/Myeloproliferative Neoplasms/Chronic Myelomonocytic Leukemia/Chronic Myelomonocytic Leukemia-0	Chronic Myelomonocytic Leukemia-0
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Myelodysplastic/Myeloproliferative Neoplasms/Chronic Myelomonocytic Leukemia/Chronic Myelomonocytic Leukemia-1	Chronic Myelomonocytic Leukemia-1
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Myelodysplastic/Myeloproliferative Neoplasms/Chronic Myelomonocytic Leukemia/Chronic Myelomonocytic Leukemia-2	Chronic Myelomonocytic Leukemia-2
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Myelodysplastic/Myeloproliferative Neoplasms/Juvenile Myelomonocytic Leukemia	Juvenile Myelomonocytic Leukemia
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Myelodysplastic/Myeloproliferative Neoplasms/MDS	MDS
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Myelodysplastic/Myeloproliferative Neoplasms/MDS/MPN, Unclassifiable	MPN, Unclassifiable
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Myelodysplastic/Myeloproliferative Neoplasms/MDS/MPN with Ring Sideroblasts and Thrombocytosis	MPN with Ring Sideroblasts and Thrombocytosis
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Myelodysplastic/Myeloproliferative Neoplasms	Myeloproliferative Neoplasms
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Myelodysplastic Syndromes/MDS, Unclassifiable	MDS, Unclassifiable
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Myelodysplastic Syndromes/MDS with Excess Blasts	MDS with Excess Blasts
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Myelodysplastic Syndromes/MDS with Excess Blasts/MDS with excess blasts-1	MDS with excess blasts-1
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Myelodysplastic Syndromes/MDS with Excess Blasts/MDS with excess blasts-2	MDS with excess blasts-2
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Myelodysplastic Syndromes/MDS with Isolated Del(5q)	MDS with Isolated Del(5q)
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Myelodysplastic Syndromes/MDS with Multilineage Dysplasia	MDS with Multilineage Dysplasia
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Myelodysplastic Syndromes/MDS with Ring Sideroblasts	MDS with Ring Sideroblasts
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Myelodysplastic Syndromes/MDS with Ring Sideroblasts/MDS with Ring Sideroblasts and Multilineage Dysplasia	MDS with Ring Sideroblasts and Multilineage Dysplasia
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Myelodysplastic Syndromes/MDS with Ring Sideroblasts/MDS with Ring Sideroblasts and Single Lineage Dysplasia	MDS with Ring Sideroblasts and Single Lineage Dysplasia
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Myelodysplastic Syndromes/MDS with Single Lineage Dysplasia	MDS with Single Lineage Dysplasia
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Myelodysplastic Syndromes	Myelodysplastic Syndromes
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Myelodysplastic Syndromes/Refractory Cytopenia of Childhood	Refractory Cytopenia of Childhood
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm	Myeloid Neoplasm
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Myeloid Neoplasms with Germ Line Predisposition	Myeloid Neoplasms with Germ Line Predisposition
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Myeloproliferative Neoplasms/Chronic Eosinophilic Leukemia, NOS	Chronic Eosinophilic Leukemia, NOS
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Myeloproliferative Neoplasms/Chronic Myelogenous Leukemia	Chronic Myelogenous Leukemia
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Myeloproliferative Neoplasms/Chronic Myelogenous Leukemia/Chronic Myeloid Leukemia, BCR-ABL1+	Chronic Myeloid Leukemia, BCR-ABL1+
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Myeloproliferative Neoplasms/Chronic Neutrophilic Leukemia	Chronic Neutrophilic Leukemia
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Myeloproliferative Neoplasms/Essential Thrombocythemia	Essential Thrombocythemia
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Myeloproliferative Neoplasms/Essential Thrombocythemia/Essential Thrombocythemia Myelofibrosis	Essential Thrombocythemia Myelofibrosis
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Myeloproliferative Neoplasms	Myeloproliferative Neoplasms
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Myeloproliferative Neoplasms/Myeloproliferative Neoplasms, Unclassifiable	Myeloproliferative Neoplasms, Unclassifiable
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Myeloproliferative Neoplasms/Polycythemia Vera/Polycythaemia Vera Myelofibrosis	Polycythaemia Vera Myelofibrosis
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Myeloproliferative Neoplasms/Polycythemia Vera	Polycythemia Vera
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Myeloproliferative Neoplasms/Primary Myelofibrosis	Primary Myelofibrosis
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Myeloproliferative Neoplasms/Primary Myelofibrosis/Primary Myelofibrosis,Overt Fibrotic Stage	Primary Myelofibrosis,Overt Fibrotic Stage
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Myeloproliferative Neoplasms/Primary Myelofibrosis/Primary Myelofibrosis, Prefibrotic/Early Stage	Early Stage
+Any cancer/Liquid tumor/Blood Cancer/Myeloid Neoplasm/Myeloproliferative Neoplasms/Primary Myelofibrosis/Primary Myelofibrosis, Prefibrotic	Primary Myelofibrosis, Prefibrotic
+Any cancer/Liquid tumor	Liquid tumor
+Any cancer/Liquid tumor/Lymphatic Cancer	Lymphatic Cancer
+Any cancer/Liquid tumor/Lymphatic Cancer/Lymphoid Neoplasm/B-Lymphoblastic Leukemia-Lymphoma	B-Lymphoblastic Leukemia-Lymphoma
+Any cancer/Liquid tumor/Lymphatic Cancer/Lymphoid Neoplasm	Lymphoid Neoplasm
+Any cancer/Liquid tumor/Lymphatic Cancer/Lymphoid Neoplasm/T-Lymphoblastic Leukemia-Lymphoma	T-Lymphoblastic Leukemia-Lymphoma
+Any cancer/Solid tumor/Adrenal Gland Cancer	Adrenal Gland Cancer
+Any cancer/Solid tumor/Adrenal Gland Cancer/Adrenocortical Adenoma	Adrenocortical Adenoma
+Any cancer/Solid tumor/Adrenal Gland Cancer/Adrenocortical Carcinoma	Adrenocortical Carcinoma
+Any cancer/Solid tumor/Adrenal Gland Cancer/Pheochromocytoma	Pheochromocytoma
+Any cancer/Solid tumor/Ampullary Carcinoma	Ampullary Carcinoma
+Any cancer/Solid tumor/Ampullary Carcinoma/Ampullary Carcinoma	Ampullary Carcinoma
+Any cancer/Solid tumor/Ampullary Carcinoma/Ampullary Carcinoma/Intestinal Ampullary Carcinoma	Intestinal Ampullary Carcinoma
+Any cancer/Solid tumor/Ampullary Carcinoma/Ampullary Carcinoma/Mixed Ampullary Carcinoma	Mixed Ampullary Carcinoma
+Any cancer/Solid tumor/Ampullary Carcinoma/Ampullary Carcinoma/Pancreatobiliary Ampullary Carcinoma	Pancreatobiliary Ampullary Carcinoma
+Any cancer/Solid tumor/Biliary Tract Cancer	Biliary Tract Cancer
+Any cancer/Solid tumor/Biliary Tract Cancer/Cholangiocarcinoma	Cholangiocarcinoma
+Any cancer/Solid tumor/Biliary Tract Cancer/Cholangiocarcinoma/Extrahepatic Cholangiocarcinoma	Extrahepatic Cholangiocarcinoma
+Any cancer/Solid tumor/Biliary Tract Cancer/Cholangiocarcinoma/Intrahepatic Cholangiocarcinoma	Intrahepatic Cholangiocarcinoma
+Any cancer/Solid tumor/Biliary Tract Cancer/Cholangiocarcinoma/Perihilar Cholangiocarcinoma	Perihilar Cholangiocarcinoma
+Any cancer/Solid tumor/Biliary Tract Cancer/Gallbladder Cancer/Adenosquamous Carcinoma of the Gallbladder	Adenosquamous Carcinoma of the Gallbladder
+Any cancer/Solid tumor/Biliary Tract Cancer/Gallbladder Cancer/Gallbladder Adenocarcinoma, NOS	Gallbladder Adenocarcinoma, NOS
+Any cancer/Solid tumor/Biliary Tract Cancer/Gallbladder Cancer	Gallbladder Cancer
+Any cancer/Solid tumor/Biliary Tract Cancer/Gallbladder Cancer/Small Cell Gallbladder Carcinoma	Small Cell Gallbladder Carcinoma
+Any cancer/Solid tumor/Bladder-Urinary Tract Cancer/Bladder Adenocarcinoma	Bladder Adenocarcinoma
+Any cancer/Solid tumor/Bladder-Urinary Tract Cancer/Bladder Squamous Cell Carcinoma	Bladder Squamous Cell Carcinoma
+Any cancer/Solid tumor/Bladder-Urinary Tract Cancer	Bladder-Urinary Tract Cancer
+Any cancer/Solid tumor/Bladder-Urinary Tract Cancer/Bladder Urothelial Carcinoma	Bladder Urothelial Carcinoma
+Any cancer/Solid tumor/Bladder-Urinary Tract Cancer/Inflammatory Myofibroblastic Bladder Tumor	Inflammatory Myofibroblastic Bladder Tumor
+Any cancer/Solid tumor/Bladder-Urinary Tract Cancer/Inverted Urothelial Papilloma	Inverted Urothelial Papilloma
+Any cancer/Solid tumor/Bladder-Urinary Tract Cancer/Mucosal Melanoma of the Urethra	Mucosal Melanoma of the Urethra
+Any cancer/Solid tumor/Bladder-Urinary Tract Cancer/Plasmacytoid	Plasmacytoid
+Any cancer/Solid tumor/Bladder-Urinary Tract Cancer/Plasmacytoid/Signet Ring Cell Bladder Carcinoma	Signet Ring Cell Bladder Carcinoma
+Any cancer/Solid tumor/Bladder-Urinary Tract Cancer/Sarcomatoid Carcinoma of the Urinary Bladder	Sarcomatoid Carcinoma of the Urinary Bladder
+Any cancer/Solid tumor/Bladder-Urinary Tract Cancer/Small Cell Bladder Cancer	Small Cell Bladder Cancer
+Any cancer/Solid tumor/Bladder-Urinary Tract Cancer/Upper Tract Urothelial Carcinoma	Upper Tract Urothelial Carcinoma
+Any cancer/Solid tumor/Bladder-Urinary Tract Cancer/Urachal Carcinoma/Urachal Adenocarcinoma	Urachal Adenocarcinoma
+Any cancer/Solid tumor/Bladder-Urinary Tract Cancer/Urachal Carcinoma	Urachal Carcinoma
+Any cancer/Solid tumor/Bladder-Urinary Tract Cancer/Urethral Cancer/Urethral Adenocarcinoma	Urethral Adenocarcinoma
+Any cancer/Solid tumor/Bladder-Urinary Tract Cancer/Urethral Cancer	Urethral Cancer
+Any cancer/Solid tumor/Bladder-Urinary Tract Cancer/Urethral Cancer/Urethral Squamous Cell Carcinoma	Urethral Squamous Cell Carcinoma
+Any cancer/Solid tumor/Bladder-Urinary Tract Cancer/Urethral Cancer/Urethral Urothelial Carcinoma	Urethral Urothelial Carcinoma
+Any cancer/Solid tumor/Bladder-Urinary Tract Cancer/Urothelial Papilloma	Urothelial Papilloma
+Any cancer/Solid tumor/Bone Cancer/Adamantinoma	Adamantinoma
+Any cancer/Solid tumor/Bone Cancer	Bone Cancer
+Any cancer/Solid tumor/Bone Cancer/Chondroblastoma	Chondroblastoma
+Any cancer/Solid tumor/Bone Cancer/Chondrosarcoma	Chondrosarcoma
+Any cancer/Solid tumor/Bone Cancer/Chondrosarcoma/Dedifferentiated Chondrosarcoma	Dedifferentiated Chondrosarcoma
+Any cancer/Solid tumor/Bone Cancer/Chondrosarcoma/Extraskeletal Myxoid Chondrosarcoma	Extraskeletal Myxoid Chondrosarcoma
+Any cancer/Solid tumor/Bone Cancer/Chondrosarcoma/Mesenchymal Chondrosarcoma	Mesenchymal Chondrosarcoma
+Any cancer/Solid tumor/Bone Cancer/Chondrosarcoma/Myxoid Chondrosarcoma	Myxoid Chondrosarcoma
+Any cancer/Solid tumor/Bone Cancer/Chordoma	Chordoma
+Any cancer/Solid tumor/Bone Cancer/Chordoma/Conventional Type Chordoma	Conventional Type Chordoma
+Any cancer/Solid tumor/Bone Cancer/Chordoma/Dedifferentiated Chordoma	Dedifferentiated Chordoma
+Any cancer/Solid tumor/Bone Cancer/Ewing Sarcoma	Ewing Sarcoma
+Any cancer/Solid tumor/Bone Cancer/Giant Cell Tumor of Bone	Giant Cell Tumor of Bone
+Any cancer/Solid tumor/Bone Cancer/Osteosarcoma/Chondroblastic Osteosarcoma	Chondroblastic Osteosarcoma
+Any cancer/Solid tumor/Bone Cancer/Osteosarcoma/Fibroblastic Osteosarcoma	Fibroblastic Osteosarcoma
+Any cancer/Solid tumor/Bone Cancer/Osteosarcoma/High-Grade Surface Osteosarcoma	High-Grade Surface Osteosarcoma
+Any cancer/Solid tumor/Bone Cancer/Osteosarcoma/Low-Grade Central Osteosarcoma	Low-Grade Central Osteosarcoma
+Any cancer/Solid tumor/Bone Cancer/Osteosarcoma/Osteoblastic Osteosarcoma	Osteoblastic Osteosarcoma
+Any cancer/Solid tumor/Bone Cancer/Osteosarcoma	Osteosarcoma
+Any cancer/Solid tumor/Bone Cancer/Osteosarcoma/Parosteal Osteosarcoma	Parosteal Osteosarcoma
+Any cancer/Solid tumor/Bone Cancer/Osteosarcoma/Periosteal Osteosarcoma	Periosteal Osteosarcoma
+Any cancer/Solid tumor/Bone Cancer/Osteosarcoma/Secondary Osteosarcoma	Secondary Osteosarcoma
+Any cancer/Solid tumor/Bone Cancer/Osteosarcoma/Small Cell Osteosarcoma	Small Cell Osteosarcoma
+Any cancer/Solid tumor/Bone Cancer/Osteosarcoma/Telangiectatic Osteosarcoma	Telangiectatic Osteosarcoma
+Any cancer/Solid tumor/Bowel Cancer/Anal Gland Adenocarcinoma	Anal Gland Adenocarcinoma
+Any cancer/Solid tumor/Bowel Cancer/Anal Squamous Cell Carcinoma	Anal Squamous Cell Carcinoma
+Any cancer/Solid tumor/Bowel Cancer/Anorectal Mucosal Melanoma	Anorectal Mucosal Melanoma
+Any cancer/Solid tumor/Bowel Cancer/Appendiceal Adenocarcinoma	Appendiceal Adenocarcinoma
+Any cancer/Solid tumor/Bowel Cancer/Appendiceal Adenocarcinoma/Colonic Type Adenocarcinoma of the Appendix	Colonic Type Adenocarcinoma of the Appendix
+Any cancer/Solid tumor/Bowel Cancer/Appendiceal Adenocarcinoma/Goblet Cell Carcinoid of the Appendix	Goblet Cell Carcinoid of the Appendix
+Any cancer/Solid tumor/Bowel Cancer/Appendiceal Adenocarcinoma/Mucinous Adenocarcinoma of the Appendix	Mucinous Adenocarcinoma of the Appendix
+Any cancer/Solid tumor/Bowel Cancer/Appendiceal Adenocarcinoma/Signet Ring Cell Type of the Appendix	Signet Ring Cell Type of the Appendix
+Any cancer/Solid tumor/Bowel Cancer	Bowel Cancer
+Any cancer/Solid tumor/Bowel Cancer/Colorectal Adenocarcinoma/Colon Adenocarcinoma	Colon Adenocarcinoma
+Any cancer/Solid tumor/Bowel Cancer/Colorectal Adenocarcinoma/Colon Adenocarcinoma In Situ	Colon Adenocarcinoma In Situ
+Any cancer/Solid tumor/Bowel Cancer/Colorectal Adenocarcinoma	Colorectal Adenocarcinoma
+Any cancer/Solid tumor/Bowel Cancer/Colorectal Adenocarcinoma/Mucinous Adenocarcinoma of the Colon and Rectum	Mucinous Adenocarcinoma of the Colon and Rectum
+Any cancer/Solid tumor/Bowel Cancer/Colorectal Adenocarcinoma/Rectal Adenocarcinoma	Rectal Adenocarcinoma
+Any cancer/Solid tumor/Bowel Cancer/Colorectal Adenocarcinoma/Signet Ring Cell Adenocarcinoma of the Colon and Rectum	Signet Ring Cell Adenocarcinoma of the Colon and Rectum
+Any cancer/Solid tumor/Bowel Cancer/Gastrointestinal Neuroendocrine Tumors	Gastrointestinal Neuroendocrine Tumors
+Any cancer/Solid tumor/Bowel Cancer/Gastrointestinal Neuroendocrine Tumors/High-Grade Neuroendocrine Carcinoma of the Colon and Rectum	High-Grade Neuroendocrine Carcinoma of the Colon and Rectum
+Any cancer/Solid tumor/Bowel Cancer/Gastrointestinal Neuroendocrine Tumors/Small Bowel Well-Differentiated Neuroendocrine Tumor	Small Bowel Well-Differentiated Neuroendocrine Tumor
+Any cancer/Solid tumor/Bowel Cancer/Gastrointestinal Neuroendocrine Tumors/Well-Differentiated Neuroendocrine Tumor of the Appendix	Well-Differentiated Neuroendocrine Tumor of the Appendix
+Any cancer/Solid tumor/Bowel Cancer/Gastrointestinal Neuroendocrine Tumors/Well-Differentiated Neuroendocrine Tumor of the Rectum	Well-Differentiated Neuroendocrine Tumor of the Rectum
+Any cancer/Solid tumor/Bowel Cancer/Medullary Carcinoma of the Colon	Medullary Carcinoma of the Colon
+Any cancer/Solid tumor/Bowel Cancer/Small Bowel Cancer/Duodenal Adenocarcinoma	Duodenal Adenocarcinoma
+Any cancer/Solid tumor/Bowel Cancer/Small Bowel Cancer	Small Bowel Cancer
+Any cancer/Solid tumor/Bowel Cancer/Small Intestinal Carcinoma	Small Intestinal Carcinoma
+Any cancer/Solid tumor/Bowel Cancer/Tubular Adenoma of the Colon	Tubular Adenoma of the Colon
+Any cancer/Solid tumor/Breast Cancer/Adenomyoepithelioma of the Breast	Adenomyoepithelioma of the Breast
+Any cancer/Solid tumor/Breast Cancer	Breast Cancer
+Any cancer/Solid tumor/Breast Cancer/Breast Ductal Carcinoma In Situ	Breast Ductal Carcinoma In Situ
+Any cancer/Solid tumor/Breast Cancer/Breast Ductal Carcinoma In Situ/Paget Disease of the Nipple	Paget Disease of the Nipple
+Any cancer/Solid tumor/Breast Cancer/Breast Fibroepithelial Neoplasms	Breast Fibroepithelial Neoplasms
+Any cancer/Solid tumor/Breast Cancer/Breast Fibroepithelial Neoplasms/Fibroadenoma	Fibroadenoma
+Any cancer/Solid tumor/Breast Cancer/Breast Fibroepithelial Neoplasms/Phyllodes Tumor of the Breast Cancer/Benign Phyllodes Tumor of the Breast	Benign Phyllodes Tumor of the Breast
+Any cancer/Solid tumor/Breast Cancer/Breast Fibroepithelial Neoplasms/Phyllodes Tumor of the Breast Cancer/Borderline Phyllodes Tumor of the Breast	Borderline Phyllodes Tumor of the Breast
+Any cancer/Solid tumor/Breast Cancer/Breast Fibroepithelial Neoplasms/Phyllodes Tumor of the Breast Cancer/Malignant Phyllodes Tumor of the Breast	Malignant Phyllodes Tumor of the Breast
+Any cancer/Solid tumor/Breast Cancer/Breast Fibroepithelial Neoplasms/Phyllodes Tumor of the Breast Cancer	Phyllodes Tumor of the Breast Cancer
+Any cancer/Solid tumor/Breast Cancer/Breast Fibroepithelial Neoplasms/Phyllodes Tumor of the Breast	Phyllodes Tumor of the Breast
+Any cancer/Solid tumor/Breast Cancer/Breast Lobular Carcinoma In Situ	Breast Lobular Carcinoma In Situ
+Any cancer/Solid tumor/Breast Cancer/Breast Neoplasm, NOS	Breast Neoplasm, NOS
+Any cancer/Solid tumor/Breast Cancer/Breast Sarcoma/Breast Angiosarcoma	Breast Angiosarcoma
+Any cancer/Solid tumor/Breast Cancer/Breast Sarcoma	Breast Sarcoma
+Any cancer/Solid tumor/Breast Cancer/Inflammatory Breast Cancer	Inflammatory Breast Cancer
+Any cancer/Solid tumor/Breast Cancer/Invasive Breast Carcinoma/Adenoid Cystic Breast Cancer	Adenoid Cystic Breast Cancer
+Any cancer/Solid tumor/Breast Cancer/Invasive Breast Carcinoma/Breast Carcinoma with Signet Ring	Breast Carcinoma with Signet Ring
+Any cancer/Solid tumor/Breast Cancer/Invasive Breast Carcinoma/Breast Invasive Cancer, NOS	Breast Invasive Cancer, NOS
+Any cancer/Solid tumor/Breast Cancer/Invasive Breast Carcinoma/Breast Invasive Carcinoma, NOS	Breast Invasive Carcinoma, NOS
+Any cancer/Solid tumor/Breast Cancer/Invasive Breast Carcinoma/Breast Invasive Carcinosarcoma, NOS	Breast Invasive Carcinosarcoma, NOS
+Any cancer/Solid tumor/Breast Cancer/Invasive Breast Carcinoma/Breast Invasive Ductal Carcinoma	Breast Invasive Ductal Carcinoma
+Any cancer/Solid tumor/Breast Cancer/Invasive Breast Carcinoma/Breast Invasive Lobular Carcinoma	Breast Invasive Lobular Carcinoma
+Any cancer/Solid tumor/Breast Cancer/Invasive Breast Carcinoma/Breast Invasive Mixed Mucinous Carcinoma	Breast Invasive Mixed Mucinous Carcinoma
+Any cancer/Solid tumor/Breast Cancer/Invasive Breast Carcinoma/Breast Mixed Ductal and Lobular Carcinoma	Breast Mixed Ductal and Lobular Carcinoma
+Any cancer/Solid tumor/Breast Cancer/Invasive Breast Carcinoma	Invasive Breast Carcinoma
+Any cancer/Solid tumor/Breast Cancer/Invasive Breast Carcinoma/Solid Papillary Carcinoma of the Breast	Solid Papillary Carcinoma of the Breast
+Any cancer/Solid tumor/Breast Cancer/Juvenile Secretory Carcinoma of the Breast	Juvenile Secretory Carcinoma of the Breast
+Any cancer/Solid tumor/Breast Cancer/Metaplastic Breast Cancer/Epithelial Type Metaplastic Breast Cancer	Epithelial Type Metaplastic Breast Cancer
+Any cancer/Solid tumor/Breast Cancer/Metaplastic Breast Cancer/Epithelial Type Metaplastic Breast Cancer/Metaplastic Adenocarcinoma with Spindle Cell Differentiation	Metaplastic Adenocarcinoma with Spindle Cell Differentiation
+Any cancer/Solid tumor/Breast Cancer/Metaplastic Breast Cancer/Epithelial Type Metaplastic Breast Cancer/Metaplastic Adenosquamous Carcinoma	Metaplastic Adenosquamous Carcinoma
+Any cancer/Solid tumor/Breast Cancer/Metaplastic Breast Cancer/Epithelial Type Metaplastic Breast Cancer/Metaplastic Squamous Cell Carcinoma	Metaplastic Squamous Cell Carcinoma
+Any cancer/Solid tumor/Breast Cancer/Metaplastic Breast Cancer	Metaplastic Breast Cancer
+Any cancer/Solid tumor/Breast Cancer/Metaplastic Breast Cancer/Mixed Type Metaplastic Breast Cancer/Carcinoma with Chondroid Metaplasia	Carcinoma with Chondroid Metaplasia
+Any cancer/Solid tumor/Breast Cancer/Metaplastic Breast Cancer/Mixed Type Metaplastic Breast Cancer/Carcinoma with Osseous Metaplasia	Carcinoma with Osseous Metaplasia
+Any cancer/Solid tumor/Breast Cancer/Metaplastic Breast Cancer/Mixed Type Metaplastic Breast Cancer/Metaplastic Carcinosarcoma	Metaplastic Carcinosarcoma
+Any cancer/Solid tumor/Breast Cancer/Metaplastic Breast Cancer/Mixed Type Metaplastic Breast Cancer	Mixed Type Metaplastic Breast Cancer
+Any cancer/Solid tumor/Cervical Cancer/Cervical Adenocarcinoma	Cervical Adenocarcinoma
+Any cancer/Solid tumor/Cervical Cancer/Cervical Adenocarcinoma/Cervical Clear Cell Carcinoma	Cervical Clear Cell Carcinoma
+Any cancer/Solid tumor/Cervical Cancer/Cervical Adenocarcinoma/Cervical Endometrioid Carcinoma	Cervical Endometrioid Carcinoma
+Any cancer/Solid tumor/Cervical Cancer/Cervical Adenocarcinoma/Cervical Serous Carcinoma	Cervical Serous Carcinoma
+Any cancer/Solid tumor/Cervical Cancer/Cervical Adenocarcinoma/Endocervical Adenocarcinoma	Endocervical Adenocarcinoma
+Any cancer/Solid tumor/Cervical Cancer/Cervical Adenocarcinoma In Situ	Cervical Adenocarcinoma In Situ
+Any cancer/Solid tumor/Cervical Cancer/Cervical Adenocarcinoma/Mesonephric Carcinoma	Mesonephric Carcinoma
+Any cancer/Solid tumor/Cervical Cancer/Cervical Adenocarcinoma/Mucinous Carcinoma/Gastric Type Mucinous Carcinoma	Gastric Type Mucinous Carcinoma
+Any cancer/Solid tumor/Cervical Cancer/Cervical Adenocarcinoma/Mucinous Carcinoma/Intestinal Type Mucinous Carcinoma	Intestinal Type Mucinous Carcinoma
+Any cancer/Solid tumor/Cervical Cancer/Cervical Adenocarcinoma/Mucinous Carcinoma	Mucinous Carcinoma
+Any cancer/Solid tumor/Cervical Cancer/Cervical Adenocarcinoma/Mucinous Carcinoma/Signet Ring Mucinous Carcinoma	Signet Ring Mucinous Carcinoma
+Any cancer/Solid tumor/Cervical Cancer/Cervical Adenocarcinoma/Villoglandular Carcinoma	Villoglandular Carcinoma
+Any cancer/Solid tumor/Cervical Cancer/Cervical Adenoid Basal Carcinoma	Cervical Adenoid Basal Carcinoma
+Any cancer/Solid tumor/Cervical Cancer/Cervical Adenoid Cystic Carcinoma	Cervical Adenoid Cystic Carcinoma
+Any cancer/Solid tumor/Cervical Cancer/Cervical Adenosquamous Carcinoma	Cervical Adenosquamous Carcinoma
+Any cancer/Solid tumor/Cervical Cancer	Cervical Cancer
+Any cancer/Solid tumor/Cervical Cancer/Cervical Leiomyosarcoma	Cervical Leiomyosarcoma
+Any cancer/Solid tumor/Cervical Cancer/Cervical Neuroendocrine Tumor	Cervical Neuroendocrine Tumor
+Any cancer/Solid tumor/Cervical Cancer/Cervical Rhabdomyosarcoma	Cervical Rhabdomyosarcoma
+Any cancer/Solid tumor/Cervical Cancer/Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma
+Any cancer/Solid tumor/Cervical Cancer/Glassy Cell Carcinoma of the Cervix	Glassy Cell Carcinoma of the Cervix
+Any cancer/Solid tumor/Cervical Cancer/Mixed Cervical Carcinoma	Mixed Cervical Carcinoma
+Any cancer/Solid tumor/Cervical Cancer/Small Cell Carcinoma of the Cervix	Small Cell Carcinoma of the Cervix
+Any cancer/Solid tumor/Cervical Cancer/Villoglandular Adenocarcinoma of the Cervix	Villoglandular Adenocarcinoma of the Cervix
+Any cancer/Solid tumor/CNS-Brain Cancer/Choroid Plexus Tumor/Atypical Choroid Plexus Papilloma	Atypical Choroid Plexus Papilloma
+Any cancer/Solid tumor/CNS-Brain Cancer/Choroid Plexus Tumor/Choroid Plexus Carcinoma	Choroid Plexus Carcinoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Choroid Plexus Tumor/Choroid Plexus Papilloma	Choroid Plexus Papilloma
+Any cancer/Solid tumor/CNS-Brain Cancer/Choroid Plexus Tumor	Choroid Plexus Tumor
+Any cancer/Solid tumor/CNS-Brain Cancer	CNS-Brain Cancer
+Any cancer/Solid tumor/CNS-Brain Cancer/Diffuse Glioma/Anaplastic Astrocytoma	Anaplastic Astrocytoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Diffuse Glioma/Anaplastic Oligoastrocytoma	Anaplastic Oligoastrocytoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Diffuse Glioma/Anaplastic Oligodendroglioma	Anaplastic Oligodendroglioma
+Any cancer/Solid tumor/CNS-Brain Cancer/Diffuse Glioma/Astrocytoma	Astrocytoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Diffuse Glioma/Diffuse Astrocytoma	Diffuse Astrocytoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Diffuse Glioma	Diffuse Glioma
+Any cancer/Solid tumor/CNS-Brain Cancer/Diffuse Glioma/Diffuse Intrinsic Pontine Glioma	Diffuse Intrinsic Pontine Glioma
+Any cancer/Solid tumor/CNS-Brain Cancer/Diffuse Glioma/Glioblastoma	Glioblastoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Diffuse Glioma/Glioblastoma/Glioblastoma Multiforme	Glioblastoma Multiforme
+Any cancer/Solid tumor/CNS-Brain Cancer/Diffuse Glioma/Glioblastoma/Gliosarcoma	Gliosarcoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Diffuse Glioma/Glioblastoma/Small Cell Glioblastoma	Small Cell Glioblastoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Diffuse Glioma/Glioma, NOS	Glioma, NOS
+Any cancer/Solid tumor/CNS-Brain Cancer/Diffuse Glioma/High-Grade Glioma, NOS	High-Grade Glioma, NOS
+Any cancer/Solid tumor/CNS-Brain Cancer/Diffuse Glioma/Oligoastrocytoma	Oligoastrocytoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Diffuse Glioma/Oligodendroglioma	Oligodendroglioma
+Any cancer/Solid tumor/CNS-Brain Cancer/Embryonal Tumor/Atypical Teratoid	Atypical Teratoid
+Any cancer/Solid tumor/CNS-Brain Cancer/Embryonal Tumor/Atypical Teratoid/Rhabdoid Tumor	Rhabdoid Tumor
+Any cancer/Solid tumor/CNS-Brain Cancer/Embryonal Tumor/Desmoplastic	Desmoplastic
+Any cancer/Solid tumor/CNS-Brain Cancer/Embryonal Tumor/Desmoplastic/Nodular Medulloblastoma	Nodular Medulloblastoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Embryonal Tumor	Embryonal Tumor
+Any cancer/Solid tumor/CNS-Brain Cancer/Embryonal Tumor/Embryonal Tumor with Abundant Neuropil and True Rosettes	Embryonal Tumor with Abundant Neuropil and True Rosettes
+Any cancer/Solid tumor/CNS-Brain Cancer/Embryonal Tumor/Large Cell/Anaplastic Medulloblastoma	Anaplastic Medulloblastoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Embryonal Tumor/Large Cell	Large Cell
+Any cancer/Solid tumor/CNS-Brain Cancer/Embryonal Tumor/Medulloblastoma	Medulloblastoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Embryonal Tumor/Medulloblastoma with Extensive Nodularity	Medulloblastoma with Extensive Nodularity
+Any cancer/Solid tumor/CNS-Brain Cancer/Embryonal Tumor/Medulloepithelioma	Medulloepithelioma
+Any cancer/Solid tumor/CNS-Brain Cancer/Embryonal Tumor/Medullomyoblastoma	Medullomyoblastoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Embryonal Tumor/Melanotic Medulloblastoma	Melanotic Medulloblastoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Embryonal Tumor/Olfactory Neuroblastoma	Olfactory Neuroblastoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Embryonal Tumor/Primitive Neuroectodermal Tumor	Primitive Neuroectodermal Tumor
+Any cancer/Solid tumor/CNS-Brain Cancer/Encapsulated Glioma/Anaplastic Ganglioglioma	Anaplastic Ganglioglioma
+Any cancer/Solid tumor/CNS-Brain Cancer/Encapsulated Glioma/Anaplastic Pleomorphic Xanthoastrocytoma	Anaplastic Pleomorphic Xanthoastrocytoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Encapsulated Glioma/Dysembryoplastic Neuroepithelial Tumor	Dysembryoplastic Neuroepithelial Tumor
+Any cancer/Solid tumor/CNS-Brain Cancer/Encapsulated Glioma	Encapsulated Glioma
+Any cancer/Solid tumor/CNS-Brain Cancer/Encapsulated Glioma/Gangliocytoma	Gangliocytoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Encapsulated Glioma/Ganglioglioma	Ganglioglioma
+Any cancer/Solid tumor/CNS-Brain Cancer/Encapsulated Glioma/Low-Grade Glioma, NOS	Low-Grade Glioma, NOS
+Any cancer/Solid tumor/CNS-Brain Cancer/Encapsulated Glioma/Pilocytic Astrocytoma	Pilocytic Astrocytoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Encapsulated Glioma/Pilomyxoid Astrocytoma	Pilomyxoid Astrocytoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Encapsulated Glioma/Pleomorphic Xanthoastrocytoma	Pleomorphic Xanthoastrocytoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Ependymomal Tumor/Anaplastic Ependymoma	Anaplastic Ependymoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Ependymomal Tumor/Clear Cell Ependymoma	Clear Cell Ependymoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Ependymomal Tumor/Ependymoma	Ependymoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Ependymomal Tumor	Ependymomal Tumor
+Any cancer/Solid tumor/CNS-Brain Cancer/Ependymomal Tumor/Myxopapillary Ependymoma	Myxopapillary Ependymoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Ependymomal Tumor/Subependymoma	Subependymoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Germ Cell Tumor, Brain/Choriocarcinoma	Choriocarcinoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Germ Cell Tumor, Brain/Embryonal Carcinoma	Embryonal Carcinoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Germ Cell Tumor, Brain	Germ Cell Tumor, Brain
+Any cancer/Solid tumor/CNS-Brain Cancer/Germ Cell Tumor, Brain/Germinoma	Germinoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Germ Cell Tumor, Brain/Immature Teratoma	Immature Teratoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Germ Cell Tumor, Brain/Malignant Teratoma	Malignant Teratoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Germ Cell Tumor, Brain/Mature Teratoma	Mature Teratoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Germ Cell Tumor, Brain/Mixed Germ Cell Tumor	Mixed Germ Cell Tumor
+Any cancer/Solid tumor/CNS-Brain Cancer/Germ Cell Tumor, Brain/Yolk Sac Tumor	Yolk Sac Tumor
+Any cancer/Solid tumor/CNS-Brain Cancer/Meningothelial Tumor/Anaplastic Meningioma	Anaplastic Meningioma
+Any cancer/Solid tumor/CNS-Brain Cancer/Meningothelial Tumor/Atypical Meningioma	Atypical Meningioma
+Any cancer/Solid tumor/CNS-Brain Cancer/Meningothelial Tumor/Chordoid Meningioma	Chordoid Meningioma
+Any cancer/Solid tumor/CNS-Brain Cancer/Meningothelial Tumor/Clear cell Meningioma	Clear cell Meningioma
+Any cancer/Solid tumor/CNS-Brain Cancer/Meningothelial Tumor/Hemangiopericytoma of the Central Nervous System	Hemangiopericytoma of the Central Nervous System
+Any cancer/Solid tumor/CNS-Brain Cancer/Meningothelial Tumor/Meningioma	Meningioma
+Any cancer/Solid tumor/CNS-Brain Cancer/Meningothelial Tumor	Meningothelial Tumor
+Any cancer/Solid tumor/CNS-Brain Cancer/Meningothelial Tumor/Papillary Meningioma	Papillary Meningioma
+Any cancer/Solid tumor/CNS-Brain Cancer/Meningothelial Tumor/Rhabdoid Meningioma	Rhabdoid Meningioma
+Any cancer/Solid tumor/CNS-Brain Cancer/Meningothelial Tumor/Solitary Fibrous Tumor of the Central Nervous System	Solitary Fibrous Tumor of the Central Nervous System
+Any cancer/Solid tumor/CNS-Brain Cancer/Miscellaneous Brain Tumor/Hemangioblastoma	Hemangioblastoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Miscellaneous Brain Tumor/High-Grade Neuroepithelial Tumor	High-Grade Neuroepithelial Tumor
+Any cancer/Solid tumor/CNS-Brain Cancer/Miscellaneous Brain Tumor/Low-Grade Neuroepithelial Tumor	Low-Grade Neuroepithelial Tumor
+Any cancer/Solid tumor/CNS-Brain Cancer/Miscellaneous Brain Tumor/Malignant Lymphoma	Malignant Lymphoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Miscellaneous Brain Tumor/Malignant Tumor	Malignant Tumor
+Any cancer/Solid tumor/CNS-Brain Cancer/Miscellaneous Brain Tumor/Mesenchymal Chondrosarcoma of the CNS	Mesenchymal Chondrosarcoma of the CNS
+Any cancer/Solid tumor/CNS-Brain Cancer/Miscellaneous Brain Tumor	Miscellaneous Brain Tumor
+Any cancer/Solid tumor/CNS-Brain Cancer/Miscellaneous Brain Tumor/Primary Brain Tumor	Primary Brain Tumor
+Any cancer/Solid tumor/CNS-Brain Cancer/Miscellaneous Brain Tumor/Primary Neuroepithelial Tumor	Primary Neuroepithelial Tumor
+Any cancer/Solid tumor/CNS-Brain Cancer/Miscellaneous Neuroepithelial Tumor/Angiocentric Glioma	Angiocentric Glioma
+Any cancer/Solid tumor/CNS-Brain Cancer/Miscellaneous Neuroepithelial Tumor/Astroblastoma	Astroblastoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Miscellaneous Neuroepithelial Tumor/Central Neurocytoma	Central Neurocytoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Miscellaneous Neuroepithelial Tumor/Cerebellar Liponeurocytoma	Cerebellar Liponeurocytoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Miscellaneous Neuroepithelial Tumor/Chordoid Glioma of the Third Ventricle	Chordoid Glioma of the Third Ventricle
+Any cancer/Solid tumor/CNS-Brain Cancer/Miscellaneous Neuroepithelial Tumor/Desmoplastic Infantile Astrocytoma	Desmoplastic Infantile Astrocytoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Miscellaneous Neuroepithelial Tumor/Desmoplastic Infantile Ganglioglioma	Desmoplastic Infantile Ganglioglioma
+Any cancer/Solid tumor/CNS-Brain Cancer/Miscellaneous Neuroepithelial Tumor/Dysplastic Gangliocytoma of the Cerebellum	Dysplastic Gangliocytoma of the Cerebellum
+Any cancer/Solid tumor/CNS-Brain Cancer/Miscellaneous Neuroepithelial Tumor/Dysplastic Gangliocytoma of the Cerebellum/Lhermitte-Duclos Disease	Lhermitte-Duclos Disease
+Any cancer/Solid tumor/CNS-Brain Cancer/Miscellaneous Neuroepithelial Tumor/Extraventricular Neurocytoma	Extraventricular Neurocytoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Miscellaneous Neuroepithelial Tumor	Miscellaneous Neuroepithelial Tumor
+Any cancer/Solid tumor/CNS-Brain Cancer/Miscellaneous Neuroepithelial Tumor/Papillary Glioneuronal Tumor	Papillary Glioneuronal Tumor
+Any cancer/Solid tumor/CNS-Brain Cancer/Miscellaneous Neuroepithelial Tumor/Rosette-forming Glioneuronal Tumor of the Fourth Ventricle	Rosette-forming Glioneuronal Tumor of the Fourth Ventricle
+Any cancer/Solid tumor/CNS-Brain Cancer/Pineal Tumor/Papillary Tumor of the Pineal Region	Papillary Tumor of the Pineal Region
+Any cancer/Solid tumor/CNS-Brain Cancer/Pineal Tumor/Pineal Parenchymal Tumor of Intermediate Differentiation	Pineal Parenchymal Tumor of Intermediate Differentiation
+Any cancer/Solid tumor/CNS-Brain Cancer/Pineal Tumor	Pineal Tumor
+Any cancer/Solid tumor/CNS-Brain Cancer/Pineal Tumor/Pineoblastoma	Pineoblastoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Pineal Tumor/Pineocytoma	Pineocytoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Primary CNS Melanocytic Tumors/Melanocytoma	Melanocytoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Primary CNS Melanocytic Tumors	Primary CNS Melanocytic Tumors
+Any cancer/Solid tumor/CNS-Brain Cancer/Primary CNS Melanocytic Tumors/Primary CNS Melanoma	Primary CNS Melanoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Sellar Tumor/Atypical Pituitary Adenoma	Atypical Pituitary Adenoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Sellar Tumor/Craniopharyngioma, Adamantinomatous Type	Craniopharyngioma, Adamantinomatous Type
+Any cancer/Solid tumor/CNS-Brain Cancer/Sellar Tumor/Craniopharyngioma, Papillary Type	Craniopharyngioma, Papillary Type
+Any cancer/Solid tumor/CNS-Brain Cancer/Sellar Tumor/Granular Cell Tumor	Granular Cell Tumor
+Any cancer/Solid tumor/CNS-Brain Cancer/Sellar Tumor/Pituicytoma	Pituicytoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Sellar Tumor/Pituitary Adenoma	Pituitary Adenoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Sellar Tumor/Pituitary Carcinoma	Pituitary Carcinoma
+Any cancer/Solid tumor/CNS-Brain Cancer/Sellar Tumor	Sellar Tumor
+Any cancer/Solid tumor/CNS-Brain Cancer/Sellar Tumor/Spindle Cell Oncocytoma of the Adenohypophysis	Spindle Cell Oncocytoma of the Adenohypophysis
+Any cancer/Solid tumor/Esophageal-Stomach Cancer/Esophageal Poorly Differentiated Carcinoma	Esophageal Poorly Differentiated Carcinoma
+Any cancer/Solid tumor/Esophageal-Stomach Cancer/Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma
+Any cancer/Solid tumor/Esophageal-Stomach Cancer	Esophageal-Stomach Cancer
+Any cancer/Solid tumor/Esophageal-Stomach Cancer/Esophagogastric Adenocarcinoma/Adenocarcinoma of the Gastroesophageal Junction	Adenocarcinoma of the Gastroesophageal Junction
+Any cancer/Solid tumor/Esophageal-Stomach Cancer/Esophagogastric Adenocarcinoma/Adenosquamous Carcinoma of the Stomach	Adenosquamous Carcinoma of the Stomach
+Any cancer/Solid tumor/Esophageal-Stomach Cancer/Esophagogastric Adenocarcinoma/Esophageal Adenocarcinoma	Esophageal Adenocarcinoma
+Any cancer/Solid tumor/Esophageal-Stomach Cancer/Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma
+Any cancer/Solid tumor/Esophageal-Stomach Cancer/Esophagogastric Adenocarcinoma/Gastric Remnant Adenocarcinoma	Gastric Remnant Adenocarcinoma
+Any cancer/Solid tumor/Esophageal-Stomach Cancer/Esophagogastric Adenocarcinoma/Small Cell Carcinoma of the Stomach	Small Cell Carcinoma of the Stomach
+Any cancer/Solid tumor/Esophageal-Stomach Cancer/Esophagogastric Adenocarcinoma/Stomach Adenocarcinoma/Diffuse Type Stomach Adenocarcinoma	Diffuse Type Stomach Adenocarcinoma
+Any cancer/Solid tumor/Esophageal-Stomach Cancer/Esophagogastric Adenocarcinoma/Stomach Adenocarcinoma/Intestinal Type Stomach Adenocarcinoma	Intestinal Type Stomach Adenocarcinoma
+Any cancer/Solid tumor/Esophageal-Stomach Cancer/Esophagogastric Adenocarcinoma/Stomach Adenocarcinoma/Mucinous Stomach Adenocarcinoma	Mucinous Stomach Adenocarcinoma
+Any cancer/Solid tumor/Esophageal-Stomach Cancer/Esophagogastric Adenocarcinoma/Stomach Adenocarcinoma/Papillary Stomach Adenocarcinoma	Papillary Stomach Adenocarcinoma
+Any cancer/Solid tumor/Esophageal-Stomach Cancer/Esophagogastric Adenocarcinoma/Stomach Adenocarcinoma	Stomach Adenocarcinoma
+Any cancer/Solid tumor/Esophageal-Stomach Cancer/Esophagogastric Adenocarcinoma/Stomach Adenocarcinoma/Tubular Stomach Adenocarcinoma	Tubular Stomach Adenocarcinoma
+Any cancer/Solid tumor/Esophageal-Stomach Cancer/Esophagogastric Adenocarcinoma/Undifferentiated Stomach Adenocarcinoma/Poorly Differentiated Carcinoma of the Stomach	Poorly Differentiated Carcinoma of the Stomach
+Any cancer/Solid tumor/Esophageal-Stomach Cancer/Esophagogastric Adenocarcinoma/Undifferentiated Stomach Adenocarcinoma/Signet Ring Cell Carcinoma of the Stomach	Signet Ring Cell Carcinoma of the Stomach
+Any cancer/Solid tumor/Esophageal-Stomach Cancer/Esophagogastric Adenocarcinoma/Undifferentiated Stomach Adenocarcinoma	Undifferentiated Stomach Adenocarcinoma
+Any cancer/Solid tumor/Esophageal-Stomach Cancer/Gastrointestinal Neuroendocrine Tumors of the Esophageal-Stomach Cancer	Gastrointestinal Neuroendocrine Tumors of the Esophageal-Stomach Cancer
+Any cancer/Solid tumor/Esophageal-Stomach Cancer/Gastrointestinal Neuroendocrine Tumors of the Esophageal-Stomach Cancer/High-Grade Neuroendocrine Carcinoma of the Esophagus	High-Grade Neuroendocrine Carcinoma of the Esophagus
+Any cancer/Solid tumor/Esophageal-Stomach Cancer/Gastrointestinal Neuroendocrine Tumors of the Esophageal-Stomach Cancer/High-Grade Neuroendocrine Carcinoma of the Stomach	High-Grade Neuroendocrine Carcinoma of the Stomach
+Any cancer/Solid tumor/Esophageal-Stomach Cancer/Gastrointestinal Neuroendocrine Tumors of the Esophageal-Stomach Cancer/Well-Differentiated Neuroendocrine Tumors of the Stomach	Well-Differentiated Neuroendocrine Tumors of the Stomach
+Any cancer/Solid tumor/Esophageal-Stomach Cancer/Gastrointestinal Neuroendocrine Tumors of the Esophagus-Stomach	Gastrointestinal Neuroendocrine Tumors of the Esophagus-Stomach
+Any cancer/Solid tumor/Esophageal-Stomach Cancer/Mucosal Melanoma of the Esophagus	Mucosal Melanoma of the Esophagus
+Any cancer/Solid tumor/Esophageal-Stomach Cancer/Smooth Muscle Neoplasm, NOS	Smooth Muscle Neoplasm, NOS
+Any cancer/Solid tumor/Eye Cancer	Eye Cancer
+Any cancer/Solid tumor/Eye Cancer/Ocular Melanoma/Conjunctival Melanoma	Conjunctival Melanoma
+Any cancer/Solid tumor/Eye Cancer/Ocular Melanoma	Ocular Melanoma
+Any cancer/Solid tumor/Eye Cancer/Ocular Melanoma/Uveal Melanoma	Uveal Melanoma
+Any cancer/Solid tumor/Eye Cancer/Retinoblastoma	Retinoblastoma
+Any cancer/Solid tumor/Head and Neck Cancer	Head and Neck Cancer
+Any cancer/Solid tumor/Head and Neck Cancer/Head and Neck Carcinoma, Other Cancer/Adenosquamous Carcinoma of the Tongue	Adenosquamous Carcinoma of the Tongue
+Any cancer/Solid tumor/Head and Neck Cancer/Head and Neck Carcinoma, Other Cancer/Epithelial-Myoepithelial Carcinoma	Epithelial-Myoepithelial Carcinoma
+Any cancer/Solid tumor/Head and Neck Cancer/Head and Neck Carcinoma, Other Cancer	Head and Neck Carcinoma, Other Cancer
+Any cancer/Solid tumor/Head and Neck Cancer/Head and Neck Carcinoma, Other Cancer/Head and Neck Neuroendocrine Carcinoma	Head and Neck Neuroendocrine Carcinoma
+Any cancer/Solid tumor/Head and Neck Cancer/Head and Neck Carcinoma, Other Cancer/NUT Midline Carcinoma of the Head and Neck	NUT Midline Carcinoma of the Head and Neck
+Any cancer/Solid tumor/Head and Neck Cancer/Head and Neck Carcinoma, Other Cancer/Odontogenic Carcinoma/Clear Cell Odontogenic Carcinoma	Clear Cell Odontogenic Carcinoma
+Any cancer/Solid tumor/Head and Neck Cancer/Head and Neck Carcinoma, Other Cancer/Odontogenic Carcinoma	Odontogenic Carcinoma
+Any cancer/Solid tumor/Head and Neck Cancer/Head and Neck Carcinoma, Other Cancer/Sinonasal Adenocarcinoma	Sinonasal Adenocarcinoma
+Any cancer/Solid tumor/Head and Neck Cancer/Head and Neck Carcinoma, Other Cancer/Sinonasal Undifferentiated Carcinoma	Sinonasal Undifferentiated Carcinoma
+Any cancer/Solid tumor/Head and Neck Cancer/Head and Neck Carcinoma, Other	Head and Neck Carcinoma, Other
+Any cancer/Solid tumor/Head and Neck Cancer/Head and Neck Mucosal Melanoma	Head and Neck Mucosal Melanoma
+Any cancer/Solid tumor/Head and Neck Cancer/Head and Neck Squamous Cell Carcinoma	Head and Neck Squamous Cell Carcinoma
+Any cancer/Solid tumor/Head and Neck Cancer/Head and Neck Squamous Cell Carcinoma/Head and Neck Squamous Cell Carcinoma of Unknown Primary	Head and Neck Squamous Cell Carcinoma of Unknown Primary
+Any cancer/Solid tumor/Head and Neck Cancer/Head and Neck Squamous Cell Carcinoma/Hypopharynx Squamous Cell Carcinoma	Hypopharynx Squamous Cell Carcinoma
+Any cancer/Solid tumor/Head and Neck Cancer/Head and Neck Squamous Cell Carcinoma/Larynx Squamous Cell Carcinoma	Larynx Squamous Cell Carcinoma
+Any cancer/Solid tumor/Head and Neck Cancer/Head and Neck Squamous Cell Carcinoma/Oral Cavity Squamous Cell Carcinoma	Oral Cavity Squamous Cell Carcinoma
+Any cancer/Solid tumor/Head and Neck Cancer/Head and Neck Squamous Cell Carcinoma/Oropharynx Squamous Cell Carcinoma	Oropharynx Squamous Cell Carcinoma
+Any cancer/Solid tumor/Head and Neck Cancer/Head and Neck Squamous Cell Carcinoma/Sinonasal Squamous Cell Carcinoma	Sinonasal Squamous Cell Carcinoma
+Any cancer/Solid tumor/Head and Neck Cancer/Nasopharyngeal Carcinoma	Nasopharyngeal Carcinoma
+Any cancer/Solid tumor/Head and Neck Cancer/Parathyroid Cancer	Parathyroid Cancer
+Any cancer/Solid tumor/Head and Neck Cancer/Parathyroid Cancer/Parathyroid Carcinoma	Parathyroid Carcinoma
+Any cancer/Solid tumor/Head and Neck Cancer/Salivary Carcinoma/Acinic Cell Carcinoma	Acinic Cell Carcinoma
+Any cancer/Solid tumor/Head and Neck Cancer/Salivary Carcinoma/Adenoid Cystic Carcinoma	Adenoid Cystic Carcinoma
+Any cancer/Solid tumor/Head and Neck Cancer/Salivary Carcinoma/Mammary Analogue Secretory Carcinoma of Salivary Gland Origin	Mammary Analogue Secretory Carcinoma of Salivary Gland Origin
+Any cancer/Solid tumor/Head and Neck Cancer/Salivary Carcinoma/Mucoepidermoid Carcinoma	Mucoepidermoid Carcinoma
+Any cancer/Solid tumor/Head and Neck Cancer/Salivary Carcinoma/Myoepithelial Carcinoma	Myoepithelial Carcinoma
+Any cancer/Solid tumor/Head and Neck Cancer/Salivary Carcinoma/Salivary Adenocarcinoma	Salivary Adenocarcinoma
+Any cancer/Solid tumor/Head and Neck Cancer/Salivary Carcinoma	Salivary Carcinoma
+Any cancer/Solid tumor/Head and Neck Cancer/Salivary Carcinoma/Salivary Carcinoma, Other	Salivary Carcinoma, Other
+Any cancer/Solid tumor/Head and Neck Cancer/Salivary Carcinoma/Salivary Duct Carcinoma	Salivary Duct Carcinoma
+Any cancer/Solid tumor/Head and Neck Cancer/Salivary Carcinoma/Salivary Gland Oncocytoma	Salivary Gland Oncocytoma
+Any cancer/Solid tumor/Head and Neck Cancer/Sialoblastoma	Sialoblastoma
+Any cancer/Solid tumor/Kidney Cancer/Clear Cell Sarcoma of Kidney	Clear Cell Sarcoma of Kidney
+Any cancer/Solid tumor/Kidney Cancer	Kidney Cancer
+Any cancer/Solid tumor/Kidney Cancer/Renal Cell Carcinoma	Renal Cell Carcinoma
+Any cancer/Solid tumor/Kidney Cancer/Renal Cell Carcinoma/Renal Clear Cell Carcinoma	Renal Clear Cell Carcinoma
+Any cancer/Solid tumor/Kidney Cancer/Renal Cell Carcinoma/Renal Clear Cell Carcinoma/Renal Clear Cell Carcinoma with Sarcomatoid Features	Renal Clear Cell Carcinoma with Sarcomatoid Features
+Any cancer/Solid tumor/Kidney Cancer/Renal Cell Carcinoma/Renal Non-Clear Cell Carcinoma/Chromophobe Renal Cell Carcinoma	Chromophobe Renal Cell Carcinoma
+Any cancer/Solid tumor/Kidney Cancer/Renal Cell Carcinoma/Renal Non-Clear Cell Carcinoma/Clear Cell Papillary Renal Cell Carcinoma	Clear Cell Papillary Renal Cell Carcinoma
+Any cancer/Solid tumor/Kidney Cancer/Renal Cell Carcinoma/Renal Non-Clear Cell Carcinoma/Collecting Duct Renal Cell Carcinoma	Collecting Duct Renal Cell Carcinoma
+Any cancer/Solid tumor/Kidney Cancer/Renal Cell Carcinoma/Renal Non-Clear Cell Carcinoma/FH-Deficient Renal Cell Carcinoma	FH-Deficient Renal Cell Carcinoma
+Any cancer/Solid tumor/Kidney Cancer/Renal Cell Carcinoma/Renal Non-Clear Cell Carcinoma/Papillary Renal Cell Carcinoma	Papillary Renal Cell Carcinoma
+Any cancer/Solid tumor/Kidney Cancer/Renal Cell Carcinoma/Renal Non-Clear Cell Carcinoma/Renal Angiomyolipoma	Renal Angiomyolipoma
+Any cancer/Solid tumor/Kidney Cancer/Renal Cell Carcinoma/Renal Non-Clear Cell Carcinoma/Renal Medullary Carcinoma	Renal Medullary Carcinoma
+Any cancer/Solid tumor/Kidney Cancer/Renal Cell Carcinoma/Renal Non-Clear Cell Carcinoma/Renal Mucinous Tubular Spindle Cell Carcinoma	Renal Mucinous Tubular Spindle Cell Carcinoma
+Any cancer/Solid tumor/Kidney Cancer/Renal Cell Carcinoma/Renal Non-Clear Cell Carcinoma	Renal Non-Clear Cell Carcinoma
+Any cancer/Solid tumor/Kidney Cancer/Renal Cell Carcinoma/Renal Non-Clear Cell Carcinoma/Renal Oncocytoma	Renal Oncocytoma
+Any cancer/Solid tumor/Kidney Cancer/Renal Cell Carcinoma/Renal Non-Clear Cell Carcinoma/Renal Small Cell Carcinoma	Renal Small Cell Carcinoma
+Any cancer/Solid tumor/Kidney Cancer/Renal Cell Carcinoma/Renal Non-Clear Cell Carcinoma/Sarcomatoid Renal Cell Carcinoma	Sarcomatoid Renal Cell Carcinoma
+Any cancer/Solid tumor/Kidney Cancer/Renal Cell Carcinoma/Renal Non-Clear Cell Carcinoma/Translocation-Associated Renal Cell Carcinoma	Translocation-Associated Renal Cell Carcinoma
+Any cancer/Solid tumor/Kidney Cancer/Renal Cell Carcinoma/Renal Non-Clear Cell Carcinoma/Unclassified Renal Cell Carcinoma	Unclassified Renal Cell Carcinoma
+Any cancer/Solid tumor/Kidney Cancer/Renal Neuroendocrine Tumor	Renal Neuroendocrine Tumor
+Any cancer/Solid tumor/Kidney Cancer/Rhabdoid Cancer	Rhabdoid Cancer
+Any cancer/Solid tumor/Kidney Cancer/Wilms' Tumor	Wilms' Tumor
+Any cancer/Solid tumor/Liver Cancer/Fibrolamellar Carcinoma	Fibrolamellar Carcinoma
+Any cancer/Solid tumor/Liver Cancer/Hepatoblastoma	Hepatoblastoma
+Any cancer/Solid tumor/Liver Cancer/Hepatocellular Adenoma	Hepatocellular Adenoma
+Any cancer/Solid tumor/Liver Cancer/Hepatocellular Carcinoma	Hepatocellular Carcinoma
+Any cancer/Solid tumor/Liver Cancer/Hepatocellular Carcinoma plus Intrahepatic Cholangiocarcinoma	Hepatocellular Carcinoma plus Intrahepatic Cholangiocarcinoma
+Any cancer/Solid tumor/Liver Cancer/Liver Angiosarcoma	Liver Angiosarcoma
+Any cancer/Solid tumor/Liver Cancer	Liver Cancer
+Any cancer/Solid tumor/Liver Cancer/Malignant Nonepithelial Tumor of the Liver	Malignant Nonepithelial Tumor of the Liver
+Any cancer/Solid tumor/Liver Cancer/Malignant Rhabdoid Tumor of the Liver	Malignant Rhabdoid Tumor of the Liver
+Any cancer/Solid tumor/Liver Cancer/Undifferentiated Embryonal Sarcoma of the Liver	Undifferentiated Embryonal Sarcoma of the Liver
+Any cancer/Solid tumor/Lung Cancer/Combined Small Cell Lung Carcinoma	Combined Small Cell Lung Carcinoma
+Any cancer/Solid tumor/Lung Cancer/Inflammatory Myofibroblastic Lung Tumor	Inflammatory Myofibroblastic Lung Tumor
+Any cancer/Solid tumor/Lung Cancer/Lung Adenocarcinoma In Situ	Lung Adenocarcinoma In Situ
+Any cancer/Solid tumor/Lung Cancer	Lung Cancer
+Any cancer/Solid tumor/Lung Cancer/Lung Neuroendocrine Tumor/Atypical Lung Carcinoid	Atypical Lung Carcinoid
+Any cancer/Solid tumor/Lung Cancer/Lung Neuroendocrine Tumor/Large Cell Neuroendocrine Carcinoma	Large Cell Neuroendocrine Carcinoma
+Any cancer/Solid tumor/Lung Cancer/Lung Neuroendocrine Tumor/Lung Carcinoid	Lung Carcinoid
+Any cancer/Solid tumor/Lung Cancer/Lung Neuroendocrine Tumor	Lung Neuroendocrine Tumor
+Any cancer/Solid tumor/Lung Cancer/Lung Neuroendocrine Tumor/Small Cell Lung Cancer	Small Cell Lung Cancer
+Any cancer/Solid tumor/Lung Cancer/Non-Small Cell Lung Cancer/Ciliated Muconodular Papillary Tumor of the Lung	Ciliated Muconodular Papillary Tumor of the Lung
+Any cancer/Solid tumor/Lung Cancer/Non-Small Cell Lung Cancer/Large Cell Lung Carcinoma/Basaloid Large Cell Carcinoma of the Lung	Basaloid Large Cell Carcinoma of the Lung
+Any cancer/Solid tumor/Lung Cancer/Non-Small Cell Lung Cancer/Large Cell Lung Carcinoma/Clear Cell Carcinoma of the Lung	Clear Cell Carcinoma of the Lung
+Any cancer/Solid tumor/Lung Cancer/Non-Small Cell Lung Cancer/Large Cell Lung Carcinoma/Giant Cell Carcinoma of the Lung	Giant Cell Carcinoma of the Lung
+Any cancer/Solid tumor/Lung Cancer/Non-Small Cell Lung Cancer/Large Cell Lung Carcinoma	Large Cell Lung Carcinoma
+Any cancer/Solid tumor/Lung Cancer/Non-Small Cell Lung Cancer/Large Cell Lung Carcinoma/Large Cell Lung Carcinoma With Rhabdoid Phenotype	Large Cell Lung Carcinoma With Rhabdoid Phenotype
+Any cancer/Solid tumor/Lung Cancer/Non-Small Cell Lung Cancer/Large Cell Lung Carcinoma/Lymphoepithelioma-like Carcinoma of the Lung	Lymphoepithelioma-like Carcinoma of the Lung
+Any cancer/Solid tumor/Lung Cancer/Non-Small Cell Lung Cancer/Lung Adenocarcinoma	Lung Adenocarcinoma
+Any cancer/Solid tumor/Lung Cancer/Non-Small Cell Lung Cancer/Lung Adenosquamous Carcinoma	Lung Adenosquamous Carcinoma
+Any cancer/Solid tumor/Lung Cancer/Non-Small Cell Lung Cancer/Lung Squamous Cell Carcinoma	Lung Squamous Cell Carcinoma
+Any cancer/Solid tumor/Lung Cancer/Non-Small Cell Lung Cancer	Non-Small Cell Lung Cancer
+Any cancer/Solid tumor/Lung Cancer/Non-Small Cell Lung Cancer/NUT Carcinoma of the Lung	NUT Carcinoma of the Lung
+Any cancer/Solid tumor/Lung Cancer/Non-Small Cell Lung Cancer/Pleomorphic Carcinoma of the Lung	Pleomorphic Carcinoma of the Lung
+Any cancer/Solid tumor/Lung Cancer/Non-Small Cell Lung Cancer/Poorly Differentiated Non-Small Cell Lung Cancer	Poorly Differentiated Non-Small Cell Lung Cancer
+Any cancer/Solid tumor/Lung Cancer/Non-Small Cell Lung Cancer/Salivary Gland-Type Tumor of the Lung Cancer/Adenoid Cystic Carcinoma of the Lung	Adenoid Cystic Carcinoma of the Lung
+Any cancer/Solid tumor/Lung Cancer/Non-Small Cell Lung Cancer/Salivary Gland-Type Tumor of the Lung Cancer/Mucoepidermoid Carcinoma of the Lung	Mucoepidermoid Carcinoma of the Lung
+Any cancer/Solid tumor/Lung Cancer/Non-Small Cell Lung Cancer/Salivary Gland-Type Tumor of the Lung Cancer	Salivary Gland-Type Tumor of the Lung Cancer
+Any cancer/Solid tumor/Lung Cancer/Non-Small Cell Lung Cancer/Salivary Gland-Type Tumor of the Lung	Salivary Gland-Type Tumor of the Lung
+Any cancer/Solid tumor/Lung Cancer/Non-Small Cell Lung Cancer/Spindle Cell Carcinoma of the Lung	Spindle Cell Carcinoma of the Lung
+Any cancer/Solid tumor/Lung Cancer/Pleuropulmonary Blastoma	Pleuropulmonary Blastoma
+Any cancer/Solid tumor/Lung Cancer/Pulmonary Lymphangiomyomatosis	Pulmonary Lymphangiomyomatosis
+Any cancer/Solid tumor/Lung Cancer/Sarcomatoid Carcinoma of the Lung	Sarcomatoid Carcinoma of the Lung
+Any cancer/Solid tumor/Lymphatic Cancer	Lymphatic Cancer
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Atypical	Lymphoid Atypical
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Benign	Lymphoid Benign
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/B-Lymphoblastic Leukemia-Lymphoma	B-Lymphoblastic Leukemia-Lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/B-Lymphoblastic Leukemia-Lymphoma/B-Lymphoblastic Leukemia-Lymphoma, NOS	B-Lymphoblastic Leukemia-Lymphoma, NOS
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/B-Lymphoblastic Leukemia-Lymphoma/B-Lymphoblastic Leukemia-Lymphoma with Recurrent Genetic Abnormalities/B-Lymphoblastic Leukemia-Lymphoma, BCR-ABL1 Like	B-Lymphoblastic Leukemia-Lymphoma, BCR-ABL1 Like
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/B-Lymphoblastic Leukemia-Lymphoma/B-Lymphoblastic Leukemia-Lymphoma with Recurrent Genetic Abnormalities/B-Lymphoblastic Leukemia-Lymphoma with Hyperdiploidy	B-Lymphoblastic Leukemia-Lymphoma with Hyperdiploidy
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/B-Lymphoblastic Leukemia-Lymphoma/B-Lymphoblastic Leukemia-Lymphoma with Recurrent Genetic Abnormalities/B-Lymphoblastic Leukemia-Lymphoma with Hypodiploidy	B-Lymphoblastic Leukemia-Lymphoma with Hypodiploidy
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/B-Lymphoblastic Leukemia-Lymphoma/B-Lymphoblastic Leukemia-Lymphoma with Recurrent Genetic Abnormalities/B-Lymphoblastic Leukemia-Lymphoma with iAMP21	B-Lymphoblastic Leukemia-Lymphoma with iAMP21
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/B-Lymphoblastic Leukemia-Lymphoma/B-Lymphoblastic Leukemia-Lymphoma with Recurrent Genetic Abnormalities	B-Lymphoblastic Leukemia-Lymphoma with Recurrent Genetic Abnormalities
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/B-Lymphoblastic Leukemia-Lymphoma/B-Lymphoblastic Leukemia-Lymphoma with Recurrent Genetic Abnormalities/B-Lymphoblastic Leukemia-Lymphoma with t(1;19)(q23;p13.3);TCF3-PBX1	B-Lymphoblastic Leukemia-Lymphoma with t(1;19)(q23;p13.3);TCF3-PBX1
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/B-Lymphoblastic Leukemia-Lymphoma/B-Lymphoblastic Leukemia-Lymphoma with Recurrent Genetic Abnormalities/B-Lymphoblastic Leukemia-Lymphoma with t(12;21)(p13.2;q22.1); ETV6-RUNX1	B-Lymphoblastic Leukemia-Lymphoma with t(12;21)(p13.2;q22.1); ETV6-RUNX1
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/B-Lymphoblastic Leukemia-Lymphoma/B-Lymphoblastic Leukemia-Lymphoma with Recurrent Genetic Abnormalities/B-Lymphoblastic Leukemia-Lymphoma with t(5;14)(q31.1;q32.3) IL3-IGH	B-Lymphoblastic Leukemia-Lymphoma with t(5;14)(q31.1;q32.3) IL3-IGH
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/B-Lymphoblastic Leukemia-Lymphoma/B-Lymphoblastic Leukemia-Lymphoma with Recurrent Genetic Abnormalities/B-Lymphoblastic Leukemia-Lymphoma with t(9;22)(q34.1;q11.2);BCR-ABL1	B-Lymphoblastic Leukemia-Lymphoma with t(9;22)(q34.1;q11.2);BCR-ABL1
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/B-Lymphoblastic Leukemia-Lymphoma/B-Lymphoblastic Leukemia-Lymphoma with Recurrent Genetic Abnormalities/B-Lymphoblastic Leukemia-Lymphoma with t(v;11q23.3);KMT2A Rearranged	B-Lymphoblastic Leukemia-Lymphoma with t(v;11q23.3);KMT2A Rearranged
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Hodgkin Lymphoma/Classical Hodgkin Lymphoma	Classical Hodgkin Lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Hodgkin Lymphoma/Classical Hodgkin Lymphoma/Lymphocyte-Depleted Classical Hodgkin Lymphoma	Lymphocyte-Depleted Classical Hodgkin Lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Hodgkin Lymphoma/Classical Hodgkin Lymphoma/Lymphocyte-Rich Classical Hodgkin Lymphoma	Lymphocyte-Rich Classical Hodgkin Lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Hodgkin Lymphoma/Classical Hodgkin Lymphoma/Mixed Cellularity Classical Hodgkin Lymphoma	Mixed Cellularity Classical Hodgkin Lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Hodgkin Lymphoma/Classical Hodgkin Lymphoma/Nodular Sclerosis Classical Hodgkin Lymphoma	Nodular Sclerosis Classical Hodgkin Lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Hodgkin Lymphoma	Hodgkin Lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Hodgkin Lymphoma/Nodular Lymphocyte-Predominant Hodgkin Lymphoma	Nodular Lymphocyte-Predominant Hodgkin Lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm	Lymphoid Neoplasm
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/ALK Positive Large B-Cell Lymphoma	ALK Positive Large B-Cell Lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Alpha Heavy-Chain Disease	Alpha Heavy-Chain Disease
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/B-Cell Lymphoma, Unclassifiable, with Features Intermediate between DLBCL and Classical Hodgkin lymphoma	B-Cell Lymphoma, Unclassifiable, with Features Intermediate between DLBCL and Classical Hodgkin lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/B-Cell Prolymphocytic Leukemia	B-Cell Prolymphocytic Leukemia
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Burkitt-Like Lymphoma with 11q Aberration	Burkitt-Like Lymphoma with 11q Aberration
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Burkitt Lymphoma	Burkitt Lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Chronic Lymphocytic Leukemia	Chronic Lymphocytic Leukemia
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma	Small Lymphocytic Lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Diffuse Large B-Cell Lymphoma, NOS/Activated B-cell Type	Activated B-cell Type
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Diffuse Large B-Cell Lymphoma, NOS	Diffuse Large B-Cell Lymphoma, NOS
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Diffuse Large B-Cell Lymphoma, NOS/Germinal Center B-Cell Type	Germinal Center B-Cell Type
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/DLBCL Associated with Chronic Inflammation	DLBCL Associated with Chronic Inflammation
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/EBV Positive DLBCL, NOS	EBV Positive DLBCL, NOS
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/EBV Positive Mucocutaneous Ulcer	EBV Positive Mucocutaneous Ulcer
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Extraosseous Plasmacytoma	Extraosseous Plasmacytoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Follicular Lymphoma/Duodenal-Type Follicular Lymphoma	Duodenal-Type Follicular Lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Follicular Lymphoma	Follicular Lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Follicular Lymphoma/In Situ Follicular Neoplasia	In Situ Follicular Neoplasia
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Gamma Heavy-Chain Disease	Gamma Heavy-Chain Disease
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Hairy Cell Leukemia	Hairy Cell Leukemia
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/HHV8 Positive DLBCL, NOS	HHV8 Positive DLBCL, NOS
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/High-Grade B-Cell Lymphoma, NOS	High-Grade B-Cell Lymphoma, NOS
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/High-Grade B-Cell Lymphoma, with MYC and BCL2 and	High-Grade B-Cell Lymphoma, with MYC and BCL2 and
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/High-Grade B-Cell Lymphoma, with MYC and BCL2 and/or BCL6 Rearrangements	or BCL6 Rearrangements
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Intravascular Large B-Cell Lymphoma	Intravascular Large B-Cell Lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Large B-Cell Lymphoma with IRF4 Rearrangement	Large B-Cell Lymphoma with IRF4 Rearrangement
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Lymphomatoid Granulomatosis	Lymphomatoid Granulomatosis
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Lymphoplasmacytic Lymphoma	Lymphoplasmacytic Lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Lymphoplasmacytic Lymphoma/Waldenstrom Macroglobulinemia	Waldenstrom Macroglobulinemia
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Mantle Cell Lymphoma/In Situ Mantle Cell Neoplasia	In Situ Mantle Cell Neoplasia
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Mantle Cell Lymphoma	Mantle Cell Lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Marginal Zone Lymphoma/Extranodal Marginal Zone Lymphoma of Mucosa-Associated Lymphoid Solid tumor (MALT lymphoma)	Extranodal Marginal Zone Lymphoma of Mucosa-Associated Lymphoid Solid tumor (MALT lymphoma)
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Marginal Zone Lymphoma	Marginal Zone Lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Marginal Zone Lymphoma/Nodal Marginal Zone Lymphoma	Nodal Marginal Zone Lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Marginal Zone Lymphoma/Splenic Marginal Zone Lymphoma	Splenic Marginal Zone Lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms	Mature B-Cell Neoplasms
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Monoclonal B-Cell Lymphocytosis	Monoclonal B-Cell Lymphocytosis
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Monoclonal Gammopathy of Undetermined Significance/IgA	IgA
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Monoclonal Gammopathy of Undetermined Significance/IgG	IgG
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Monoclonal Gammopathy of Undetermined Significance/IgM	IgM
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Monoclonal Gammopathy of Undetermined Significance	Monoclonal Gammopathy of Undetermined Significance
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Monoclonal Immunoglobulin Deposition Diseases/Amyloidosis	Amyloidosis
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Monoclonal Immunoglobulin Deposition Diseases	Monoclonal Immunoglobulin Deposition Diseases
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Monoclonal Immunoglobulin Deposition Diseases/Monoclonal Immunoglobulin Deposition Diseases, Other	Monoclonal Immunoglobulin Deposition Diseases, Other
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Mu Heavy-Chain Disease	Mu Heavy-Chain Disease
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Pediatric-Type Follicular Lymphoma	Pediatric-Type Follicular Lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Plasmablastic Lymphoma	Plasmablastic Lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Plasma Cell Myeloma	Plasma Cell Myeloma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Primary Cutaneous DLBCL, Leg Type	Primary Cutaneous DLBCL, Leg Type
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Primary Cutaneous Follicle Center Lymphoma	Primary Cutaneous Follicle Center Lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Primary DLBCL of the central nervous system	Primary DLBCL of the central nervous system
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Primary Effusion Lymphoma	Primary Effusion Lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Primary Mediastinal (Thymic) Large B-Cell Lymphoma	Primary Mediastinal (Thymic) Large B-Cell Lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Solitary Plasmacytoma of Bone	Solitary Plasmacytoma of Bone
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Splenic B-Cell Lymphoma/Leukemia, Unclassifiable/Hairy Cell Leukemia-Variant	Hairy Cell Leukemia-Variant
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Splenic B-Cell Lymphoma/Leukemia, Unclassifiable	Leukemia, Unclassifiable
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Splenic B-Cell Lymphoma/Leukemia, Unclassifiable/Splenic Diffuse Red Pulp Small B-Cell Lymphoma	Splenic Diffuse Red Pulp Small B-Cell Lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/Splenic B-Cell Lymphoma	Splenic B-Cell Lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/T-Cell/Histiocyte-Rich Large B-Cell Lymphoma	Histiocyte-Rich Large B-Cell Lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature B-Cell Neoplasms/T-Cell	T-Cell
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature T and NK Neoplasms/Adult T-Cell Leukemia	Adult T-Cell Leukemia
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature T and NK Neoplasms/Adult T-Cell Leukemia/Lymphoma	Lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature T and NK Neoplasms/Aggressive NK-Cell Leukemia	Aggressive NK-Cell Leukemia
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature T and NK Neoplasms/Anaplastic Large Cell Lymphoma	Anaplastic Large Cell Lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature T and NK Neoplasms/Anaplastic Large Cell Lymphoma/Anaplastic Large-Cell Lymphoma ALK Negative	Anaplastic Large-Cell Lymphoma ALK Negative
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature T and NK Neoplasms/Anaplastic Large Cell Lymphoma/Anaplastic Large-Cell Lymphoma ALK Positive	Anaplastic Large-Cell Lymphoma ALK Positive
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature T and NK Neoplasms/Anaplastic Large Cell Lymphoma/Breast Implant-Associated Anaplastic Large-Cell Lymphoma	Breast Implant-Associated Anaplastic Large-Cell Lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature T and NK Neoplasms/Angioimmunoblastic T-Cell Lymphoma	Angioimmunoblastic T-Cell Lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature T and NK Neoplasms/Chronic Lymphoproliferative Disorder of NK Cells	Chronic Lymphoproliferative Disorder of NK Cells
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature T and NK Neoplasms/Enteropathy-Associated T-Cell Lymphoma	Enteropathy-Associated T-Cell Lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature T and NK Neoplasms/Extranodal NK-	Extranodal NK-
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature T and NK Neoplasms/Extranodal NK-/T-Cell Lymphoma, Nasal Type	T-Cell Lymphoma, Nasal Type
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature T and NK Neoplasms/Follicular T-Cell Lymphoma	Follicular T-Cell Lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature T and NK Neoplasms/Hepatosplenic T-cell Lymphoma	Hepatosplenic T-cell Lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature T and NK Neoplasms/Hydroa Vacciniforme Like Lymphoproliferative Disorder	Hydroa Vacciniforme Like Lymphoproliferative Disorder
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature T and NK Neoplasms/Indolent T-Cell Lymphoproliferative Disorder of the GI Tract	Indolent T-Cell Lymphoproliferative Disorder of the GI Tract
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature T and NK Neoplasms	Mature T and NK Neoplasms
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature T and NK Neoplasms/Monomorphic Epitheliotropic Intestinal T-Cell Lymphoma	Monomorphic Epitheliotropic Intestinal T-Cell Lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature T and NK Neoplasms/Mycosis Fungoides	Mycosis Fungoides
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature T and NK Neoplasms/Nodal Peripheral T-Cell Lymphoma with TFH Phenotype	Nodal Peripheral T-Cell Lymphoma with TFH Phenotype
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature T and NK Neoplasms/Peripheral T-Cell lymphoma, NOS	Peripheral T-Cell lymphoma, NOS
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature T and NK Neoplasms/Primary Cutaneous Acral CD8 Positive T-Cell Lymphoma	Primary Cutaneous Acral CD8 Positive T-Cell Lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature T and NK Neoplasms/Primary Cutaneous CD30 Positive T-Cell Lymphoproliferative Disorders/Lymphomatoid Papulosis	Lymphomatoid Papulosis
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature T and NK Neoplasms/Primary Cutaneous CD30 Positive T-Cell Lymphoproliferative Disorders/Primary Cutaneous Anaplastic Large Cell Lymphoma	Primary Cutaneous Anaplastic Large Cell Lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature T and NK Neoplasms/Primary Cutaneous CD30 Positive T-Cell Lymphoproliferative Disorders	Primary Cutaneous CD30 Positive T-Cell Lymphoproliferative Disorders
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature T and NK Neoplasms/Primary Cutaneous CD4 Positive Small/Medium T-Cell Lymphoproliferative Disorder	Medium T-Cell Lymphoproliferative Disorder
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature T and NK Neoplasms/Primary Cutaneous CD4 Positive Small	Primary Cutaneous CD4 Positive Small
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature T and NK Neoplasms/Primary Cutaneous CD8 Positive Aggressive Epidermotropic Cytotoxic T-Cell Lymphoma	Primary Cutaneous CD8 Positive Aggressive Epidermotropic Cytotoxic T-Cell Lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature T and NK Neoplasms/Primary Cutaneous Gamma Delta T-Cell Lymphoma	Primary Cutaneous Gamma Delta T-Cell Lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature T and NK Neoplasms/Sezary Syndrome	Sezary Syndrome
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature T and NK Neoplasms/Subcutaneous Panniculitis-Like T-Cell Lymphoma	Subcutaneous Panniculitis-Like T-Cell Lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature T and NK Neoplasms/Systemic EBV Positive T-Cell Lymphoma of Childhood	Systemic EBV Positive T-Cell Lymphoma of Childhood
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature T and NK Neoplasms/T-Cell Large Granular Lymphocytic Leukemia	T-Cell Large Granular Lymphocytic Leukemia
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma/Mature T and NK Neoplasms/T-Cell Prolymphocytic Leukemia	T-Cell Prolymphocytic Leukemia
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Non-Hodgkin Lymphoma	Non-Hodgkin Lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Posttransplant Lymphoproliferative Disorders/Classical Hodgkin Lymphoma PTLD	Classical Hodgkin Lymphoma PTLD
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Posttransplant Lymphoproliferative Disorders/Florid Follicular Hyperplasia PTLD	Florid Follicular Hyperplasia PTLD
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Posttransplant Lymphoproliferative Disorders/Infectious Mononucleosis PTLD	Infectious Mononucleosis PTLD
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Posttransplant Lymphoproliferative Disorders/Monomorphic PTLD (B- and T-	Monomorphic PTLD (B- and T-
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Posttransplant Lymphoproliferative Disorders/Monomorphic PTLD (B- and T-/NK-cell types)	NK-cell types)
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Posttransplant Lymphoproliferative Disorders/Plasmacytic Hyperplasia PTLD	Plasmacytic Hyperplasia PTLD
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Posttransplant Lymphoproliferative Disorders/Polymorphic PTLD	Polymorphic PTLD
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/Posttransplant Lymphoproliferative Disorders	Posttransplant Lymphoproliferative Disorders
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/T-Lymphoblastic Leukemia-Lymphoma/Early T-Cell Precursor Lymphoblastic Leukemia	Early T-Cell Precursor Lymphoblastic Leukemia
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/T-Lymphoblastic Leukemia-Lymphoma/Natural Killer (NK) Cell Lymphoblastic Leukemia/Lymphoma	Lymphoma
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/T-Lymphoblastic Leukemia-Lymphoma/Natural Killer (NK) Cell Lymphoblastic Leukemia	Natural Killer (NK) Cell Lymphoblastic Leukemia
+Any cancer/Solid tumor/Lymphatic Cancer/Lymphoid Neoplasm/T-Lymphoblastic Leukemia-Lymphoma	T-Lymphoblastic Leukemia-Lymphoma
+Any cancer/Solid tumor/Other Cancer/Adenocarcinoma In Situ	Adenocarcinoma In Situ
+Any cancer/Solid tumor/Other Cancer/Cancer of Unknown Primary/Acinar Cell Carcinoma, NOS	Acinar Cell Carcinoma, NOS
+Any cancer/Solid tumor/Other Cancer/Cancer of Unknown Primary/Adenocarcinoma, NOS	Adenocarcinoma, NOS
+Any cancer/Solid tumor/Other Cancer/Cancer of Unknown Primary	Cancer of Unknown Primary
+Any cancer/Solid tumor/Other Cancer/Cancer of Unknown Primary/Cancer of Unknown Primary, NOS	Cancer of Unknown Primary, NOS
+Any cancer/Solid tumor/Other Cancer/Cancer of Unknown Primary/Mixed Cancer Types	Mixed Cancer Types
+Any cancer/Solid tumor/Other Cancer/Cancer of Unknown Primary/Neuroendocrine Carcinoma, NOS	Neuroendocrine Carcinoma, NOS
+Any cancer/Solid tumor/Other Cancer/Cancer of Unknown Primary/Neuroendocrine Tumor, NOS	Neuroendocrine Tumor, NOS
+Any cancer/Solid tumor/Other Cancer/Cancer of Unknown Primary/Poorly Differentiated Carcinoma, NOS	Poorly Differentiated Carcinoma, NOS
+Any cancer/Solid tumor/Other Cancer/Cancer of Unknown Primary/Small Cell Carcinoma of Unknown Primary	Small Cell Carcinoma of Unknown Primary
+Any cancer/Solid tumor/Other Cancer/Cancer of Unknown Primary/Squamous Cell Carcinoma, NOS	Squamous Cell Carcinoma, NOS
+Any cancer/Solid tumor/Other Cancer/Cancer of Unknown Primary/Undifferentiated Malignant Neoplasm	Undifferentiated Malignant Neoplasm
+Any cancer/Solid tumor/Other Cancer/Extra Gonadal Germ Cell Tumor	Extra Gonadal Germ Cell Tumor
+Any cancer/Solid tumor/Other Cancer	Other Cancer
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer/Ovarian Cancer, Other Cancer/High-Grade Neuroendocrine Carcinoma of the Ovary	High-Grade Neuroendocrine Carcinoma of the Ovary
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer/Ovarian Cancer, Other Cancer/High-Grade Serous Fallopian Tube Cancer	High-Grade Serous Fallopian Tube Cancer
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer/Ovarian Cancer, Other Cancer	Ovarian Cancer, Other Cancer
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer/Ovarian Cancer, Other Cancer/Ovarian Choriocarcinoma, NOS	Ovarian Choriocarcinoma, NOS
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer/Ovarian Cancer, Other	Ovarian Cancer, Other
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer/Ovarian Epithelial Tumor/Brenner Tumor	Brenner Tumor
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer/Ovarian Epithelial Tumor/Brenner Tumor/Brenner Tumor, Benign	Brenner Tumor, Benign
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer/Ovarian Epithelial Tumor/Brenner Tumor/Brenner Tumor, Borderline	Brenner Tumor, Borderline
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer/Ovarian Epithelial Tumor/Brenner Tumor/Brenner Tumor, Malignant	Brenner Tumor, Malignant
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer/Ovarian Epithelial Tumor/Clear Cell Borderline Ovarian Tumor	Clear Cell Borderline Ovarian Tumor
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer/Ovarian Epithelial Tumor/Clear Cell Ovarian Cancer	Clear Cell Ovarian Cancer
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer/Ovarian Epithelial Tumor/Endometrioid Borderlin Ovarian Tumor	Endometrioid Borderlin Ovarian Tumor
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer/Ovarian Epithelial Tumor/Endometrioid Ovarian Cancer	Endometrioid Ovarian Cancer
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer/Ovarian Epithelial Tumor/Mixed Ovarian Carcinoma	Mixed Ovarian Carcinoma
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer/Ovarian Epithelial Tumor/Mucinous Borderline Ovarian Tumor	Mucinous Borderline Ovarian Tumor
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer/Ovarian Epithelial Tumor/Mucinous Ovarian Cancer	Mucinous Ovarian Cancer
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer/Ovarian Epithelial Tumor/Ovarian Carcinosarcoma/Malignant Mixed Mesodermal Tumor	Malignant Mixed Mesodermal Tumor
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer/Ovarian Epithelial Tumor/Ovarian Carcinosarcoma	Ovarian Carcinosarcoma
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer/Ovarian Epithelial Tumor	Ovarian Epithelial Tumor
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer/Ovarian Epithelial Tumor/Ovarian Seromucinous Adenoma	Ovarian Seromucinous Adenoma
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer/Ovarian Epithelial Tumor/Ovarian Seromucinous Borderline Tumor	Ovarian Seromucinous Borderline Tumor
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer/Ovarian Epithelial Tumor/Ovarian Seromucinous Carcinoma	Ovarian Seromucinous Carcinoma
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer/Ovarian Epithelial Tumor/Serous Borderline Ovarian Tumor, Micropapillary	Serous Borderline Ovarian Tumor, Micropapillary
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer/Ovarian Epithelial Tumor/Serous Borderline Ovarian Tumor	Serous Borderline Ovarian Tumor
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer/Ovarian Epithelial Tumor/Serous Ovarian Cancer/High-Grade Serous Ovarian Cancer	High-Grade Serous Ovarian Cancer
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer/Ovarian Epithelial Tumor/Serous Ovarian Cancer/Low-Grade Serous Ovarian Cancer	Low-Grade Serous Ovarian Cancer
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer/Ovarian Epithelial Tumor/Serous Ovarian Cancer	Serous Ovarian Cancer
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer/Ovarian Epithelial Tumor/Small Cell Carcinoma of the Ovary	Small Cell Carcinoma of the Ovary
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer	Ovarian-Fallopian Tube Cancer
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer/Ovarian Germ Cell Tumor/Dysgerminoma	Dysgerminoma
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer/Ovarian Germ Cell Tumor/Embryonal Carcinoma	Embryonal Carcinoma
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer/Ovarian Germ Cell Tumor/Immature Teratoma	Immature Teratoma
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer/Ovarian Germ Cell Tumor/Mature Teratoma	Mature Teratoma
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer/Ovarian Germ Cell Tumor/Mixed Germ Cell Tumor	Mixed Germ Cell Tumor
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer/Ovarian Germ Cell Tumor	Ovarian Germ Cell Tumor
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer/Ovarian Germ Cell Tumor/Polyembryoma	Polyembryoma
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer/Ovarian Germ Cell Tumor/Yolk Sac Tumor	Yolk Sac Tumor
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer/Sex Cord Stromal Tumor/Fibrothecoma	Fibrothecoma
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer/Sex Cord Stromal Tumor/Gonadoblastoma	Gonadoblastoma
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer/Sex Cord Stromal Tumor/Granulosa Cell Tumor	Granulosa Cell Tumor
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer/Sex Cord Stromal Tumor/Sertoli-Leydig Cell Tumor	Sertoli-Leydig Cell Tumor
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer/Sex Cord Stromal Tumor	Sex Cord Stromal Tumor
+Any cancer/Solid tumor/Ovarian-Fallopian Tube Cancer/Sex Cord Stromal Tumor/Steroid Cell Tumor, NOS	Steroid Cell Tumor, NOS
+Any cancer/Solid tumor/Pancreatic Cancer/Acinar Cell Carcinoma of the Pancreas	Acinar Cell Carcinoma of the Pancreas
+Any cancer/Solid tumor/Pancreatic Cancer/Adenosquamous Carcinoma of the Pancreas	Adenosquamous Carcinoma of the Pancreas
+Any cancer/Solid tumor/Pancreatic Cancer/Cystic Tumor of the Pancreas	Cystic Tumor of the Pancreas
+Any cancer/Solid tumor/Pancreatic Cancer/Cystic Tumor of the Pancreatic Cancer	Cystic Tumor of the Pancreatic Cancer
+Any cancer/Solid tumor/Pancreatic Cancer/Cystic Tumor of the Pancreatic Cancer/Intraductal Papillary Mucinous Neoplasm	Intraductal Papillary Mucinous Neoplasm
+Any cancer/Solid tumor/Pancreatic Cancer/Cystic Tumor of the Pancreatic Cancer/Mucinous Cystic Neoplasm	Mucinous Cystic Neoplasm
+Any cancer/Solid tumor/Pancreatic Cancer/Cystic Tumor of the Pancreatic Cancer/Serous Cystadenoma of the Pancreas	Serous Cystadenoma of the Pancreas
+Any cancer/Solid tumor/Pancreatic Cancer/Pancreatic Adenocarcinoma	Pancreatic Adenocarcinoma
+Any cancer/Solid tumor/Pancreatic Cancer	Pancreatic Cancer
+Any cancer/Solid tumor/Pancreatic Cancer/Pancreatic Neuroendocrine Tumor	Pancreatic Neuroendocrine Tumor
+Any cancer/Solid tumor/Pancreatic Cancer/Pancreatoblastoma	Pancreatoblastoma
+Any cancer/Solid tumor/Pancreatic Cancer/Solid Pseudopapillary Neoplasm of the Pancreas	Solid Pseudopapillary Neoplasm of the Pancreas
+Any cancer/Solid tumor/Pancreatic Cancer/Undifferentiated Carcinoma of the Pancreas	Undifferentiated Carcinoma of the Pancreas
+Any cancer/Solid tumor/Pancreatic Cancer/Undifferentiated Carcinoma of the Pancreatic Cancer/Osteoclastic Giant Cell Tumor	Osteoclastic Giant Cell Tumor
+Any cancer/Solid tumor/Pancreatic Cancer/Undifferentiated Carcinoma of the Pancreatic Cancer	Undifferentiated Carcinoma of the Pancreatic Cancer
+Any cancer/Solid tumor/Penile Cancer	Penile Cancer
+Any cancer/Solid tumor/Penile Cancer/Penile Squamous Cell Carcinoma/Basaloid Penile Squamous Cell Carcinoma	Basaloid Penile Squamous Cell Carcinoma
+Any cancer/Solid tumor/Penile Cancer/Penile Squamous Cell Carcinoma	Penile Squamous Cell Carcinoma
+Any cancer/Solid tumor/Penile Cancer/Penile Squamous Cell Carcinoma/Verrucous Penile Squamous Cell Carcinoma	Verrucous Penile Squamous Cell Carcinoma
+Any cancer/Solid tumor/Penile Cancer/Penile Squamous Cell Carcinoma/Warty Penile Squamous Cell Carcinoma	Warty Penile Squamous Cell Carcinoma
+Any cancer/Solid tumor/Peripheral Nervous System Cancer/Ganglioneuroblastoma	Ganglioneuroblastoma
+Any cancer/Solid tumor/Peripheral Nervous System Cancer/Ganglioneuroma	Ganglioneuroma
+Any cancer/Solid tumor/Peripheral Nervous System Cancer/Nerve Sheath Tumor/Malignant Peripheral Nerve Sheath Tumor	Malignant Peripheral Nerve Sheath Tumor
+Any cancer/Solid tumor/Peripheral Nervous System Cancer/Nerve Sheath Tumor	Nerve Sheath Tumor
+Any cancer/Solid tumor/Peripheral Nervous System Cancer/Nerve Sheath Tumor/Neurofibroma	Neurofibroma
+Any cancer/Solid tumor/Peripheral Nervous System Cancer/Nerve Sheath Tumor/Schwannoma/Cellular Schwannoma	Cellular Schwannoma
+Any cancer/Solid tumor/Peripheral Nervous System Cancer/Nerve Sheath Tumor/Schwannoma/Melanotic Schwannoma	Melanotic Schwannoma
+Any cancer/Solid tumor/Peripheral Nervous System Cancer/Nerve Sheath Tumor/Schwannoma	Schwannoma
+Any cancer/Solid tumor/Peripheral Nervous System Cancer/Neuroblastoma	Neuroblastoma
+Any cancer/Solid tumor/Peripheral Nervous System Cancer	Peripheral Nervous System Cancer
+Any cancer/Solid tumor/Peritoneal Cancer	Peritoneal Cancer
+Any cancer/Solid tumor/Peritoneal Cancer/Peritoneal Mesothelioma	Peritoneal Mesothelioma
+Any cancer/Solid tumor/Peritoneal Cancer/Peritoneal Serous Carcinoma	Peritoneal Serous Carcinoma
+Any cancer/Solid tumor/Pleural Cancer	Pleural Cancer
+Any cancer/Solid tumor/Pleural Cancer/Pleural Mesothelioma	Pleural Mesothelioma
+Any cancer/Solid tumor/Pleural Cancer/Pleural Mesothelioma/Pleural Mesothelioma, Biphasic Type	Pleural Mesothelioma, Biphasic Type
+Any cancer/Solid tumor/Pleural Cancer/Pleural Mesothelioma/Pleural Mesothelioma, Epithelioid Type	Pleural Mesothelioma, Epithelioid Type
+Any cancer/Solid tumor/Pleural Cancer/Pleural Mesothelioma/Pleural Mesothelioma, Sarcomatoid Type	Pleural Mesothelioma, Sarcomatoid Type
+Any cancer/Solid tumor/Prostate Cancer/Prostate Adenocarcinoma	Prostate Adenocarcinoma
+Any cancer/Solid tumor/Prostate Cancer	Prostate Cancer
+Any cancer/Solid tumor/Prostate Cancer/Prostate Neuroendocrine Carcinoma	Prostate Neuroendocrine Carcinoma
+Any cancer/Solid tumor/Prostate Cancer/Prostate Small Cell Carcinoma	Prostate Small Cell Carcinoma
+Any cancer/Solid tumor/Prostate Cancer/Prostate Squamous Cell Carcinoma	Prostate Squamous Cell Carcinoma
+Any cancer/Solid tumor/Skin Cancer/Aggressive Digital Papillary Adenocarcinoma	Aggressive Digital Papillary Adenocarcinoma
+Any cancer/Solid tumor/Skin Cancer/Atypical Fibroxanthoma	Atypical Fibroxanthoma
+Any cancer/Solid tumor/Skin Cancer/Atypical Nevus	Atypical Nevus
+Any cancer/Solid tumor/Skin Cancer/Basal Cell Carcinoma	Basal Cell Carcinoma
+Any cancer/Solid tumor/Skin Cancer/Cutaneous Squamous Cell Carcinoma	Cutaneous Squamous Cell Carcinoma
+Any cancer/Solid tumor/Skin Cancer/Dermatofibroma	Dermatofibroma
+Any cancer/Solid tumor/Skin Cancer/Dermatofibrosarcoma Protuberans	Dermatofibrosarcoma Protuberans
+Any cancer/Solid tumor/Skin Cancer/Desmoplastic Trichoepithelioma	Desmoplastic Trichoepithelioma
+Any cancer/Solid tumor/Skin Cancer/Endocrine Mucin Producing Sweat Gland Carcinoma	Endocrine Mucin Producing Sweat Gland Carcinoma
+Any cancer/Solid tumor/Skin Cancer/Extramammary Paget Disease	Extramammary Paget Disease
+Any cancer/Solid tumor/Skin Cancer/Melanoma/Acral Melanoma	Acral Melanoma
+Any cancer/Solid tumor/Skin Cancer/Melanoma/Congenital Nevus	Congenital Nevus
+Any cancer/Solid tumor/Skin Cancer/Melanoma/Cutaneous Melanoma	Cutaneous Melanoma
+Any cancer/Solid tumor/Skin Cancer/Melanoma/Desmoplastic Melanoma	Desmoplastic Melanoma
+Any cancer/Solid tumor/Skin Cancer/Melanoma/Lentigo Maligna Melanoma	Lentigo Maligna Melanoma
+Any cancer/Solid tumor/Skin Cancer/Melanoma	Melanoma
+Any cancer/Solid tumor/Skin Cancer/Melanoma/Melanoma of Unknown Primary	Melanoma of Unknown Primary
+Any cancer/Solid tumor/Skin Cancer/Melanoma/Spitzoid Melanoma	Spitzoid Melanoma
+Any cancer/Solid tumor/Skin Cancer/Merkel Cell Carcinoma	Merkel Cell Carcinoma
+Any cancer/Solid tumor/Skin Cancer/Microcystic Adnexal Carcinoma	Microcystic Adnexal Carcinoma
+Any cancer/Solid tumor/Skin Cancer/Porocarcinoma	Porocarcinoma
+Any cancer/Solid tumor/Skin Cancer/Porocarcinoma/Spiroadenocarcinoma	Spiroadenocarcinoma
+Any cancer/Solid tumor/Skin Cancer/Poroma/Acrospiroma	Acrospiroma
+Any cancer/Solid tumor/Skin Cancer/Poroma	Poroma
+Any cancer/Solid tumor/Skin Cancer/Porphyria Cutania Tarda	Porphyria Cutania Tarda
+Any cancer/Solid tumor/Skin Cancer/Proliferating Pilar Cystic Tumor	Proliferating Pilar Cystic Tumor
+Any cancer/Solid tumor/Skin Cancer/Sebaceous Carcinoma	Sebaceous Carcinoma
+Any cancer/Solid tumor/Skin Cancer/Skin Adnexal Carcinoma	Skin Adnexal Carcinoma
+Any cancer/Solid tumor/Skin Cancer	Skin Cancer
+Any cancer/Solid tumor/Skin Cancer/Spiroma/Spiradenoma	Spiradenoma
+Any cancer/Solid tumor/Skin Cancer/Spiroma	Spiroma
+Any cancer/Solid tumor/Skin Cancer/Sweat Gland Adenocarcinoma	Sweat Gland Adenocarcinoma
+Any cancer/Solid tumor/Skin Cancer/Sweat Gland Carcinoma/Apocrine Eccrine Carcinoma	Apocrine Eccrine Carcinoma
+Any cancer/Solid tumor/Skin Cancer/Sweat Gland Carcinoma	Sweat Gland Carcinoma
+Any cancer/Solid tumor/Soft Tissue Cancer/Aggressive Angiomyxoma	Aggressive Angiomyxoma
+Any cancer/Solid tumor/Soft Tissue Cancer/Alveolar Soft Part Sarcoma	Alveolar Soft Part Sarcoma
+Any cancer/Solid tumor/Soft Tissue Cancer/Angiomatoid Fibrous Histiocytoma	Angiomatoid Fibrous Histiocytoma
+Any cancer/Solid tumor/Soft Tissue Cancer/Angiosarcoma	Angiosarcoma
+Any cancer/Solid tumor/Soft Tissue Cancer/Clear Cell Sarcoma	Clear Cell Sarcoma
+Any cancer/Solid tumor/Soft Tissue Cancer/Dendritic Cell Sarcoma	Dendritic Cell Sarcoma
+Any cancer/Solid tumor/Soft Tissue Cancer/Dendritic Cell Sarcoma/Histiocytic Dendritic Cell Sarcoma	Histiocytic Dendritic Cell Sarcoma
+Any cancer/Solid tumor/Soft Tissue Cancer/Desmoid/Aggressive Fibromatosis	Aggressive Fibromatosis
+Any cancer/Solid tumor/Soft Tissue Cancer/Desmoid	Desmoid
+Any cancer/Solid tumor/Soft Tissue Cancer/Desmoplastic Small-Round-Cell Tumor	Desmoplastic Small-Round-Cell Tumor
+Any cancer/Solid tumor/Soft Tissue Cancer/Epithelioid Hemangioendothelioma	Epithelioid Hemangioendothelioma
+Any cancer/Solid tumor/Soft Tissue Cancer/Epithelioid Sarcoma	Epithelioid Sarcoma
+Any cancer/Solid tumor/Soft Tissue Cancer/Epithelioid Sarcoma/Proximal-Type Epithelioid Sarcoma	Proximal-Type Epithelioid Sarcoma
+Any cancer/Solid tumor/Soft Tissue Cancer/Ewing Sarcoma of Soft Solid tumor	Ewing Sarcoma of Soft Solid tumor
+Any cancer/Solid tumor/Soft Tissue Cancer/Fibrosarcoma	Fibrosarcoma
+Any cancer/Solid tumor/Soft Tissue Cancer/Fibrosarcoma/Sclerosing Epithelioid Fibrosarcoma	Sclerosing Epithelioid Fibrosarcoma
+Any cancer/Solid tumor/Soft Tissue Cancer/Gastrointestinal Stromal Tumor	Gastrointestinal Stromal Tumor
+Any cancer/Solid tumor/Soft Tissue Cancer/Glomangiosarcoma	Glomangiosarcoma
+Any cancer/Solid tumor/Soft Tissue Cancer/Hemangioma	Hemangioma
+Any cancer/Solid tumor/Soft Tissue Cancer/Infantile Fibrosarcoma	Infantile Fibrosarcoma
+Any cancer/Solid tumor/Soft Tissue Cancer/Inflammatory Myofibroblastic Tumor	Inflammatory Myofibroblastic Tumor
+Any cancer/Solid tumor/Soft Tissue Cancer/Intimal Sarcoma	Intimal Sarcoma
+Any cancer/Solid tumor/Soft Tissue Cancer/Leiomyoma	Leiomyoma
+Any cancer/Solid tumor/Soft Tissue Cancer/Leiomyosarcoma	Leiomyosarcoma
+Any cancer/Solid tumor/Soft Tissue Cancer/Liposarcoma/Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma
+Any cancer/Solid tumor/Soft Tissue Cancer/Liposarcoma	Liposarcoma
+Any cancer/Solid tumor/Soft Tissue Cancer/Liposarcoma/Myxoid	Myxoid
+Any cancer/Solid tumor/Soft Tissue Cancer/Liposarcoma/Myxoid/Round-Cell Liposarcoma	Round-Cell Liposarcoma
+Any cancer/Solid tumor/Soft Tissue Cancer/Liposarcoma/Pleomorphic Liposarcoma	Pleomorphic Liposarcoma
+Any cancer/Solid tumor/Soft Tissue Cancer/Liposarcoma/Well-Differentiated Liposarcoma	Well-Differentiated Liposarcoma
+Any cancer/Solid tumor/Soft Tissue Cancer/Low-Grade Fibromyxoid Sarcoma	Low-Grade Fibromyxoid Sarcoma
+Any cancer/Solid tumor/Soft Tissue Cancer/Malignant Glomus Tumor	Malignant Glomus Tumor
+Any cancer/Solid tumor/Soft Tissue Cancer/Myofibroma	Myofibroma
+Any cancer/Solid tumor/Soft Tissue Cancer/Myofibromatosis	Myofibromatosis
+Any cancer/Solid tumor/Soft Tissue Cancer/Myopericytoma	Myopericytoma
+Any cancer/Solid tumor/Soft Tissue Cancer/Myxofibrosarcoma	Myxofibrosarcoma
+Any cancer/Solid tumor/Soft Tissue Cancer/Myxoma	Myxoma
+Any cancer/Solid tumor/Soft Tissue Cancer/Myxoma/Ossifying Fibromyxoid Tumor	Ossifying Fibromyxoid Tumor
+Any cancer/Solid tumor/Soft Tissue Cancer/Paraganglioma	Paraganglioma
+Any cancer/Solid tumor/Soft Tissue Cancer/Perivascular Epithelioid Cell Tumor	Perivascular Epithelioid Cell Tumor
+Any cancer/Solid tumor/Soft Tissue Cancer/Pseudomyogenic Hemangioendothelioma	Pseudomyogenic Hemangioendothelioma
+Any cancer/Solid tumor/Soft Tissue Cancer/Radiation-Associated Sarcoma	Radiation-Associated Sarcoma
+Any cancer/Solid tumor/Soft Tissue Cancer/Rhabdomyosarcoma/Alveolar Rhabdomyosarcoma	Alveolar Rhabdomyosarcoma
+Any cancer/Solid tumor/Soft Tissue Cancer/Rhabdomyosarcoma/Embryonal Rhabdomyosarcoma	Embryonal Rhabdomyosarcoma
+Any cancer/Solid tumor/Soft Tissue Cancer/Rhabdomyosarcoma/Pleomorphic Rhabdomyosarcoma	Pleomorphic Rhabdomyosarcoma
+Any cancer/Solid tumor/Soft Tissue Cancer/Rhabdomyosarcoma	Rhabdomyosarcoma
+Any cancer/Solid tumor/Soft Tissue Cancer/Rhabdomyosarcoma/Spindle Cell Rhabdomyosarcoma	Spindle Cell Rhabdomyosarcoma
+Any cancer/Solid tumor/Soft Tissue Cancer/Rhabdomyosarcoma/Spindle Cell/Sclerosing Rhabdomyosarcoma	Sclerosing Rhabdomyosarcoma
+Any cancer/Solid tumor/Soft Tissue Cancer/Rhabdomyosarcoma/Spindle Cell	Spindle Cell
+Any cancer/Solid tumor/Soft Tissue Cancer/Round Cell Sarcoma, NOS	Round Cell Sarcoma, NOS
+Any cancer/Solid tumor/Soft Tissue Cancer/Sarcoma, NOS	Sarcoma, NOS
+Any cancer/Solid tumor/Soft Tissue Cancer/Soft Solid tumor Myoepithelial Carcinoma	Soft Solid tumor Myoepithelial Carcinoma
+Any cancer/Solid tumor/Soft Tissue Cancer	Soft Tissue Cancer
+Any cancer/Solid tumor/Soft Tissue Cancer/Solitary Fibrous Tumor/Hemangiopericytoma	Hemangiopericytoma
+Any cancer/Solid tumor/Soft Tissue Cancer/Solitary Fibrous Tumor	Solitary Fibrous Tumor
+Any cancer/Solid tumor/Soft Tissue Cancer/Synovial Sarcoma	Synovial Sarcoma
+Any cancer/Solid tumor/Soft Tissue Cancer/Tenosynovial Giant Cell Tumor Diffuse Type	Tenosynovial Giant Cell Tumor Diffuse Type
+Any cancer/Solid tumor/Soft Tissue Cancer/Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	High-Grade Spindle Cell Sarcoma
+Any cancer/Solid tumor/Soft Tissue Cancer/Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma	Malignant Fibrous Histiocytoma
+Any cancer/Solid tumor/Soft Tissue Cancer/Undifferentiated Pleomorphic Sarcoma	Undifferentiated Pleomorphic Sarcoma
+Any cancer/Solid tumor	Solid tumor
+Any cancer/Solid tumor/Testicular Cancer/Non-Seminomatous Germ Cell Tumor/Choriocarcinoma	Choriocarcinoma
+Any cancer/Solid tumor/Testicular Cancer/Non-Seminomatous Germ Cell Tumor/Embryonal Carcinoma	Embryonal Carcinoma
+Any cancer/Solid tumor/Testicular Cancer/Non-Seminomatous Germ Cell Tumor/Germ Cell Tumor with Somatic-Type Malignancy	Germ Cell Tumor with Somatic-Type Malignancy
+Any cancer/Solid tumor/Testicular Cancer/Non-Seminomatous Germ Cell Tumor/Mixed Germ Cell Tumor	Mixed Germ Cell Tumor
+Any cancer/Solid tumor/Testicular Cancer/Non-Seminomatous Germ Cell Tumor	Non-Seminomatous Germ Cell Tumor
+Any cancer/Solid tumor/Testicular Cancer/Non-Seminomatous Germ Cell Tumor/Teratoma	Teratoma
+Any cancer/Solid tumor/Testicular Cancer/Non-Seminomatous Germ Cell Tumor/Yolk Sac Tumor	Yolk Sac Tumor
+Any cancer/Solid tumor/Testicular Cancer/Seminoma	Seminoma
+Any cancer/Solid tumor/Testicular Cancer/Sex Cord Stromal Tumor	Sex Cord Stromal Tumor
+Any cancer/Solid tumor/Testicular Cancer	Testicular Cancer
+Any cancer/Solid tumor/Testicular Cancer/Testicular Lymphoma	Testicular Lymphoma
+Any cancer/Solid tumor/Testicular Cancer/Testicular Mesothelioma	Testicular Mesothelioma
+Any cancer/Solid tumor/Thymic Cancer	Thymic Cancer
+Any cancer/Solid tumor/Thymic Cancer/Thymic Epithelial Tumor/Thymic Carcinoma	Thymic Carcinoma
+Any cancer/Solid tumor/Thymic Cancer/Thymic Epithelial Tumor	Thymic Epithelial Tumor
+Any cancer/Solid tumor/Thymic Cancer/Thymic Epithelial Tumor/Thymoma	Thymoma
+Any cancer/Solid tumor/Thymic Cancer/Thymic Neuroendocrine Tumor	Thymic Neuroendocrine Tumor
+Any cancer/Solid tumor/Thyroid Cancer/Anaplastic Thyroid Cancer	Anaplastic Thyroid Cancer
+Any cancer/Solid tumor/Thyroid Cancer/Hurthle Cell Thyroid Cancer	Hurthle Cell Thyroid Cancer
+Any cancer/Solid tumor/Thyroid Cancer/Hyalinizing Trabecular Adenoma of the Thyroid	Hyalinizing Trabecular Adenoma of the Thyroid
+Any cancer/Solid tumor/Thyroid Cancer/Medullary Thyroid Cancer	Medullary Thyroid Cancer
+Any cancer/Solid tumor/Thyroid Cancer/Oncocytic Adenoma of the Thyroid	Oncocytic Adenoma of the Thyroid
+Any cancer/Solid tumor/Thyroid Cancer/Poorly Differentiated Thyroid Cancer	Poorly Differentiated Thyroid Cancer
+Any cancer/Solid tumor/Thyroid Cancer	Thyroid Cancer
+Any cancer/Solid tumor/Thyroid Cancer/Well-Differentiated Thyroid Cancer/Follicular Thyroid Cancer	Follicular Thyroid Cancer
+Any cancer/Solid tumor/Thyroid Cancer/Well-Differentiated Thyroid Cancer/Papillary Thyroid Cancer	Papillary Thyroid Cancer
+Any cancer/Solid tumor/Thyroid Cancer/Well-Differentiated Thyroid Cancer	Well-Differentiated Thyroid Cancer
+Any cancer/Solid tumor/Uterine Cancer/Endometrial Carcinoma	Endometrial Carcinoma
+Any cancer/Solid tumor/Uterine Cancer/Endometrial Carcinoma/Poorly Differentiated Carcinoma of the Uterus	Poorly Differentiated Carcinoma of the Uterus
+Any cancer/Solid tumor/Uterine Cancer/Endometrial Carcinoma/Uterine Adenosquamous Carcinoma	Uterine Adenosquamous Carcinoma
+Any cancer/Solid tumor/Uterine Cancer/Endometrial Carcinoma/Uterine Carcinosarcoma	Uterine Carcinosarcoma
+Any cancer/Solid tumor/Uterine Cancer/Endometrial Carcinoma/Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor	Uterine Malignant Mixed Mullerian Tumor
+Any cancer/Solid tumor/Uterine Cancer/Endometrial Carcinoma/Uterine Clear Cell Carcinoma	Uterine Clear Cell Carcinoma
+Any cancer/Solid tumor/Uterine Cancer/Endometrial Carcinoma/Uterine Dedifferentiated Carcinoma	Uterine Dedifferentiated Carcinoma
+Any cancer/Solid tumor/Uterine Cancer/Endometrial Carcinoma/Uterine Endometrioid Carcinoma	Uterine Endometrioid Carcinoma
+Any cancer/Solid tumor/Uterine Cancer/Endometrial Carcinoma/Uterine Mesonephric Carcinoma	Uterine Mesonephric Carcinoma
+Any cancer/Solid tumor/Uterine Cancer/Endometrial Carcinoma/Uterine Mixed Endometrial Carcinoma	Uterine Mixed Endometrial Carcinoma
+Any cancer/Solid tumor/Uterine Cancer/Endometrial Carcinoma/Uterine Mucinous Carcinoma	Uterine Mucinous Carcinoma
+Any cancer/Solid tumor/Uterine Cancer/Endometrial Carcinoma/Uterine Neuroendocrine Carcinoma	Uterine Neuroendocrine Carcinoma
+Any cancer/Solid tumor/Uterine Cancer/Endometrial Carcinoma/Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma	Uterine Papillary Serous Carcinoma
+Any cancer/Solid tumor/Uterine Cancer/Endometrial Carcinoma/Uterine Serous Carcinoma	Uterine Serous Carcinoma
+Any cancer/Solid tumor/Uterine Cancer/Endometrial Carcinoma/Uterine Undifferentiated Carcinoma	Uterine Undifferentiated Carcinoma
+Any cancer/Solid tumor/Uterine Cancer/Gestational Trophoblastic Disease/Choriocarcinoma	Choriocarcinoma
+Any cancer/Solid tumor/Uterine Cancer/Gestational Trophoblastic Disease/Epithelioid Trophoblastic Tumor	Epithelioid Trophoblastic Tumor
+Any cancer/Solid tumor/Uterine Cancer/Gestational Trophoblastic Disease	Gestational Trophoblastic Disease
+Any cancer/Solid tumor/Uterine Cancer/Gestational Trophoblastic Disease/Molar Pregnancy/Complete Hydatidiform Mole	Complete Hydatidiform Mole
+Any cancer/Solid tumor/Uterine Cancer/Gestational Trophoblastic Disease/Molar Pregnancy/Invasive Hydatidiform Mole	Invasive Hydatidiform Mole
+Any cancer/Solid tumor/Uterine Cancer/Gestational Trophoblastic Disease/Molar Pregnancy	Molar Pregnancy
+Any cancer/Solid tumor/Uterine Cancer/Gestational Trophoblastic Disease/Molar Pregnancy/Partial Hydatidiform Mole	Partial Hydatidiform Mole
+Any cancer/Solid tumor/Uterine Cancer/Gestational Trophoblastic Disease/Placental Site Trophoblastic Tumor	Placental Site Trophoblastic Tumor
+Any cancer/Solid tumor/Uterine Cancer/Other Uterine Tumor	Other Uterine Tumor
+Any cancer/Solid tumor/Uterine Cancer	Uterine Cancer
+Any cancer/Solid tumor/Uterine Cancer/Uterine Sarcoma/Mesenchymal/Endometrial Stromal Sarcoma	Endometrial Stromal Sarcoma
+Any cancer/Solid tumor/Uterine Cancer/Uterine Sarcoma/Mesenchymal/Endometrial Stromal Sarcoma/High-Grade Endometrial Stromal Sarcoma	High-Grade Endometrial Stromal Sarcoma
+Any cancer/Solid tumor/Uterine Cancer/Uterine Sarcoma/Mesenchymal/Endometrial Stromal Sarcoma/Low-Grade Endometrial Stromal Sarcoma	Low-Grade Endometrial Stromal Sarcoma
+Any cancer/Solid tumor/Uterine Cancer/Uterine Sarcoma/Mesenchymal	Mesenchymal
+Any cancer/Solid tumor/Uterine Cancer/Uterine Sarcoma/Mesenchymal/Undifferentiated Uterine Sarcoma	Undifferentiated Uterine Sarcoma
+Any cancer/Solid tumor/Uterine Cancer/Uterine Sarcoma/Mesenchymal/Uterine Adenosarcoma	Uterine Adenosarcoma
+Any cancer/Solid tumor/Uterine Cancer/Uterine Sarcoma/Mesenchymal/Uterine Perivascular Epithelioid Cell Tumor	Uterine Perivascular Epithelioid Cell Tumor
+Any cancer/Solid tumor/Uterine Cancer/Uterine Sarcoma/Mesenchymal/Uterine Sarcoma, Other	Uterine Sarcoma, Other
+Any cancer/Solid tumor/Uterine Cancer/Uterine Sarcoma/Mesenchymal/Uterine Smooth Muscle Tumor/Uterine Epithelioid Leiomyosarcoma	Uterine Epithelioid Leiomyosarcoma
+Any cancer/Solid tumor/Uterine Cancer/Uterine Sarcoma/Mesenchymal/Uterine Smooth Muscle Tumor/Uterine Leiomyoma	Uterine Leiomyoma
+Any cancer/Solid tumor/Uterine Cancer/Uterine Sarcoma/Mesenchymal/Uterine Smooth Muscle Tumor/Uterine Leiomyosarcoma	Uterine Leiomyosarcoma
+Any cancer/Solid tumor/Uterine Cancer/Uterine Sarcoma/Mesenchymal/Uterine Smooth Muscle Tumor/Uterine Myxoid Leiomyosarcoma	Uterine Myxoid Leiomyosarcoma
+Any cancer/Solid tumor/Uterine Cancer/Uterine Sarcoma/Mesenchymal/Uterine Smooth Muscle Tumor	Uterine Smooth Muscle Tumor
+Any cancer/Solid tumor/Uterine Cancer/Uterine Sarcoma/Mesenchymal/Uterine Smooth Muscle Tumor/Uterine Smooth Muscle Tumor of Uncertain Malignant Potential	Uterine Smooth Muscle Tumor of Uncertain Malignant Potential
+Any cancer/Solid tumor/Uterine Cancer/Uterine Sarcoma	Uterine Sarcoma
+Any cancer/Solid tumor/Vulvar-Vaginal Cancer/Germ Cell Tumor of the Vulva/Dysgerminoma	Dysgerminoma
+Any cancer/Solid tumor/Vulvar-Vaginal Cancer/Germ Cell Tumor of the Vulva/Embryonal Carcinoma	Embryonal Carcinoma
+Any cancer/Solid tumor/Vulvar-Vaginal Cancer/Germ Cell Tumor of the Vulva	Germ Cell Tumor of the Vulva
+Any cancer/Solid tumor/Vulvar-Vaginal Cancer/Germ Cell Tumor of the Vulva/Immature Teratoma	Immature Teratoma
+Any cancer/Solid tumor/Vulvar-Vaginal Cancer/Germ Cell Tumor of the Vulva/Mature Teratoma	Mature Teratoma
+Any cancer/Solid tumor/Vulvar-Vaginal Cancer/Germ Cell Tumor of the Vulva/Mixed Germ Cell Tumor	Mixed Germ Cell Tumor
+Any cancer/Solid tumor/Vulvar-Vaginal Cancer/Germ Cell Tumor of the Vulva/Polyembryoma	Polyembryoma
+Any cancer/Solid tumor/Vulvar-Vaginal Cancer/Germ Cell Tumor of the Vulva/Yolk Sac Tumor	Yolk Sac Tumor
+Any cancer/Solid tumor/Vulvar-Vaginal Cancer/Mucinous Adenocarcinoma of the Vulva	Mucinous Adenocarcinoma of the Vulva
+Any cancer/Solid tumor/Vulvar-Vaginal Cancer/Mucinous Adenocarcinoma of the Vulva/Vagina	Vagina
+Any cancer/Solid tumor/Vulvar-Vaginal Cancer/Mucosal Melanoma of the Vulva	Mucosal Melanoma of the Vulva
+Any cancer/Solid tumor/Vulvar-Vaginal Cancer/Mucosal Melanoma of the Vulva/Vagina	Vagina
+Any cancer/Solid tumor/Vulvar-Vaginal Cancer/Poorly Differentiated Vaginal Carcinoma	Poorly Differentiated Vaginal Carcinoma
+Any cancer/Solid tumor/Vulvar-Vaginal Cancer/Squamous Cell Carcinoma of the Vulva	Squamous Cell Carcinoma of the Vulva
+Any cancer/Solid tumor/Vulvar-Vaginal Cancer/Squamous Cell Carcinoma of the Vulva/Vagina	Vagina
+Any cancer/Solid tumor/Vulvar-Vaginal Cancer/Vaginal Adenocarcinoma	Vaginal Adenocarcinoma
+Any cancer/Solid tumor/Vulvar-Vaginal Cancer	Vulvar-Vaginal Cancer

@@ -1,0 +1,32 @@
+#Run on ubuntu bash terminal
+sudo apt install libxml2-dev
+sudo pip3 install nltk
+sudo pip3 install fuzzywuzzy
+
+#Run on python terminal
+python
+import nltk
+nltk.download('stopwords')
+nltk.download('punkt')
+
+#Run on R terminal
+R
+install.packages('rmarkdown')
+install.packages('devtools')
+library(devtools)
+devtools::install_github("r-lib/xml2")
+install.packages("kableExtra")
+install.packages("htmlTable")
+
+#Run on ubuntu bash terminal (modify as per the paths of the systems)
+#In_Dir="/mnt/e/My_Work/ClinOme_WaterHose/TechTransfer_4baseCare/ClinOme_4baseCare/"
+#VCF_file="EA256_S1_all.vcf"
+#sample="EA256"
+#cancer_query="Lung adenocarcinoma"
+#ref_dir="../reference"
+#reference=$ref_dir/reference.fasta
+
+#If running the downstream to VCF script, also modify following files. These files are generated automatically by the upstream code of ClinOme so they need to be modified as per the input sample in user want to run the downstream script only.
+#markdown/gene.csv - inlcudes genewise coverage for all target genes.
+#markdown/overall_coverage.csv - inlcudes overall coverage for the sample.
+#markdown/sample_info.csv - inlcudes sample_id and cancer_type information.
